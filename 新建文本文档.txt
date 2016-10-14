@@ -1,56 +1,24 @@
-dest root /
-dest ram /tmp
-lists_dir ext /var/opkg-lists
-option overlay_root /overlay
-option check_signature 1
-
-
-https://github.com/loyingEcu/Test.git
-0 */4 * * * /sbin/restart_adbyby
-0 */4 * * * /sbin/restart_chinadns
-
-0 */3 * * * echo 3 > /proc/sys/vm/drop_caches
-50 1 * * * sleep 70 && touch /etc/banner && reboot
-http://style.taocdn.org/?fromuser=Ecu
-
-echo 3 > /proc/sys/vm/drop_caches
-
-src/gz reboot_core http://downloads.lede-project.org/snapshots/targets/ramips/mt7620/packages
-src/gz reboot_base http://downloads.lede-project.org/snapshots/packages/mipsel_24kc/base
-src/gz reboot_telephony http://downloads.lede-project.org/snapshots/packages/mipsel_24kc/telephony
-src/gz reboot_packages http://downloads.lede-project.org/snapshots/packages/mipsel_24kc/packages
-src/gz reboot_routing http://downloads.lede-project.org/snapshots/packages/mipsel_24kc/routing
-src/gz reboot_luci http://downloads.lede-project.org/snapshots/packages/mipsel_24kc/luci
-
-
-#no-dhcp-interface=pppoe-wan
-F0:1B:6C:2B:E2:34
-9C:A5:C0:45:FE:1E
-20:82:C0:19:8E:2B
-88:6A:B1:2F:D7:88
-2E:83:1F:C9:B6:3B
-88:6a:b1:1d:04:c8
-
-
-F01B6C2BE234
-9CA5C045FE1E
-2082C0198E2B
-886AB12FD788
-2E831FC9B63B
-886ab11d04c8
-
-
---force-depends
-
-*/120 * * * * sleep 90 && touch /etc/banner && reboot
-
-arch all 100
-arch ralink 200
-arch ramips 300
-arch ramips_24kec 400
-src/gz 14.09_base http://downloads.openwrt.org.cn/PandoraBox/ralink/packages/base/
-src/gz 14.09_telephony http://downloads.openwrt.org.cn/PandoraBox/ralink/packages/telephony/
-src/gz 14.09_packages http://downloads.openwrt.org.cn/PandoraBox/ralink/packages/packages/
-src/gz 14.09_routing http://downloads.openwrt.org.cn/PandoraBox/ralink/packages/routing/
-src/gz 14.09_management http://downloads.openwrt.org.cn/PandoraBox/ralink/packages/management/
-src/gz 14.09_oldpackages http://downloads.openwrt.org.cn/PandoraBox/ralink/packages/oldpackages/
+qzone.qq.com##div#QM_Container_11.collet_box.fn_paipai
+xiaodao.la##p>a[href^="http"]
+52pojie.cn##div.pct>div.a_pt
+zdfans.com##span[style="margin:0px 0px 0px 244px;font-size:16px;font-weight:bold"]
+zdfans.com##ins[style="display:inline-block;padding:0;margin:0;width:300px;height:250px;*zoom:1;*display:inline; position:relative;"]
+m.downcc.com##section[class="xihuan"]
+m.muzisoft.com##div[class="sixbox"]
+m.muzisoft.com##div>a[href^="http://ggg.9ht.com/sc/muzi/"]
+tieba.baidu.com##div[class="bottom-wonderful-recommend"]
+ithome.com##div[class="related_buy"]
+ithome.com##div[class="shareto"]
+ithome.com##adownapp.down_app
+ithome.com##div[id="tt50"]
+zhidao.baidu.com##div[class$="-ads"]
+zhidao.baidu.com##div[class="wrapper"]>div:nth-child(2)
+zhidao.baidu.com##div[class="w-question-box"]>div:nth-child(3)
+||taoy9.com##a>img[src^="/data/"]
+||taoy9.com##a>img[src^="/img/"]
+||taoy9.com##div[id="diynavtop"]
+||taocdn.org##a>img[src^="/img/"]
+||taocdn.org##a>img[src^="/data/"]
+lang56.com##div[style="text-align:center;"],a[href^="http://vip.youir.com"],li>a[href^="http://"]
+lang56.com##div[class="tbgg"]>div.floatAd.frAd
+lang56.com##div[class="tbgg"]>div.floatAd.flAd
