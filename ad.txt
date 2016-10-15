@@ -1,3 +1,7 @@
+!20161015
+!https
+nap6.com##a[href="https://shop109827630.taobao.com"]
+nap6.com##div[class="wp a_t"]
 #QQ空间
 qzone.qq.com##div#QM_Container_11.collet_box.fn_paipai
 xiaodao.la##p>a[href^="http"]
