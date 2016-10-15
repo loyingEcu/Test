@@ -30,5 +30,5 @@ lang56.com##div[style="text-align:center;"],a[href^="http://vip.youir.com"],li>a
 lang56.com##div[class="tbgg"]>div.floatAd.frAd
 lang56.com##div[class="tbgg"]>div.floatAd.flAd
 #绿软分享吧
-lrshare.com##a>img[src^="http://ww2.sinaimg.cn/large/']
+lrshare.com##a>img[src^="http://ww2.sinaimg.cn/large/"]
 lrshare.com##a>img[src^="https://adman.henghost.com/data/"]
