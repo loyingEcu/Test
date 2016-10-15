@@ -29,3 +29,6 @@ zhidao.baidu.com##div[class="w-question-box"]>div:nth-child(3)
 lang56.com##div[style="text-align:center;"],a[href^="http://vip.youir.com"],li>a[href^="http://"]
 lang56.com##div[class="tbgg"]>div.floatAd.frAd
 lang56.com##div[class="tbgg"]>div.floatAd.flAd
+#绿软分享吧
+lrshare.com##a>img[src^="http://ww2.sinaimg.cn/large/']
+lrshare.com##a>img[src^="https://adman.henghost.com/data/"]
