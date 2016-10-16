@@ -20,7 +20,7 @@ ithome.com##div[class="related_buy"]
 ithome.com##div[class="shareto"]
 ithome.com##adownapp.down_app
 ithome.com##div[id="tt50"]
-!度知道手机版
+!百度知道mobile
 zhidao.baidu.com##div[class$="-ads"]
 zhidao.baidu.com##div[class="wrapper"]>div:nth-child(2)
 zhidao.baidu.com##div[class="w-question-box"]>div:nth-child(3)
