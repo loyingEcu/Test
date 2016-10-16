@@ -39,3 +39,5 @@ lang56.com##div[class="tbgg"]>div.floatAd.flAd
 !绿软分享吧
 lrshare.com##a>img[src^="http://ww2.sinaimg.cn/large/"]
 lrshare.com##a>img[src^="https://adman.henghost.com/data/"]
+!。。。。
+|http://ww2.sinaimg.cn/large/dd602f03jw1f766u7klhmj209y06qdhi.jpg$domain=lrshare.com
