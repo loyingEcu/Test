@@ -11,16 +11,17 @@ xiaodao.la##p>a[href^="http"]
 zdfans.com##span[style="margin:0px 0px 0px 244px;font-size:16px;font-weight:bold"]
 zdfans.com##ins[style="display:inline-block;padding:0;margin:0;width:300px;height:250px;*zoom:1;*display:inline; position:relative;"]
 !手机下载站广告
+3g.tompda.com##a>img[src^="http://images.tompda.com/download/ad"]
 m.downcc.com##section[class="xihuan"]
 m.muzisoft.com##div[class="sixbox"]
 m.muzisoft.com##div>a[href^="http://ggg.9ht.com/sc/muzi/"]
-tieba.baidu.com##div[class="bottom-wonderful-recommend"]
 !IT之家
 ithome.com##div[class="related_buy"]
 ithome.com##div[class="shareto"]
 ithome.com##adownapp.down_app
 ithome.com##div[id="tt50"]
-!百度知道mobile
+!百度mobile
+tieba.baidu.com##div[class="bottom-wonderful-recommend"]
 zhidao.baidu.com##div[class$="-ads"]
 zhidao.baidu.com##div[class="wrapper"]>div:nth-child(2)
 zhidao.baidu.com##div[class="w-question-box"]>div:nth-child(3)
