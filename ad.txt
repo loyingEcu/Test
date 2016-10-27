@@ -44,3 +44,5 @@ lrshare.com##a>img[src^="http://ww2.sinaimg.cn/large/"]
 lrshare.com##a>img[src^="https://adman.henghost.com/data/"]
 !。。。。
 |http://ww2.sinaimg.cn/large/dd602f03jw1f766u7klhmj209y06qdhi.jpg$domain=lrshare.com
+!天天美剧
+ttmeiju.com##img[width="960px"][height="107px"],img[width="960px"][height="100px"],div[class="content2"]
