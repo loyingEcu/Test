@@ -44,3 +44,4 @@ ttmeiju.com##img[width="960px"][height="107px"],img[width="960px"][height="100px
 |http://$script,domain=vip.mrabit.com
 |http://www.xiuba33.com/thankyou/smart.html$domain=wys.tw
 wys.tw##img[src="/images/adse.gif"]
+user.qzone.qq.com##div[class$="-ad"]
