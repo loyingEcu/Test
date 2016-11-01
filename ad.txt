@@ -45,3 +45,4 @@ ttmeiju.com##img[width="960px"][height="107px"],img[width="960px"][height="100px
 |http://www.xiuba33.com/thankyou/smart.html$domain=wys.tw
 wys.tw##img[src="/images/adse.gif"]
 user.qzone.qq.com##div[class$="-ad"]
+www.laozuo.org##div[class$="ads"],div[class^="s_ad"],div[class="postrating"],div[style="float:right;width:125px;margin-top:-128px"]
