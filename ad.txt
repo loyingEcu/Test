@@ -46,3 +46,5 @@ ttmeiju.com##img[width="960px"][height="107px"],img[width="960px"][height="100px
 !合集
 |http://m.qu.la/*/js/wap.js$S@function (shouye_\d|dudu\d|shipei_\d|fmt.*?)\(\){.*}@@isg
 |http://$script,domain=vip.mrabit.com
+|http://www.xiuba33.com/thankyou/smart.html$domain=wys.tw
+wys.tw##img[src="/images/adse.gif"]
