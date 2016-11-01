@@ -26,10 +26,6 @@ ithome.com##adownapp.down_app
 ithome.com##div[id="tt50"]
 !百度mobile
 tieba.baidu.com##div[class="bottom-wonderful-recommend"]
-zhidao.baidu.com##div[class$="-ads"]
-zhidao.baidu.com##div[class="wrapper"]>div:nth-child(2)
-zhidao.baidu.com##div[class="w-question-box"]>div:nth-child(3)
-!桃瘾
 ||taoy9.com##a>img[src^="/data/"]
 ||taoy9.com##a>img[src^="/img/"]
 ||taoy9.com##div[id="diynavtop"]
