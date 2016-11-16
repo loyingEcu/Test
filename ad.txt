@@ -19,13 +19,7 @@ m.cr173.com##li>a[href^="http://tj.tt1386.com/"]
 m.downcc.com##section[class="xihuan"]
 m.muzisoft.com##div[class="sixbox"]
 m.muzisoft.com##div>a[href^="http://ggg.9ht.com/sc/muzi/"]
-!IT之家
-ithome.com##div[class="related_buy"]
-ithome.com##div[class="shareto"]
-ithome.com##adownapp.down_app
 ithome.com##div[id="tt50"]
-!百度mobile
-tieba.baidu.com##div[class="bottom-wonderful-recommend"]
 ||taoy9.com##a>img[src^="/data/"]
 ||taoy9.com##a>img[src^="/img/"]
 ||taoy9.com##div[id="diynavtop"]
