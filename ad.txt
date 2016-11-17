@@ -45,3 +45,4 @@ wys.tw##img[src="/images/adse.gif"]
 user.qzone.qq.com##div[class$="-ad"]
 www.laozuo.org##div[class$="ads"],div[class^="s_ad"],div[class="postrating"],div[style="float:right;width:125px;margin-top:-128px"]
 ||http://ww4.sinaimg.cn/mw690/006i0fpKgw1f8r0fbw5nhj30hs046dhc.jpg$domain=m.vipcn.com
+|http://tu.jstztk.com:8081/z/s.js
