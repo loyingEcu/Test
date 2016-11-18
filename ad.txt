@@ -47,3 +47,4 @@ www.laozuo.org##div[class$="ads"],div[class^="s_ad"],div[class="postrating"],div
 ||http://ww4.sinaimg.cn/mw690/006i0fpKgw1f8r0fbw5nhj30hs046dhc.jpg$domain=m.vipcn.com
 |http://tu.jstztk.com:8081/z/s.js
 |http://static.497.com/pc/*/*.js
+|http://s.80s.tw/js/cai.js
