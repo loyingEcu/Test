@@ -48,3 +48,4 @@ www.laozuo.org##div[class$="ads"],div[class^="s_ad"],div[class="postrating"],div
 |http://tu.jstztk.com:8081/z/s.js
 |http://static.497.com/pc/*/*.js
 ||80s.tw/js/cai.js
+|http://www.962.net/show/down_center.js
