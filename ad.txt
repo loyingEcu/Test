@@ -51,3 +51,4 @@ www.laozuo.org##div[class$="ads"],div[class^="s_ad"],div[class="postrating"],div
 |http://www.962.net/show/down_center.js
 autohome.com.cn##div[class="grid-4 margincol"],span[class="hotcar-mallnav"],div[class="hotcar-advbar"]
 autohome.com.cn##div[class^="ad"],div.monkey__icon,i.monkey__iconmini,div[class="row pa-b20"]
+|http://js453.zhudiaosz.com:8080/s/*
