@@ -52,3 +52,4 @@ autohome.com.cn##div[class="grid-4 margincol"],span[class="hotcar-mallnav"],div[
 autohome.com.cn##div[class^="ad"],div.monkey__icon,i.monkey__iconmini,div[class="row pa-b20"]
 |http://js453.zhudiaosz.com:8080/s/*
 |http://www.ouyaoxiazai.com/pc/js/daohang.js
+ouyaoxiazai.com##div[class^="ad"]
