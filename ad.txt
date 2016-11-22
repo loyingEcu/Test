@@ -54,3 +54,5 @@ autohome.com.cn##div[class^="ad"],div.monkey__icon,i.monkey__iconmini,div[class=
 |http://www.ouyaoxiazai.com/pc/js/daohang.js
 ouyaoxiazai.com##div[class^="ad"]
 |http://b.weibcn.com/sackop.php?id=
+xiaodao.la##td[style="text-align:center;"]
+xiaodao.la##img[src^="/adimg/"]
