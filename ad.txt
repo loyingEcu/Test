@@ -59,4 +59,6 @@ xiaodao.la##img[src^="/adimg/"]
 qzone.la##div[class^="ad"]
 |http://www.qzone.la/$s@<script>InfoRight1();</script>@@
 |http://www.qzone.la/$s@<script>InfoTop();</script>@@
+|http://www.qqtouxiang.com/skin/js/global.js$S@function brand\d\(\)( )*{.*?}@@sig
 popoho.com$s@<script>pph_ad_1();</script>@@
+
