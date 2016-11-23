@@ -60,5 +60,6 @@ qzone.la##div[class^="ad"]
 |http://www.qzone.la/$s@<script>InfoRight1();</script>@@
 |http://www.qzone.la/$s@<script>InfoTop();</script>@@
 |http://www.qqtouxiang.com/skin/js/global.js$S@function brand\d\(\)( )*{.*?}@@sig
+|http://www.onegreen.net/MyFile/QQ_left*.js
 popoho.com$s@<script>pph_ad_1();</script>@@
 
