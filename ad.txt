@@ -56,3 +56,4 @@ ouyaoxiazai.com##div[class^="ad"]
 |http://b.weibcn.com/sackop.php?id=
 xiaodao.la##td[style="text-align:center;"]
 xiaodao.la##img[src^="/adimg/"]
+qzone.la##div[class^="ad"]
