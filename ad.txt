@@ -57,3 +57,5 @@ ouyaoxiazai.com##div[class^="ad"]
 xiaodao.la##td[style="text-align:center;"]
 xiaodao.la##img[src^="/adimg/"]
 qzone.la##div[class^="ad"]
+|http://www.qzone.la/$s@<script>InfoRight1();</script>@@
+|http://www.qzone.la/$s@<script>InfoTop();</script>@@
