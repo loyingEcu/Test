@@ -59,3 +59,4 @@ xiaodao.la##img[src^="/adimg/"]
 qzone.la##div[class^="ad"]
 |http://www.qzone.la/$s@<script>InfoRight1();</script>@@
 |http://www.qzone.la/$s@<script>InfoTop();</script>@@
+popoho.com$s@<script>pph_ad_1();</script>@@
