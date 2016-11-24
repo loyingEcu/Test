@@ -62,4 +62,4 @@ qzone.la##div[class^="ad"]
 |http://www.qqtouxiang.com/skin/js/global.js$S@function brand\d\(\)( )*{.*?}@@sig
 |http://www.onegreen.net/MyFile/QQ_left*.js
 popoho.com$s@<script>pph_ad_1();</script>@@
-
+tadu.com##a[href="javascript:;"]
