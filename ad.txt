@@ -64,3 +64,5 @@ qzone.la##div[class^="ad"]
 popoho.com$s@<script>pph_ad_1();</script>@@
 tadu.com##a[href="javascript:;"]
 fangfang.cc$s@<script>showbox("head")</script>@@
+|http://js.jianbaimei.com/js/dlwz-zsj
+|http://js.jianbaimei.com/inc/s.php?s
