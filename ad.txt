@@ -66,3 +66,4 @@ tadu.com##a[href="javascript:;"]
 fangfang.cc$s@<script>showbox("head")</script>@@
 |http://js.jianbaimei.com/js/dlwz-zsj
 |http://js.jianbaimei.com/inc/s.php?s
+|http://www.cilibaike.org/js/ac.js
