@@ -63,3 +63,4 @@ qzone.la##div[class^="ad"]
 |http://www.onegreen.net/MyFile/QQ_left*.js
 popoho.com$s@<script>pph_ad_1();</script>@@
 tadu.com##a[href="javascript:;"]
+fangfang.cc$s@<script>showbox("head")</script>@@
