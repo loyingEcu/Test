@@ -67,3 +67,4 @@ fangfang.cc$s@<script>showbox("head")</script>@@
 |http://js.jianbaimei.com/js/dlwz-zsj
 |http://js.jianbaimei.com/inc/s.php?s
 |http://www.cilibaike.org/js/ac.js
+|http://w.yunluge.com/appios_b.asp?pid=
