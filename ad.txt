@@ -73,3 +73,4 @@ wap.qqswzx.com##a[href^="http://www.tubuhw.com:88"]
 |http://www.hackhome.com/js/bhref.js
 hackhome.com##a[href^="http://down.s.qq.com/download"]
 |http://m.hackhome.com/js/topssp.js
+|http://m.cr173.com/*/show/info.js
