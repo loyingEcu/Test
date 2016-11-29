@@ -79,4 +79,4 @@ hackhome.com##a[href^="http://down.s.qq.com/download"]
 m.muzisoft.com$s@<script>ad*</script>@@
 m.muzisoft.com$s@<script>tj(*);</script>@@
 m.muzisoft.com$s@<script>tips()</script>@@
-
+|http://m.chinawmrc.com/wd.js
