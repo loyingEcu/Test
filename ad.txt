@@ -76,3 +76,7 @@ hackhome.com##a[href^="http://down.s.qq.com/download"]
 |http://m.cr173.com/*/show/info.js
 |http://a1.yyfensi.com/*.js
 |http://b17.shangc.net/*.js
+m.muzisoft.com$s@<script>ad*</script>@@
+m.muzisoft.com$s@<script>tj(*);</script>@@
+m.muzisoft.com$s@<script>tips()</script>@@
+
