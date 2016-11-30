@@ -32,7 +32,7 @@ lang56.com##div[class="tbgg"]>div.floatAd.flAd
 !绿软分享吧
 www.lrshare.com##div[class$="_ads"]
 !广告联盟
-||100fenlm.com
+||100fenlm.com/$third-party
 !天天美剧
 ttmeiju.com##img[width="960px"][height="107px"],img[width="960px"][height="100px"],div[class="content2"]
 !广告联盟
