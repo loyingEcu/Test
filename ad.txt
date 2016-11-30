@@ -80,3 +80,5 @@ m.muzisoft.com$s@<script>ad*</script>@@
 m.muzisoft.com$s@<script>tj(*);</script>@@
 m.muzisoft.com$s@<script>tips()</script>@@
 |http://m.chinawmrc.com/wd.js
+|http://m.86kx.com/templets/ad/*
+|http://a.shenchuang.com/*.js
