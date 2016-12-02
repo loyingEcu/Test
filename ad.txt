@@ -82,3 +82,7 @@ m.muzisoft.com$s@<script>tips()</script>@@
 |http://m.chinawmrc.com/wd.js
 |http://m.86kx.com/templets/ad/*
 |http://a.shenchuang.com/*.js
+|http://www.yqdown.com/js/top.js
+|http://www.yqdown.com/js/dright.js
+|http://m.yqdown.com/js/m_sd.js
+|http://m.yqdown.com/js/iscrollc.js
