@@ -86,3 +86,4 @@ m.muzisoft.com$s@<script>tips()</script>@@
 |http://www.yqdown.com/js/dright.js
 |http://m.yqdown.com/js/m_sd.js
 |http://m.yqdown.com/js/iscrollc.js
+|http://dm.sg92.com/*.js
