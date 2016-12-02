@@ -64,14 +64,15 @@ qzone.la##div[class^="ad"]
 popoho.com$s@<script>pph_ad_1();</script>@@
 tadu.com##a[href="javascript:;"]
 fangfang.cc$s@<script>showbox("head")</script>@@
-|http://js.jianbaimei.com/js/dlwz-zsj
-|http://js.jianbaimei.com/inc/s.php?s
 |http://www.cilibaike.org/js/ac.js
 |http://w.yunluge.com/appios_b.asp?pid=
 wap.qqswzx.com##a[href^="http://www.tubuhw.com:88"]
 |http://www.hackhome.com/js/dright.js
 |http://www.hackhome.com/js/bhref.js
 hackhome.com##a[href^="http://down.s.qq.com/download"]
+!移动端  ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+|http://js.jianbaimei.com/js/dlwz-zsj
+|http://js.jianbaimei.com/inc/s.php?s
 |http://m.hackhome.com/js/topssp.js
 |http://m.cr173.com/*/show/info.js
 |http://a1.yyfensi.com/*.js
@@ -88,3 +89,5 @@ m.muzisoft.com$s@<script>tips()</script>@@
 |http://m.yqdown.com/js/iscrollc.js
 |http://dm.sg92.com/*.js
 |http://a1.289.com/*.js
+|http://m.newasp.net/templates/default/js/*
+|http://zjs.zzad.com/ydljxf.js
