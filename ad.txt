@@ -97,3 +97,5 @@ m.anfensi.com$s@<script>f(0,*)</script>@@
 |http://img.anfensi.com/a/*
 |http://img.nsywb.com/material/*
 |http://static.yiwan.com/m/js/uc2.js
+|http://m.game333.net/aainset/360_forum.js
+m.game333.net##[style="width:100%;height:75px"]
