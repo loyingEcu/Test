@@ -96,3 +96,4 @@ m.anfensi.com$s@<script>a(*)</script>@@
 m.anfensi.com$s@<script>f(0,*)</script>@@
 |http://img.anfensi.com/a/*
 |http://img.nsywb.com/material/*
+|http://static.yiwan.com/m/js/uc2.js
