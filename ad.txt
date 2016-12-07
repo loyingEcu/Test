@@ -5,14 +5,14 @@ nap6.com##div[class="a_mu"]>a[href="https://shop109827630.taobao.com"]
 nap6.com##div[class="wp a_t"]
 nap6.com##img[src="uploads/nap/shop.png"]
 !——————————————————————————————————————————————————————————分割线
-#QQ空间
+#QQzone
 qzone.qq.com##div#QM_Container_11.collet_box.fn_paipai
 xiaodao.la##p>a[href^="http"]
 52pojie.cn##div.pct>div.a_pt
-!zd423广告
+!zd423
 zdfans.com##span[style="margin:0px 0px 0px 244px;font-size:16px;font-weight:bold"]
 zdfans.com##ins[style="display:inline-block;padding:0;margin:0;width:300px;height:250px;*zoom:1;*display:inline; position:relative;"]
-!手机下载站广告
+!mobile download
 m.yxdown.com##div[class="flex-viewport"]
 m.cr173.com##li>a[href^="http://tj.tt1386.com/"]
 3g.tompda.com##a>img[src^="http://images.tompda.com/download/ad"]
@@ -25,7 +25,7 @@ ithome.com##div[id="tt50"]
 ||taoy9.com##div[id="diynavtop"]
 ||taocdn.org##a>img[src^="/img/"]
 ||taocdn.org##a>img[src^="/data/"]
-!老司机网站
+!h
 lang56.com##div[style="text-align:center;"],a[href^="http://vip.youir.com"],li>a[href^="http://"]
 lang56.com##div[class="tbgg"]>div.floatAd.frAd
 lang56.com##div[class="tbgg"]>div.floatAd.flAd
