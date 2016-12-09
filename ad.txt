@@ -104,3 +104,4 @@ m.game333.net##[style="width:100%;height:75px"]
 |http://cp.jfcdns.com/*
 |http://www.5zdm.com/css/js/*
 |http://newyx.newyx.net/js/mobile_bottom.js?
+|http://m.mm131.com/css/wp.js
