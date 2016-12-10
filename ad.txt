@@ -71,7 +71,7 @@ wap.qqswzx.com##a[href^="http://www.tubuhw.com:88"]
 |http://www.hackhome.com/js/dright.js
 |http://www.hackhome.com/js/bhref.js
 hackhome.com##a[href^="http://down.s.qq.com/download"]
-!移动端下载站  ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+!移动端  ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 |http://js.jianbaimei.com/js/dlwz-zsj
 |http://js.jianbaimei.com/inc/s.php?s
 |http://m.hackhome.com/js/topssp.js
@@ -105,3 +105,4 @@ m.game333.net##[style="width:100%;height:75px"]
 |http://www.5zdm.com/css/js/*
 |http://newyx.newyx.net/js/mobile_bottom.js?
 |http://m.mm131.com/css/wp.js
+|http://m.kb20.cc/js/fumeiti.js
