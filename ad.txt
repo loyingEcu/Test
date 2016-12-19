@@ -38,6 +38,8 @@ ttmeiju.com##img[width="960px"][height="107px"],img[width="960px"][height="100px
 !广告联盟
 ||99youmeng.com/$third-party
 !合集
+gmz88.com$s@<script>aagetaa();</script>@@
+|http://www.gmz88.com/gmz88.js
 |http://www.qqjishu.cc/ezhanku/js/v2/common.js
 |http://m.qu.la/*/js/wap.js$S@function (shouye_\d|dudu\d|shipei_\d|fmt.*?)\(\){.*}@@isg
 |http://www.xiuba33.com/thankyou/smart.html$domain=wys.tw
