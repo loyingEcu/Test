@@ -116,3 +116,5 @@ m.game333.net##[style="width:100%;height:75px"]
 |http://pmp.adinall.com/diyitui_320_50_a.js
 ||js.18183.com/common/js/naruto.js
 |http://iaa.ez33.org.cn/2016/gp18.js
+|http://m.yoyou.com/kchtml/mobile_main.js
+|http://m.3gmfw.cn/js/wap/*
