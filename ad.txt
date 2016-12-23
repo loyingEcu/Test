@@ -123,3 +123,4 @@ m.game333.net##[style="width:100%;height:75px"]
 |http://b.fengyx.com
 |http://m.wanyx.com/Mobile/js/qian.js
 |http://m.v6399.com/static/mobilebluewhite/majs/gamercm.js
+||s.80sjw.com
