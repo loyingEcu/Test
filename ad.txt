@@ -39,6 +39,7 @@ ttmeiju.com##img[width="960px"][height="107px"],img[width="960px"][height="100px
 ||99youmeng.com/$third-party
 !合集
 gmz88.com$s@<script>aagetaa();</script>@@
+wap.ithome.com##div[id="ruanmei-apps"]
 ||91wangmeng.com/$third-party
 |http://www.gmz88.com/gmz88.js
 |http://www.qqjishu.cc/ezhanku/js/v2/common.js
