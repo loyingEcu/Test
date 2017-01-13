@@ -1,4 +1,4 @@
-#css
+!css
 xiaodao.la##p>a[href^="http"]
 52pojie.cn##div.pct>div.a_pt
 !mobile download
@@ -30,7 +30,7 @@ wap.ithome.com##div[id="ruanmei-apps"]
 ||91wangmeng.com/$third-party
 |http://www.gmz88.com/gmz88.js
 |http://www.qqjishu.cc/ezhanku/js/v2/common.js
-|http://m.qu.la/*/js/wap.js$S@function (shouye_\d|dudu\d|shipei_\d|fmt.*?)\(\){.*}@@isg
+!|http://m.qu.la/*/js/wap.js$S@function (shouye_\d|dudu\d|shipei_\d|fmt.*?)\(\){.*}@@isg
 |http://www.xiuba33.com/thankyou/smart.html$domain=wys.tw
 wys.tw##img[src="/images/adse.gif"]
 user.qzone.qq.com##div[class$="-ad"]
