@@ -1,4 +1,4 @@
-!--------------自己收集的网页端 浏览的网站不是很多
+!--------------自己收集的移动端 浏览的网站不是很多
 www.lrshare.com##div[class$="_ads"]
 !mobile download
 m.cr173.com##li>a[href^="http://tj.tt1386.com/"]
