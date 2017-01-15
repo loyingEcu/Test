@@ -1,30 +1,13 @@
-!css
-xiaodao.la##p>a[href^="http"]
-52pojie.cn##div.pct>div.a_pt
+!
+www.lrshare.com##div[class$="_ads"]
 !mobile download
 m.cr173.com##li>a[href^="http://tj.tt1386.com/"]
 3g.tompda.com##a>img[src^="http://images.tompda.com/download/ad"]
 m.downcc.com##section[class="xihuan"]
 m.muzisoft.com##div[class="sixbox"]
 m.muzisoft.com##div>a[href^="http://ggg.9ht.com/sc/muzi/"]
-||taoy9.com##a>img[src^="/data/"]
-||taoy9.com##a>img[src^="/img/"]
-||taoy9.com##div[id="diynavtop"]
-||taocdn.org##a>img[src^="/img/"]
-||taocdn.org##a>img[src^="/data/"]
-!h
-lang56.com##div[style="text-align:center;"],a[href^="http://vip.youir.com"],li>a[href^="http://"]
-lang56.com##div[class="tbgg"]>div.floatAd.frAd
-lang56.com##div[class="tbgg"]>div.floatAd.flAd
-!绿软分享吧
-www.lrshare.com##div[class$="_ads"]
-!广告联盟
 ||100fenlm.com/$third-party
-!天天美剧
-ttmeiju.com##img[width="960px"][height="107px"],img[width="960px"][height="100px"],div[class="content2"]
-!广告联盟
 ||99youmeng.com/$third-party
-!合集
 gmz88.com$s@<script>aagetaa();</script>@@
 wap.ithome.com##div[id="ruanmei-apps"]
 ||91wangmeng.com/$third-party
@@ -62,7 +45,6 @@ wap.qqswzx.com##a[href^="http://www.tubuhw.com:88"]
 |http://www.hackhome.com/js/dright.js
 |http://www.hackhome.com/js/bhref.js
 hackhome.com##a[href^="http://down.s.qq.com/download"]
-!移动端  ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 |http://js.jianbaimei.com/js/dlwz-zsj
 |http://js.jianbaimei.com/inc/s.php?s
 |http://m.hackhome.com/js/topssp.js
