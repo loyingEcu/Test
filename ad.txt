@@ -114,3 +114,4 @@ page2.dfpan.com##section[id^="ad"]
 page2.dfpan.com##div[style^="background:url"]
 m.kankanwu.com/js/*
 |http://www.jz5u.com/js/tl1.js
+||img.ithome.com/file/js/money/wap/content2.js
