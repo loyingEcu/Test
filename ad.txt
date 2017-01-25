@@ -116,4 +116,5 @@ m.kankanwu.com/js/*
 |http://www.jz5u.com/js/tl1.js
 ||img.ithome.com/file/js/money/wap/content2.js
 |http://www.gueizu.com/wap.php?$s@<script>;(function(){var d=*</script>@@
-|http://v.xiucm.com/v.asp?$s@document.write('*)()@@
+!|http://v.xiucm.com/v.asp?$s@document.write('*)()@@
+|http://m.quankan.tv/js/dibu.js$s@if?(/(iPhone|iPad|iPod|iOS)/i.test(navigator.userAgent))?{*}else{*}@@
