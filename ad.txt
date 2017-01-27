@@ -1,58 +1,38 @@
 !--------------自己收集的移动端 浏览的网站不是很多
 www.lrshare.com##div[class$="_ads"]
-!mobile download
-m.cr173.com##li>a[href^="http://tj.tt1386.com/"]
 3g.tompda.com##a>img[src^="http://images.tompda.com/download/ad"]
+popoho.com$s@<script>pph_ad_1();</script>@@
+tadu.com##a[href="javascript:;"]
+wap.qqswzx.com##a[href^="http://www.tubuhw.com:88"]
+hackhome.com##a[href^="http://down.s.qq.com/download"]
+m.game333.net##[style="width:100%;height:75px"]
+m.cr173.com##li>a[href^="http://tj.tt1386.com/"]
 m.downcc.com##section[class="xihuan"]
 m.muzisoft.com##div[class="sixbox"]
 m.muzisoft.com##div>a[href^="http://ggg.9ht.com/sc/muzi/"]
-||100fenlm.com/$third-party
-||99youmeng.com/$third-party
-gmz88.com$s@<script>aagetaa();</script>@@
-||91wangmeng.com/$third-party
-|http://www.gmz88.com/gmz88.js
-|http://www.qqjishu.cc/ezhanku/js/v2/common.js
-!|http://m.qu.la/*/js/wap.js$S@function (shouye_\d|dudu\d|shipei_\d|fmt.*?)\(\){.*}@@isg
-|http://www.xiuba33.com/thankyou/smart.html$domain=wys.tw
-wys.tw##img[src="/images/adse.gif"]
-|http://www.laozuo.org/wp-content/themes/weisaysimple/js/index-top.js
-www.laozuo.org##div[class$="ads"],div[class^="s_ad"],div[class="postrating"],div[style="float:right;width:125px;margin-top:-128px"]
-||http://ww4.sinaimg.cn/mw690/006i0fpKgw1f8r0fbw5nhj30hs046dhc.jpg$domain=m.vipcn.com
-|http://tu.jstztk.com:8081/z/s.js
-|http://static.497.com/pc/*/*.js
-||80s.tw/js/cai.js
-|http://www.962.net/show/down_center.js
-autohome.com.cn##div[class="grid-4 margincol"],span[class="hotcar-mallnav"],div[class="hotcar-advbar"]
-autohome.com.cn##div[class^="ad"],div.monkey__icon,i.monkey__iconmini,div[class="row pa-b20"]
-|http://js453.zhudiaosz.com:8080/s/*
-|http://www.ouyaoxiazai.com/pc/js/daohang.js
-ouyaoxiazai.com##div[class^="ad"]
-|http://b.weibcn.com/sackop.php?id=
-xiaodao.la##td[style="text-align:center;"]
-xiaodao.la##img[src^="/adimg/"]
-qzone.la##div[class^="ad"]
+m.muzisoft.com$s@<script>ad*</script>@@
+m.muzisoft.com$s@<script>tj(*);</script>@@
+m.muzisoft.com$s@<script>tips()</script>@@
+m.anfensi.com$s@<script>a(*)</script>@@
+m.anfensi.com$s@<script>f(0,*)</script>@@
+m.onlinedown.net##div[class$="AD"]
+page2.dfpan.com##section[id^="ad"]
+page2.dfpan.com##div[style^="background:url"]
+m.kankanwu.com/js/*
 |http://www.qzone.la/$s@<script>InfoRight1();</script>@@
 |http://www.qzone.la/$s@<script>InfoTop();</script>@@
 |http://www.qqtouxiang.com/skin/js/global.js$S@function brand\d\(\)( )*{.*?}@@sig
 |http://www.onegreen.net/MyFile/QQ_left*.js
-popoho.com$s@<script>pph_ad_1();</script>@@
-tadu.com##a[href="javascript:;"]
-fangfang.cc$s@<script>showbox("head")</script>@@
 |http://www.cilibaike.org/js/ac.js
 |http://w.yunluge.com/appios_b.asp?pid=
-wap.qqswzx.com##a[href^="http://www.tubuhw.com:88"]
 |http://www.hackhome.com/js/dright.js
 |http://www.hackhome.com/js/bhref.js
-hackhome.com##a[href^="http://down.s.qq.com/download"]
 |http://js.jianbaimei.com/js/dlwz-zsj
 |http://js.jianbaimei.com/inc/s.php?s
 |http://m.hackhome.com/js/topssp.js
 |http://m.cr173.com/*/show/info.js
 |http://a1.yyfensi.com/*.js
 |http://b17.shangc.net/*.js
-m.muzisoft.com$s@<script>ad*</script>@@
-m.muzisoft.com$s@<script>tj(*);</script>@@
-m.muzisoft.com$s@<script>tips()</script>@@
 |http://m.chinawmrc.com/wd.js
 |http://m.86kx.com/templets/ad/*
 |http://a.shenchuang.com/*.js
@@ -65,13 +45,10 @@ m.muzisoft.com$s@<script>tips()</script>@@
 |http://m.newasp.net/templates/default/js/*
 |http://zjs.zzad.com/ydljxf.js
 |http://m.99danji.com/kchtml/mobile_main.js
-m.anfensi.com$s@<script>a(*)</script>@@
-m.anfensi.com$s@<script>f(0,*)</script>@@
 |http://img.anfensi.com/a/*
 |http://img.nsywb.com/material/*
 |http://static.yiwan.com/m/js/uc2.js
 |http://m.game333.net/aainset/360_forum.js
-m.game333.net##[style="width:100%;height:75px"]
 |http://static.qqxzb.com/m/js/uc.js
 |http://cp.jfcdns.com/*
 |http://www.5zdm.com/css/js/*
@@ -93,8 +70,11 @@ m.game333.net##[style="width:100%;height:75px"]
 |http://b.fengyx.com
 |http://m.wanyx.com/Mobile/js/qian.js
 |http://m.v6399.com/static/mobilebluewhite/majs/gamercm.js
-||s.80sjw.com
 |http://www.nms8.net/static/*.js
+|http://www.jz5u.com/js/tl1.js
+|http://www.gueizu.com/wap.php?$s@<script>;(function(){var d=*</script>@@
+|http://m.quankan.tv/js/dibu.js$s@if?(/(iPhone|iPad|iPod|iOS)/i.test(navigator.userAgent))?{*}else{*}@@
+||s.80sjw.com
 ||yjbys.org
 ||dm.gzpinda.com
 ||js.jermr.com
@@ -113,12 +93,4 @@ m.game333.net##[style="width:100%;height:75px"]
 ||cp.jz5u.net
 ||baidu.jz5u.net
 ||sobt5.org/Public/static/js/*
-m.onlinedown.net##div[class$="AD"]
-page2.dfpan.com##section[id^="ad"]
-page2.dfpan.com##div[style^="background:url"]
-m.kankanwu.com/js/*
-|http://www.jz5u.com/js/tl1.js
 ||img.ithome.com/file/js/money/wap/content2.js
-|http://www.gueizu.com/wap.php?$s@<script>;(function(){var d=*</script>@@
-!|http://v.xiucm.com/v.asp?$s@document.write('*)()@@
-|http://m.quankan.tv/js/dibu.js$s@if?(/(iPhone|iPad|iPod|iOS)/i.test(navigator.userAgent))?{*}else{*}@@
