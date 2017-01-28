@@ -88,6 +88,8 @@ m.kankanwu.com/js/*
 ||s.iuuff.com
 ||1.win7china.com
 ||2.win7china.com
+||c.kxbeta.com
+||d.kxbeta.com
 ||show.5h.com
 ||a1.5h.com
 ||cp.jz5u.net
