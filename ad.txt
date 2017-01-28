@@ -69,6 +69,7 @@ m.kankanwu.com/js/*
 |http://a.fengyx.com
 |http://b.fengyx.com
 |http://m.wanyx.com/Mobile/js/qian.js
+|http://m.qxmuye.com/d/js/wap/*
 |http://m.v6399.com/static/mobilebluewhite/majs/gamercm.js
 |http://www.nms8.net/static/*.js
 |http://www.jz5u.com/js/tl1.js
