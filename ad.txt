@@ -1,5 +1,9 @@
 !--------------自己收集的移动端 浏览的网站不是很多
 www.lrshare.com##div[class$="_ads"]
+|http://*@*.exe
+|http://##a[href*="@"][href$="exe"]
+|https://##a[href*="@"][href$="exe"]
+xiaodao.la##img[src^="/adimg/"]
 3g.tompda.com##a>img[src^="http://images.tompda.com/download/ad"]
 popoho.com$s@<script>pph_ad_1();</script>@@
 tadu.com##a[href="javascript:;"]
