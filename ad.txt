@@ -25,6 +25,9 @@ m.onlinedown.net##div[class$="AD"]
 page2.dfpan.com##section[id^="ad"]
 page2.dfpan.com##div[style^="background:url"]
 m.kankanwu.com/js/*
+|http://66yp.cc/$s@<script>*</script>@@
+|http://66yp.cc/$s@<script type="text/javascript">;(function(O,*</script>@@
+|http://66yp.cc/$s@<td colspan="2"><script>;(function(*</script>@@
 |http://www.qzone.la/$s@<script>InfoRight1();</script>@@
 |http://www.qzone.la/$s@<script>InfoTop();</script>@@
 |http://www.qqtouxiang.com/skin/js/global.js$S@function brand\d\(\)( )*{.*?}@@sig
