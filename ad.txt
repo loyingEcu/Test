@@ -5,6 +5,8 @@ www.lrshare.com##div[class$="_ads"]
 |https://##a[href*="@"][href$="exe"]
 xiaodao.la##img[src^="/adimg/"]
 3g.tompda.com##a>img[src^="http://images.tompda.com/download/ad"]
+dfpan.com##div[style^="background:url(http://"]
+dfpan.com##section[id^="ad"]
 popoho.com$s@<script>pph_ad_1();</script>@@
 tadu.com##a[href="javascript:;"]
 wap.qqswzx.com##a[href^="http://www.tubuhw.com:88"]
