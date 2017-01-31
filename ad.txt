@@ -25,7 +25,11 @@ m.onlinedown.net##div[class$="AD"]
 page2.dfpan.com##section[id^="ad"]
 page2.dfpan.com##div[style^="background:url"]
 m.kankanwu.com/js/*
-|http://66yp.cc/$s@<script>*</script>@@
+|http://66yp.cc/$s@isWPhone = *> -1 ? true : false;@@
+|http://66yp.cc/$s@isPhone = *<550 ? true : false;@@
+|http://66yp.cc/$s@var ipad = *;@@
+|http://66yp.cc/$s@var ua = *;@@
+|http://66yp.cc/$s@if(!isIphone && !isAndroid && !isWPhone && !isPhone)?{*}@@
 |http://66yp.cc/$s@<script type="text/javascript">var cnzz_protocol =*</script>@@
 |http://66yp.cc/$s@<script type="text/javascript">;(function(O,*</script>@@
 |http://66yp.cc/$s@<td colspan="2"><script>;(function(*</script>@@
