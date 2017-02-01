@@ -110,6 +110,7 @@ m.kankanwu.com/js/*
 ||a1.5h.com
 ||cp.jz5u.net
 ||a1.fotao9.com
+||ss.ting55.com
 ||baidu.jz5u.net
 ||sobt5.org/Public/static/js/*
 ||img.ithome.com/file/js/money/wap/content2.js
