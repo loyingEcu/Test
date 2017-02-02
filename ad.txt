@@ -1,4 +1,5 @@
 !--------------自己收集的移动端 浏览的网站不是很多
+!-----------adm   adbyby 没问题
 www.lrshare.com##div[class$="_ads"]
 |http://*@*.exe
 |http://##a[href*="@"][href$="exe"]
