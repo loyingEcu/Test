@@ -74,6 +74,7 @@ m.kankanwu.com/js/*
 |http://m.kb20.cc/js/fumeiti.js
 |http://static.yxdown.com/m/js/uc.js
 |http://bai3.gushiwen.org/*.js
+|http://www.btsearchs.org/static/js/*D.js
 |http://m.xunbo14.com/template/m/imames/nr1.js
 |http://mimg.anruan.com/foot.js?
 |http://pmp.adinall.com/diyitui_320_50_a.js
