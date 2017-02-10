@@ -41,6 +41,7 @@ m.kankanwu.com/js/*
 |http://www.qzone.la/$s@<script>InfoTop();</script>@@
 |http://www.qqtouxiang.com/skin/js/global.js$S@function brand\d\(\)( )*{.*?}@@sig
 |http://www.onegreen.net/MyFile/QQ_left*.js
+|http://pic.zaizai8.com/wap/zaidibu.js
 |http://www.cilibaike.org/js/ac.js
 |http://w.yunluge.com/appios_b.asp?pid=
 |http://www.hackhome.com/js/dright.js
