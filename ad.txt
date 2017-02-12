@@ -39,6 +39,10 @@ m.kankanwu.com/js/*
 |http://d.rexuebi.com$script
 |http://www.qzone.la/$s@<script>InfoRight1();</script>@@
 |http://www.qzone.la/$s@<script>InfoTop();</script>@@
+|http://baidu.jz5u.net$script
+|http://a1.5h.com$script
+|http://ss.ting55.com$script
+|http://a1.fotao9.com$script
 |http://s.iroby.com$script
 |http://www.qqtouxiang.com/skin/js/global.js$S@function brand\d\(\)( )*{.*?}@@sig
 |http://www.onegreen.net/MyFile/QQ_left*.js
@@ -115,11 +119,7 @@ m.kankanwu.com/js/*
 ||c.kxbeta.com
 ||d.kxbeta.com
 ||show.5h.com
-||a1.5h.com
 ||cp.jz5u.net
-||a1.fotao9.com
-||ss.ting55.com
 ||csdn1718.jiejuefangan741.com
-||baidu.jz5u.net
 ||sobt5.org/Public/static/js/*
 ||img.ithome.com/file/js/money/wap/content2.js
