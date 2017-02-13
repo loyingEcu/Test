@@ -37,6 +37,11 @@ m.kankanwu.com/js/*
 |http://m.chenhuixs.net/js/hfz.js
 |http://m.chenhuixs.net/js/foot.js
 |http://d.rexuebi.com$script
+|http://shili.wanyx.com$script
+|http://t1.612.com$script
+|http://js.139y.com$script
+|http://m.aiskycn.com/app/game.js
+|http://m.aiskycn.com/show/info.js
 |http://www.qzone.la/$s@<script>InfoRight1();</script>@@
 |http://www.qzone.la/$s@<script>InfoTop();</script>@@
 |http://baidu.jz5u.net$script
