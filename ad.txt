@@ -90,6 +90,7 @@ m.kankanwu.com/js/*
 |http://m.xunbo14.com/template/m/imames/nr1.js
 |http://mimg.anruan.com/foot.js?
 |http://pmp.adinall.com/diyitui_320_50_a.js
+|http://m.9553.com/kchtml/*.js
 ||js.18183.com/common/js/naruto.js
 |http://ai.xwx5.com/*.js
 |http://iaa.ez33.org.cn/2016/gp18.js
