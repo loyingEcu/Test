@@ -22,6 +22,7 @@ m.muzisoft.com$s@<script>tj(*);</script>@@
 m.muzisoft.com$s@<script>tips()</script>@@
 m.anfensi.com$s@<script>a(*)</script>@@
 m.anfensi.com$s@<script>f(0,*)</script>@@
+m.bxwx9.org##div[class$="AD"]
 m.onlinedown.net##div[class$="AD"]
 page2.dfpan.com##section[id^="ad"]
 page2.dfpan.com##div[style^="background:url"]
