@@ -102,6 +102,7 @@ m.kankanwu.com/js/*
 |http://m.wanyx.com/Mobile/js/qian.js
 |http://m.qxmuye.com/d/js/wap/*
 |http://m.v6399.com/static/mobilebluewhite/majs/gamercm.js
+|http://m.80smp4.com$s@;(function(){var d=(/UCBrowser|QQBrowser/i@@
 |http://www.nms8.net/static/*.js
 |http://www.jz5u.com/js/tl1.js
 |http://www.qqguoji.com/qqguojigg/js/*
