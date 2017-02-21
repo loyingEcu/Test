@@ -114,6 +114,7 @@ m.kankanwu.com/js/*
 ||js.jermr.com
 ||dspmy.ge95.com
 ||js.1000dy.com
+||s.yylys.com
 ||vi1.mzy2014.com
 ||vi0.mzy2014.com
 ||dm.yjbys.org
