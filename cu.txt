@@ -40,6 +40,7 @@ m.kankanwu.com/js/*
 |http://m.chenhuixs.net/js/hfz.js
 |http://m.chenhuixs.net/js/foot.js
 |http://d.rexuebi.com$script
+|http://jiaoben.eastday.com$script
 |http://shili.wanyx.com$script
 |http://t1.612.com$script
 |http://1.770765.cn$script
