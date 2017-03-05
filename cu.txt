@@ -42,6 +42,8 @@ m.kankanwu.com/js/*
 |http://d.rexuebi.com$script
 |http://shili.wanyx.com$script
 |http://t1.612.com$script
+|http://1.770765.cn$script
+|http://*/ads/*$domain=v5.lol5s.com
 |http://js.139y.com$script
 |http://m.aiskycn.com/show/*
 |http://www.qzone.la/$s@<script>InfoRight1();</script>@@
