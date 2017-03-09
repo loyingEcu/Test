@@ -56,6 +56,7 @@ m.kankanwu.com/js/*
 |http://a1.fotao9.com$script
 |http://s.iroby.com$script
 |http://www.qqtouxiang.com/skin/js/global.js$S@function brand\d\(\)( )*{.*?}@@sig
+m.lishiquwen.com$s@<script>ad*</script>@@
 |http://www.onegreen.net/MyFile/QQ_left*.js
 |http://pic.zaizai8.com/wap/zaidibu.js
 |http://www.cilibaike.org/js/ac.js
@@ -135,3 +136,7 @@ m.kankanwu.com/js/*
 ||csdn1718.jiejuefangan741.com
 ||sobt5.org/Public/static/js/*
 ||img.ithome.com/file/js/money/wap/content2.js
+||s0.pstatp.com
+||lol5s.com/template/wusha/ads/*
+
+
