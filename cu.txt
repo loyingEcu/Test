@@ -28,6 +28,8 @@ m.onlinedown.net##div[class$="AD"]
 page2.dfpan.com##section[id^="ad"]
 page2.dfpan.com##div[style^="background:url"]
 m.kankanwu.com/js/*
+|http://scriptwap3.360doc.cn$script
+|http://1.yhzm.cc$script
 |http://66yp.cc/$s@isWPhone = *> -1 ? true : false;@@
 |http://66yp.cc/$s@isPhone = *<550 ? true : false;@@
 |http://66yp.cc/$s@var ipad = *;@@
