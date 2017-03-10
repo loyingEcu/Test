@@ -138,5 +138,5 @@ m.lishiquwen.com$s@<script>ad*</script>@@
 ||img.ithome.com/file/js/money/wap/content2.js
 ||s0.pstatp.com
 ||lol5s.com/template/wusha/ads/*
-
+|http://a.fengyx.com$script
 
