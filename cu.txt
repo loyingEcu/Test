@@ -28,6 +28,7 @@ m.onlinedown.net##div[class$="AD"]
 page2.dfpan.com##section[id^="ad"]
 page2.dfpan.com##div[style^="background:url"]
 m.kankanwu.com/js/*
+|http://js.xtcake.com/newblog/*
 |http://scriptwap3.360doc.cn$script
 |http://1.yhzm.cc$script
 |http://66yp.cc/$s@isWPhone = *> -1 ? true : false;@@
@@ -123,6 +124,7 @@ m.lishiquwen.com$s@<script>ad*</script>@@
 |http://www.qqguoji.com/qqguojigg/js/*
 |http://www.gueizu.com/wap.php?$s@<script>;(function(){var d=*</script>@@
 |http://m.quankan.tv/js/dibu.js$s@if?(/(iPhone|iPad|iPod|iOS)/i.test(navigator.userAgent))?{*}else{*}@@
+|http://www.ajpsp.com$s@(function(){*   var src = (document.location.protocol == "http:")*();@@
 ||s.80sjw.com
 ||yjbys.org
 ||y.5125129.com
