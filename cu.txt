@@ -58,6 +58,7 @@ m.kankanwu.com/js/*
 |http://ss.ting55.com$script
 |http://jsm.9939.com$script
 |http://a1.fotao9.com$script
+|http://a1.79432.com$script
 |http://s.iroby.com$script
 |http://www.qqtouxiang.com/skin/js/global.js$S@function brand\d\(\)( )*{.*?}@@sig
 m.lishiquwen.com$s@<script>ad*</script>@@
