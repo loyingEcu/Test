@@ -42,6 +42,7 @@ m.kankanwu.com/js/*
 |http://qiyezs.aiwen.cc$script
 |http://m.chenhuixs.net/js/hfz.js
 |http://m.chenhuixs.net/js/foot.js
+http://www.17u1u.com/ui/mimg/6677.js
 |http://d.rexuebi.com$script
 |http://jiaoben.eastday.com$script
 |http://a1.gebiwang.cn$script
