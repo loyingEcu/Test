@@ -28,6 +28,7 @@ m.onlinedown.net##div[class$="AD"]
 page2.dfpan.com##section[id^="ad"]
 page2.dfpan.com##div[style^="background:url"]
 m.kankanwu.com/js/*
+m.lishiquwen.com$s@<script>ad*</script>@@
 |http://js.xtcake.com/newblog/*
 |http://scriptwap3.360doc.cn$script
 |http://1.yhzm.cc$script
@@ -42,7 +43,7 @@ m.kankanwu.com/js/*
 |http://qiyezs.aiwen.cc$script
 |http://m.chenhuixs.net/js/hfz.js
 |http://m.chenhuixs.net/js/foot.js
-http://www.17u1u.com/ui/mimg/6677.js
+|http://www.17u1u.com/ui/mimg/6677.js
 |http://d.rexuebi.com$script
 |http://jiaoben.eastday.com$script
 |http://a1.gebiwang.cn$script
@@ -62,7 +63,6 @@ http://www.17u1u.com/ui/mimg/6677.js
 |http://a1.79432.com$script
 |http://s.iroby.com$script
 |http://www.qqtouxiang.com/skin/js/global.js$S@function brand\d\(\)( )*{.*?}@@sig
-m.lishiquwen.com$s@<script>ad*</script>@@
 |http://www.onegreen.net/MyFile/QQ_left*.js
 |http://pic.zaizai8.com/wap/zaidibu.js
 |http://www.cilibaike.org/js/ac.js
