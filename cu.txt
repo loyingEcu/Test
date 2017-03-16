@@ -28,6 +28,7 @@ m.onlinedown.net##div[class$="AD"]
 page2.dfpan.com##section[id^="ad"]
 page2.dfpan.com##div[style^="background:url"]
 m.kankanwu.com/js/*
+m.fengchedm.com##[src^="http://img.xtcake.com/"]
 m.lishiquwen.com$s@<script>ad*</script>@@
 |http://js.xtcake.com/newblog/*
 |http://scriptwap3.360doc.cn$script
