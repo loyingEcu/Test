@@ -123,11 +123,11 @@ m.lishiquwen.com$s@<script>ad*</script>@@
 |http://m.v6399.com/static/mobilebluewhite/majs/gamercm.js
 |http://m.80smp4.com$s@;(function(){var d=(/(UCBrowser|QQBrowser)/i@@
 |http://www.nms8.net/static/*.js
-|http://www.jz5u.com/js/tl1.js
 |http://www.qqguoji.com/qqguojigg/js/*
 |http://www.gueizu.com/wap.php?$s@<script>;(function(){var d=*</script>@@
 |http://m.quankan.tv/js/dibu.js$s@if?(/(iPhone|iPad|iPod|iOS)/i.test(navigator.userAgent))?{*}else{*}@@
 |http://www.ajpsp.com$s@(function(){*   var src = (document.location.protocol == "http:")*();@@
+||jz5u.com/js/tl*.js|$script
 ||s.80sjw.com
 ||yjbys.org
 ||y.5125129.com
