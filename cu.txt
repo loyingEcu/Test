@@ -1,6 +1,6 @@
 !--------------自己收集的移动端 浏览的网站不是很多
-!-----------adm   adbyby 没问题
-www.lrshare.com##div[class$="_ads"]
+!-----------adm adbb测试都没问题
+www.lrshare.com##div[class$="_ads"]w 
 |http://*@*.exe
 |http://##a[href*="@"][href$="exe"]
 |https://##a[href*="@"][href$="exe"]
