@@ -31,6 +31,7 @@ page2.dfpan.com##div[style^="background:url"]
 m.kankanwu.com/js/*
 m.fengchedm.com##[src^="http://img.xtcake.com/"]
 m.lishiquwen.com$s@<script>ad*</script>@@
+m.mnw.cn##div[class$="ad"]
 |http://js.xtcake.com/newblog/*
 |http://scriptwap3.360doc.cn$script
 |http://1.yhzm.cc$script
