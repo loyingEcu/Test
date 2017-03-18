@@ -11,6 +11,7 @@ dfpan.com##section[id^="ad"]
 popoho.com$s@<script>pph_ad_1();</script>@@
 tadu.com##a[href="javascript:;"]
 wap.qqswzx.com##a[href^="http://www.tubuhw.com:88"]
+wap.52pk.com##img[src^="https://www.flwja.com"]
 m.9939.com##div[class$="adv"]
 hackhome.com##a[href^="http://down.s.qq.com/download"]
 m.game333.net##[style="width:100%;height:75px"]
@@ -117,6 +118,7 @@ m.lishiquwen.com$s@<script>ad*</script>@@
 |http://1.nanrenwo.net/script
 |http://mm.anqu.com$script
 |http://vi1.mzy2014.com/script
+|http://ucpb.hdmnw.com$script
 |http://dm.gzpinda.com/script
 |http://show.5h.com/script
 |http://m.wanyx.com/Mobile/js/qian.js
