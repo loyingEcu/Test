@@ -48,6 +48,7 @@ m.lishiquwen.com$s@<script>ad*</script>@@
 |http://www.17u1u.com/ui/mimg/6677.js
 |http://d.rexuebi.com$script
 |http://jiaoben.eastday.com$script
+|http://a.fengyx.com$script
 |http://a1.gebiwang.cn$script
 |http://shili.wanyx.com$script
 |http://t1.612.com$script
@@ -148,5 +149,3 @@ m.lishiquwen.com$s@<script>ad*</script>@@
 ||img.ithome.com/file/js/money/wap/content2.js
 ||s0.pstatp.com
 ||lol5s.com/template/wusha/ads/*
-|http://a.fengyx.com$script
-
