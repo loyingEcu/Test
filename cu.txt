@@ -70,6 +70,7 @@ m.mnw.cn##div[class$="ad"]
 |http://www.onegreen.net/MyFile/QQ_left*.js
 |http://pic.zaizai8.com/wap/zaidibu.js
 |http://www.cilibaike.org/js/ac.js
+|http://iphone.265g.com/templates/iphone/bottomAd.js
 |http://w.yunluge.com/appios_b.asp?pid=
 |http://www.hackhome.com/js/dright.js
 |http://www.hackhome.com/js/bhref.js
