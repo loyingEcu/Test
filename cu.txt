@@ -16,6 +16,7 @@
 |http://66yp.cc/$s@<td colspan="2"><script>;(function(*</script>@@
 |http://qiyezs.aiwen.cc$script
 |http://m.chenhuixs.net/js/hfz.js
+|http://m.dingdianzw.com/js/wap.js
 |http://m.chenhuixs.net/js/foot.js
 |http://www.17u1u.com/ui/mimg/6677.js
 |http://d.rexuebi.com$script
@@ -117,6 +118,7 @@
 ||h.51scj.com
 ||s.iuuff.com
 ||js6533.tongqing2015.com
+||tyu.m.dingdianzw.com
 ||a.887788.pw
 ||csdn1718.jiejuefangan741.com
 ||sobt5.org/Public/static/js/*
