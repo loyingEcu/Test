@@ -17,6 +17,9 @@
 |http://m.chenhuiwx.org/js/wap.js$s@//广告开始*}*}*}*}@@
 |http://m.chenhuiwx.org/js/foot.js
 |http://m.chenhuiwx.org/js/hfz.js
+|http://m.bookben.com/js/m/wap.js
+|http://m.shenmabook.com/wap/dun.js
+|http://www.btmango.com/templates/0111/style/*.js?
 |http://qiyezs.aiwen.cc$script
 |http://m.chenhuixs.net/js/hfz.js
 |http://m.dingdianzw.com/js/wap.js
