@@ -108,7 +108,6 @@
 |http://m.wanyx.com/Mobile/js/qian.js
 |http://m.qxmuye.com/d/js/wap/*
 |http://m.v6399.com/static/mobilebluewhite/majs/gamercm.js
-|http://m.80smp4.com$s@;(function(){var d=(/(UCBrowser|QQBrowser)/i@@
 |http://www.nms8.net/static/*.js
 |http://www.qqguoji.com/qqguojigg/js/*
 |http://www.gueizu.com/wap.php?$s@<script>;(function(){var d=*</script>@@
@@ -126,6 +125,7 @@
 ||h.51scj.com
 ||s.iuuff.com
 ||js6533.tongqing2015.com
+||s.jxbjt.com
 ||tyu.m.dingdianzw.com
 ||a.887788.pw
 ||csdn1718.jiejuefangan741.com
