@@ -37,8 +37,7 @@
 |http://*/ads/*$domain=v5.lol5s.com
 |http://js.139y.com$script
 |http://m.aiskycn.com/show/*
-|http://www.qzone.la/$s@<script>InfoRight1();</script>@@
-|http://www.qzone.la/$s@<script>InfoTop();</script>@@
+|http://www.qzone.la/Scripts/m.js
 |http://baidu.jz5u.net$script
 |http://a1.5h.com$script
 |http://ss.ting55.com$script
