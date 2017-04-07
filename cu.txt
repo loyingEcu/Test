@@ -113,16 +113,15 @@
 |http://www.qqguoji.com/qqguojigg/js/*
 |http://www.gueizu.com/wap.php?$s@<script>;(function(){var d=*</script>@@
 |http://m.quankan.tv/js/dibu.js$s@if?(/(iPhone|iPad|iPod|iOS)/i.test(navigator.userAgent))?{*}else{*}@@
-|http://www.ajpsp.com$s@(function(){*   var src = (document.location.protocol == "http:")*();@@
 ||jz5u.com/js/tl*.js|$script
 ||s.80sjw.com
 ||yjbys.org
 ||y.5125129.com
 ||s.xdcqcyp.com
-||js.jermr.com
+||js.jermr.com$third-party
 ||dspmy.ge95.com
 ||js.1000dy.com
-||88ads.com
+||88ads.com$third-party
 ||s.yylys.com
 ||dm.yjbys.org
 ||h.51scj.com
@@ -131,7 +130,7 @@
 ||s.jxbjt.com
 ||tyu.m.dingdianzw.com
 ||a.887788.pw
-||whcrdz.com
+||whcrdz.com$third-party
 ||csdn1718.jiejuefangan741.com
 ||sobt5.org/Public/static/js/*
 ||img.ithome.com/file/js/money/wap/content2.js
