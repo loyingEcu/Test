@@ -28,6 +28,7 @@
 |http://d.rexuebi.com$script
 |http://jiaoben.eastday.com$script
 |http://a.fengyx.com$script
+|http://mymm.zichenit.com$script
 |http://a1.gebiwang.cn$script
 |http://shili.wanyx.com$script
 |http://bd1.fengdu100.com$script
@@ -50,6 +51,8 @@
 |http://www.onegreen.net/MyFile/QQ_left*.js
 |http://pic.zaizai8.com/wap/zaidibu.js
 |http://www.cilibaike.org/js/ac.js
+|http://m.62fan.com/js/baidu*.js
+|http://m.lifanbzk.com/templets/lifan/static/js/*.js
 |http://iphone.265g.com/templates/iphone/bottomAd.js
 |http://w.yunluge.com/appios_b.asp?pid=
 |http://www.hackhome.com/js/dright.js
