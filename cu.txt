@@ -1,5 +1,6 @@
 !-----移动端规则
 !-----规则兼容ADM ADBYBY
+||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe
 |http://##a[href*="@"][href$="exe"]
 |https://##a[href*="@"][href$="exe"]
