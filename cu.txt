@@ -77,6 +77,7 @@
 |http://m.99danji.com/kchtml/mobile_main.js
 |http://img.anfensi.com/a/*
 |http://img.nsywb.com/material/*
+|http://m.piaov.com/js/*
 |http://static.yiwan.com/m/js/uc2.js
 |http://m.game333.net/aainset/360_forum.js
 |http://static.qqxzb.com/m/js/uc.js
@@ -136,6 +137,12 @@
 ||tyu.m.dingdianzw.com
 ||a.887788.pw
 ||whcrdz.com$third-party
+||e.maisoncherry.com
+||jjd.5442.com
+||52.fushibooks.com
+||18.dingdianzw.com
+||m.maisoncherry.com
+||tzxrs.com
 ||csdn1718.jiejuefangan741.com
 ||sobt5.org/Public/static/js/*
 ||img.ithome.com/file/js/money/wap/content2.js
