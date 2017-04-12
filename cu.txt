@@ -112,12 +112,14 @@
 |http://vi1.souid.com$script
 |http://show.5h.com$script
 |http://m.wanyx.com/Mobile/js/qian.js
+|http://m.5442.com/style/warp/js/mpads5442.js?2015
 |http://m.qxmuye.com/d/js/wap/*
 |http://m.v6399.com/static/mobilebluewhite/majs/gamercm.js
 |http://www.nms8.net/static/*.js
 |http://www.qqguoji.com/qqguojigg/js/*
 |http://www.gueizu.com/wap.php?$s@<script>;(function(){var d=*</script>@@
 |http://m.quankan.tv/js/dibu.js
+||static1.2436.cn/ad*/*
 ||jz5u.com/js/tl*.js|$script
 ||s.80sjw.com
 ||yjbys.org
