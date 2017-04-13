@@ -25,6 +25,7 @@
 |http://m.chenhuixs.net/js/hfz.js
 |http://m.dingdianzw.com/js/wap.js
 |http://m.chenhuixs.net/js/foot.js
+|http://www.biquge22.com/wap/*
 |http://www.17u1u.com/ui/mimg/6677.js
 |http://d.rexuebi.com$script
 |http://jiaoben.eastday.com$script
@@ -140,6 +141,8 @@
 ||tyu.m.dingdianzw.com
 ||a.887788.pw
 ||whcrdz.com$third-party
+||cgi.chenyigo.cn$third-party
+||rj.huajingfood.cn$third-party
 ||e.maisoncherry.com
 ||jjd.5442.com
 ||52.fushibooks.com
