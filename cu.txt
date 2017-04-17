@@ -69,6 +69,7 @@
 |http://b17.shangc.net/*.js
 |http://m.chinawmrc.com/wd.js
 |http://m.86kx.com/templets/ad/*
+|http://m.renren66.com/js/*
 |http://a.shenchuang.com/*.js
 |http://www.yqdown.com/js/top.js
 |http://www.yqdown.com/js/dright.js
