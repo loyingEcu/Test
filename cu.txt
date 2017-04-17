@@ -94,6 +94,7 @@
 |http://static.yxdown.com/m/js/uc.js
 |http://bai3.gushiwen.org/*.js
 |http://www.btsearchs.org/static/js/*D.js
+|http://s.aiwenwo.net/qian/ai.js
 |http://m.xunbo14.com/template/m/imames/nr1.js
 |http://mimg.anruan.com/foot.js?
 |http://pmp.adinall.com/diyitui_320_50_a.js
@@ -112,6 +113,7 @@
 |http://1.nanrenwo.net$script
 |http://mm.anqu.com$script
 |http://vi1.mzy2014.com$script
+|http://ai.xinju.cc$script
 |http://ucpb.hdmnw.com$script
 |http://dm.gzpinda.com$script
 |http://vi1.souid.com$script
