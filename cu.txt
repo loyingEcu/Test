@@ -117,6 +117,7 @@
 |http://ucpb.hdmnw.com$script
 |http://dm.gzpinda.com$script
 |http://vi1.souid.com$script
+|http://ds.sundxs.com$script
 |http://show.5h.com$script
 |http://m.wanyx.com/Mobile/js/qian.js
 |http://m.5442.com/style/warp/js/mpads5442.js?2015
