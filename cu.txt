@@ -37,6 +37,7 @@
 |http://bd1.fengdu100.com$script
 |http://ma1.meishij.net$script
 |http://fpb10.mxitie.com$script
+|http://daima.dsxdn.com$script
 |http://t1.612.com$script
 |http://1.770765.cn$script
 |http://*/ads/*$domain=v5.lol5s.com
