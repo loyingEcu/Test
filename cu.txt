@@ -158,6 +158,8 @@
 ||52.fushibooks.com
 ||18.dingdianzw.com
 ||m.maisoncherry.com
+||m.baidu.com.zhiduo.org
+||api.xiaoliangchx.com
 ||tzxrs.com
 ||m.axiba66.com
 ||csdn1718.jiejuefangan741.com
