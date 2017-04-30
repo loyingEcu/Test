@@ -169,6 +169,7 @@
 ||img.ithome.com/file/js/money/wap/content2.js
 ||s0.pstatp.com
 ||lol5s.com/template/wusha/ads/*
+i.jandan.net$s@if (/(Windows NT|Macintosh|Linux x86_64|Linux i686)@@
 xiaodao.la##img[src^="/adimg/"]
 3g.tompda.com##a>img[src^="http://images.tompda.com/download/ad"]
 dfpan.com##div[style^="background:url(http://"]
