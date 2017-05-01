@@ -136,6 +136,7 @@
 ||static1.2436.cn/ad*/*
 ||jz5u.com/js/tl*.js|$script
 ||s.80sjw.com
+||j.sdqoi2d.com
 ||yjbys.org
 ||y.5125129.com
 ||s.xdcqcyp.com
