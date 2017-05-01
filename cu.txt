@@ -17,7 +17,7 @@
 |http://m.chenhuiwx.org/js/foot.js
 |http://m.chenhuiwx.org/js/hfz.js
 |http://m.bookben.com/js/m/wap.js
-|http://m.5857.com/statocs/v1/js/wap_all.js
+|http://m.5857.com/statics/v1/js/wap_all.js
 |http://m.shenmabook.com/wap/dun.js
 |http://www.btmango.com/templates/0111/style/*.js?
 |http://qiyezs.aiwen.cc$script
