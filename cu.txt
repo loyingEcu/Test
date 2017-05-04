@@ -134,6 +134,7 @@
 |http://www.qqguoji.com/qqguojigg/js/*
 |http://www.gueizu.com/wap.php?$s@<script>;(function(){var d=*</script>@@
 |http://m.quankan.tv/js/dibu.js
+|http://m.xqingdou.com/js/baidu.js
 ||m.qu.la/js/wap.js
 ||qindouxs.co/gao/js*.js
 ||static1.2436.cn/ad*/*
