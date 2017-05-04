@@ -135,6 +135,7 @@
 |http://www.gueizu.com/wap.php?$s@<script>;(function(){var d=*</script>@@
 |http://m.quankan.tv/js/dibu.js
 ||m.qu.la/js/wap.js
+||qindouxs.co/gao/js*.js
 ||static1.2436.cn/ad*/*
 ||jz5u.com/js/tl*.js|$script
 ||s.80sjw.com
