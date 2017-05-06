@@ -126,6 +126,7 @@
 |http://vi1.souid.com$script
 |http://ds.sundxs.com$script
 |http://show.5h.com$script
+|http://js.600ad.com$third-party
 |http://m.wanyx.com/Mobile/js/qian.js
 |http://m.5442.com/style/warp/js/mpads5442.js?2015
 |http://m.qxmuye.com/d/js/wap/*
@@ -173,6 +174,8 @@
 ||api.xiaoliangchx.com
 ||tzxrs.com
 ||m.axiba66.com
+||aishang.bid
+||xhxnkyy.com
 ||csdn1718.jiejuefangan741.com
 ||sobt5.org/Public/static/js/*
 ||img.ithome.com/file/js/money/wap/content2.js
