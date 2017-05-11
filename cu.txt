@@ -179,6 +179,9 @@
 ||18.dingdianzw.com
 ||m.maisoncherry.com
 ||m.baidu.com.zhiduo.org
+||analytics3.dopool.com
+||api.adv.ott.cibntv.net
+||apiserver.cctvweishi.comv
 ||api.xiaoliangchx.com
 ||tzxrs.com
 ||m.axiba66.com
