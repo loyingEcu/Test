@@ -127,6 +127,7 @@
 |http://vi1.souid.com$script
 |http://ds.sundxs.com$script
 |http://hao1.cnease.cn$script
+|http://liba.haotv8.com$script
 |http://yun1.yahoo001.com$script
 |http://show.5h.com$script
 |http://js.600ad.com$third-party
