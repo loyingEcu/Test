@@ -96,6 +96,7 @@
 |http://m.kb20.cc/js/fumeiti.js
 |http://static.yxdown.com/m/js/uc.js
 |http://bai3.gushiwen.org/*.js
+|http://m.wanren99.com/js/jstest/longteng.js
 |http://www.btsearchs.org/static/js/*D.js
 |http://s.aiwenwo.net/qian/ai.js
 |http://m.xunbo14.com/template/m/imames/nr1.js
