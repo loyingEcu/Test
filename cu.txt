@@ -154,6 +154,8 @@
 ||static1.2436.cn/ad*/*
 ||jz5u.com/js/tl*.js|$script
 ||s.80sjw.com
+||tangoutianxia.com
+||js.qxjdlf.com
 ||j.sdqoi2d.com
 ||yjbys.org
 ||y.5125129.com
