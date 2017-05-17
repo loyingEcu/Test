@@ -15,7 +15,6 @@
 |http://66yp.cc/$s@<script type="text/javascript">;(function(O,*</script>@@
 |http://66yp.cc/$s@<td colspan="2"><script>;(function(*</script>@@
 |http://semovie.net/moviet.php?$s@if (!urlhash.match("fromapp"))*}@
-|http://m.shenshuw.com/js/wap.js?
 |http://m.chenhuiwx.org/js/foot.js
 |http://m.chenhuiwx.org/js/hfz.js
 |http://m.bookben.com/js/m/wap.js
@@ -187,6 +186,8 @@
 ||rj.huajingfood.cn$third-party
 ||e.maisoncherry.com
 ||jjd.5442.com
+||in.hkfuy.com
+||s.hkfuy.com
 ||52.fushibooks.com
 ||18.dingdianzw.com
 ||m.maisoncherry.com
