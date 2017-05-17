@@ -236,3 +236,4 @@ m.fengchedm.com##[src^="http://img.xtcake.com/"]
 m.lishiquwen.com$s@<script>ad*</script>@@
 m.mnw.cn##div[class$="ad"]
 m.kewaishu.org##div[class="content_pic mar10"]
+m.mydrivers.com##img[src="http://icons.mydrivers.com/news/2017/m_hsb_600X150.gif"]
