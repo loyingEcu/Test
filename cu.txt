@@ -6,14 +6,6 @@
 |http://##a[href*="@"][href$="exe"]
 |https://##a[href*="@"][href$="exe"]
 |http://js.xtcake.com/newblog/*
-|http://66yp.cc/$s@isWPhone = *> -1 ? true : false;@@
-|http://66yp.cc/$s@isPhone = *<550 ? true : false;@@
-|http://66yp.cc/$s@var ipad = *;@@
-|http://66yp.cc/$s@var ua = *;@@
-|http://66yp.cc/$s@if(!isIphone && !isAndroid && !isWPhone && !isPhone)?{*}@@
-|http://66yp.cc/$s@<script type="text/javascript">var cnzz_protocol =*</script>@@
-|http://66yp.cc/$s@<script type="text/javascript">;(function(O,*</script>@@
-|http://66yp.cc/$s@<td colspan="2"><script>;(function(*</script>@@
 |http://semovie.net/moviet.php?$s@if (!urlhash.match("fromapp"))*}@
 |http://m.chenhuiwx.org/js/foot.js
 |http://m.chenhuiwx.org/js/hfz.js
