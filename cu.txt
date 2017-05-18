@@ -1,4 +1,4 @@
-!-----2017-05-16
+!-----2017-05-18
 !-----移动端规则
 !-----规则兼容ADM ADBYBY
 ||se.360.cn/errorpage/index.html?url*
@@ -185,6 +185,7 @@
 ||m.maisoncherry.com
 ||m.baidu.com.zhiduo.org
 ||analytics3.dopool.com
+||xian.axkxy.com
 ||api.adv.ott.cibntv.net
 ||apiserver.cctvweishi.comv
 ||api.xiaoliangchx.com
