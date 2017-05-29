@@ -2,7 +2,7 @@
 |http://v.youku.com/v_show/*$s@</head>@<script src="https://coding.net/u/loyingEcu/p/cu/git/raw/master/vip.js"></script></head>@
 |http://v.youku.com/v_show/*$s@</body>@<script>insVIP('fns','player');</script></body>@
 ||v.youku.com/v_show/*###player:not([style])>iframe{height:calc(100% - 50px)}csshack
-|http://www.tudou.com/albumplay/*.html$s@</head>@<script src="http://admup.admflt.com/d/vip.js"></script></head>@
+|http://www.tudou.com/albumplay/*.html$s@</head>@<script src="https://coding.net/u/loyingEcu/p/cu/git/raw/master/vip.js"></script></head>@
 |http://www.tudou.com/albumplay/*.html$s@</body>@<script>insVIP('tab_nav fix','player');</script></body>@
 |http://www.tudou.com/albumplay/*.html##.tab_nav.fix select{margin-top:11px;font-size: 15px}csshack
 |http://www.iqiyi.com/v_*$s@</head>@<script src="https://coding.net/u/loyingEcu/p/cu/git/raw/master/vip-iqiyi.js"></script></head>@
