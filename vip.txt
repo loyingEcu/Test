@@ -12,7 +12,8 @@
 |http://www.iqiyi.com/v_*##div[style*="absolute"][style*="visibility"]
 
 |http://www.le.com/*vplay*.html$s@</head>@<script src="https://raw.githubusercontent.com/loyingEcu/cu/master/vip1.js"></script></head>@
-|http://www.le.com/*vplay*.html$s@</body>@<script>insVIP('j-video-name video-name','fla_box');</script></body>@
+|http://www.le.com/*vplay*.html$s@</body>@<script>insVIP('column le_func','fla_box');</script></body>@
+|http://www.le.com/*vplay*.html*##[class="column le_func"]>select{margin-top:9px}
 
 ||film.sohu.com/album/*.html$s@</head>@<script src="https://coding.net/u/loyingEcu/p/cu/git/raw/master/vip.js"></script></head>@
 ||film.sohu.com/album/*.html$s@</body>@<script>insVIP('player-content-info','playerWrap');</script></body>@
