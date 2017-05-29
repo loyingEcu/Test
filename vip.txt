@@ -27,3 +27,7 @@
 
 |http://www.mgtv.com/b/*/*.html$s@</head>@<script src="https://coding.net/u/loyingEcu/p/cu/git/raw/master/vip.js"></script></head>@
 |http://www.mgtv.com/b/*.html$s@</body>@<script>insVIP('v-panel-box','mgtv-player-wrap');</script></body>@
+
+|http://vip.pptv.com/show/*.html$s@</head>@<script src="https://coding.net/u/loyingEcu/p/cu/git/raw/master/vip.js"></script></head>@
+|http://vip.pptv.com/show/*.htm$s@</body>@<script>insVIP('toolbar','pptv_playpage_box');</script></body>@
+|http://vip.pptv.com/show/*.htm##div[class="toolbar"]>select{margin-top:9px}
