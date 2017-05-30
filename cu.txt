@@ -192,6 +192,8 @@
 ||api.adv.ott.cibntv.net
 ||apiserver.cctvweishi.comv
 ||api.xiaoliangchx.com
+||c.tkd777.cn
+||s.3333309.cn
 ||tzxrs.com
 ||m.axiba66.com
 ||aishang.bid
