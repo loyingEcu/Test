@@ -1,4 +1,4 @@
-|http://v.youku.com/v_show/*$s@</head>@<script src="http://admup.admflt.com/d/vip.js"></script></head>@
+|http://v.youku.com/v_show/*$s@</head>@<script src="https://coding.net/u/loyingEcu/p/cu/git/raw/master/vip.js"></script></head>@
 |http://v.youku.com/v_show/*$s@</body>@<script>insVIP('fns','player');</script></body>@
 ||v.youku.com/v_show/*###player:not([style])>iframe{height:calc(100% - 50px)}csshack
 
