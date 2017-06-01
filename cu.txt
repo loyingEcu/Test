@@ -1,4 +1,4 @@
-!-----2017-05-30
+!-----2017-06-02
 !-----移动端规则
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe
@@ -197,7 +197,10 @@
 ||s.3333309.cn
 ||tzxrs.com
 ||m.axiba66.com
+||c.m.shumilou.co
 ||aishang.bid
+||e.gshi010.com
+||aire.yuzhaoshiye.com
 ||sc.goyozo.com
 ||xhxnkyy.com
 ||csdn1718.jiejuefangan741.com
