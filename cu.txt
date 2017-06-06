@@ -144,7 +144,7 @@
 |http://m.flb0.com/js/baidu*.js
 |http://www.qqguoji.com/qqguojigg/js/*
 |http://www.gueizu.com/wap.php?$s@<script>;(function(){var d=*</script>@@
-|http://m.nanren40.com$s@s.async = true;@s.async = flash;@
+|http://m.nanren40.com$s@s.async = true;@s.async = flase;@
 |http://m.shubao520.com##img[width="100%"]
 |http://m.quankan.tv/js/dibu.js
 |http://m.xqingdou.com/js/baidu.js
