@@ -2,6 +2,8 @@
 !-----移动端规则
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe
+|http://##div[id^="_"][style="width: 100%;"]>iframe,iframe[src*="pos.baidu.com"]
+|https://##div[id^="_"][style="width: 100%;"]>iframe,iframe[src*="pos.baidu.com"]
 |http://##a[href*="@"][href$="exe"]
 |https://##a[href*="@"][href$="exe"]
 |http://js.xtcake.com/newblog/*
