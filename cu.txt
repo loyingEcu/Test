@@ -151,6 +151,7 @@
 |http://m.quankan.tv/js/dibu.js
 |http://m.xqingdou.com/js/baidu.js
 |http://www.lwxs*.com/web/js/17mb.js
+||junbujian.cc/api.php?
 ||s.ndtzx.com
 ||m.qu.la/js/wap.js
 ||qindouxs.co/gao/js*.js
@@ -199,6 +200,7 @@
 ||analytics3.dopool.com
 ||xian.axkxy.com
 ||api.adv.ott.cibntv.net
+||java.aihaoduo.cn
 ||apiserver.cctvweishi.comv
 ||api.xiaoliangchx.com
 ||c.tkd777.cn
