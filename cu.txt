@@ -197,6 +197,8 @@
 ||18.dingdianzw.com
 ||m.maisoncherry.com
 ||m.baidu.com.zhiduo.org
+||rdlzsy.com
+||sbrqp.com
 ||analytics3.dopool.com
 ||xian.axkxy.com
 ||api.adv.ott.cibntv.net
