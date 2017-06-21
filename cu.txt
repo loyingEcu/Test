@@ -48,6 +48,7 @@
 |http://a1.79432.com$script
 |http://s.iroby.com$script
 |http://www.qqtouxiang.com/skin/js/global.js$s@function brand*() {*}@@
+|http://m.shuqu8.com$s@var s =*);@
 |http://m.dingdianzw.com$s@;(function() {var d = (/UCBrowser|QQBrowser|MiuiBrowser/@@
 |http://www.onegreen.net/MyFile/QQ_left*.js
 |http://pic.zaizai8.com/wap/zaidibu.js
@@ -192,6 +193,7 @@
 ||ge.dezfu.com
 ||jjd.5442.com
 ||in.hkfuy.com
+||net.yiheshun.cn
 ||s.hkfuy.com
 ||52.fushibooks.com
 ||18.dingdianzw.com
