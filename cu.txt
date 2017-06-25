@@ -1,4 +1,4 @@
-!-----2017-06-24
+!-----2017-06-25
 !-----移动端规则
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe
@@ -198,6 +198,7 @@
 ||in.hkfuy.com
 ||net.yiheshun.cn
 ||s.hkfuy.com
+||tb.idsce.com
 ||s.xmcxz.com
 ||52.fushibooks.com
 ||18.dingdianzw.com
