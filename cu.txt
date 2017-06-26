@@ -153,6 +153,7 @@
 |http://m.xqingdou.com/js/baidu.js
 |http://www.lwxs*.com/web/js/17mb.js
 @@||cj.256.cc/m/js/Mbase.js
+||aqiudaohang.com
 ||cj.256.cc/m/js/*
 ||junbujian.cc/api.php?
 ||s.ndtzx.com
