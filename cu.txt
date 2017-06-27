@@ -184,6 +184,7 @@
 ||h.51scj.com
 ||s.iuuff.com
 ||js6533.tongqing2015.com
+||a1.99909988.com
 ||ccc.m.txt99.org
 ||m.meizhi999.com
 ||guo.gyrtg.com
@@ -247,6 +248,7 @@
 ||img.ithome.com/file/js/money/wap/content2.js
 ||s0.pstatp.com
 ||lol5s.com/template/wusha/ads/*
+dysfz.cc##div[class^=ad]
 i.jandan.net$s@if (/(Windows NT|Macintosh|Linux x86_64|Linux i686)@@
 xiaodao.la##img[src^="/adimg/"]
 3g.tompda.com##a>img[src^="http://images.tompda.com/download/ad"]
