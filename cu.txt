@@ -1,4 +1,4 @@
-!-----2017-06-26
+!-----2017-06-27
 !-----移动端规则
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe
@@ -88,6 +88,7 @@
 |http://static.yiwan.com/m/js/uc2.js
 |http://m.game333.net/aainset/360_forum.js
 |http://static.qqxzb.com/m/js/uc.js
+|http://m.99mm.me/other/moy.js
 |http://cp.jfcdns.com/*
 |http://www.5zdm.com/css/js/*
 |http://newyx.newyx.net/js/mobile_bottom.js?
