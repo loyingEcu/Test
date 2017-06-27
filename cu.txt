@@ -137,6 +137,7 @@
 |http://g.y8m.cn$script
 |http://js.600ad.com$third-party
 |http://e.9dtiny.cn$third-party
+|http://www.mohecm.com$third-party
 |http://www.sxdyrq.com$third-party
 |http://bcode.zhantai.com$script
 |http://m.wanyx.com/Mobile/js/qian.js
