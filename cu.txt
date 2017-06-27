@@ -201,6 +201,8 @@
 ||s.ztxbd.com
 ||s.pomhz.com
 ||s.hkfuy.com
+||s1.kuaibaopay.com
+||js58.wangdaizao.com
 ||whcrdz.com$third-party
 ||theta.sogoucdn.com
 ||js.9ads.net
