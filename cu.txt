@@ -116,6 +116,7 @@
 |http://code.ttpaper.com$script
 |http://1.nanrenwo.net$script
 |http://bdlm1.hc360.com$script
+|http://fan.liuxiaoer.com$script
 |http://mm.anqu.com$script
 |http://i5.hsmil.com$script
 |http://scriptwap3.360doc.cn$script
