@@ -131,6 +131,7 @@
 |http://dm.gzpinda.com$script
 |http://s1.hiapk.com$script
 |http://vi1.souid.com$script
+|http://mmcc.yxlady.com$script
 |http://ds.sundxs.com$script
 |http://hao1.cnease.cn$script
 |http://lib.haotv8.com$script
