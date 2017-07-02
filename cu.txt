@@ -7,6 +7,7 @@
 |http://##a[href*="@"][href$="exe"]
 |https://##a[href*="@"][href$="exe"]
 |http://js.xtcake.com/newblog/*
+|http://www.sogou.com/tx?ie=utf-8&hdq=*
 |http://semovie.net/moviet.php?$s@if (!urlhash.match("fromapp"))*}@
 |http://m.chenhuiwx.org/js/foot.js
 |http://m.chenhuiwx.org/js/hfz.js
