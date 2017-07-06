@@ -138,6 +138,7 @@
 |http://lib.haotv8.com$script
 |http://yun1.yahoo001.com$script
 |http://show.5h.com$script
+|http://uc.haizaitao.com$script
 |http://g.y8m.cn$script
 |http://js.600ad.com$third-party
 |http://e.9dtiny.cn$third-party
@@ -161,6 +162,7 @@
 |http://m.txt99.cc/Public/m/script/common.js$s@r = 2*document.writeln("<script src=\"https:*);@
 @@||cj.256.cc/m/js/Mbase.js
 ||aqiudaohang.com
+||static.66cn.com/common/js/$script
 ||cj.256.cc/m/js/*
 ||junbujian.cc/api.php?
 ||s.ndtzx.com
