@@ -138,7 +138,6 @@
 |http://lib.haotv8.com$script
 |http://yun1.yahoo001.com$script
 |http://show.5h.com$script
-|http://uc.haizaitao.com$script
 |http://g.y8m.cn$script
 |http://js.600ad.com$third-party
 |http://e.9dtiny.cn$third-party
