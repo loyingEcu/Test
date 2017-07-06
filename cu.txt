@@ -68,6 +68,9 @@
 |http://m.cr173.com/*/show/info.js
 |http://a1.yyfensi.com/*.js
 |http://b17.shangc.net/*.js
+|http://m.sjzcmw.com/mypck.js
+http://m.sjzcmw.com/css/nativeShare.js
+http://m.sjzcmw.com/xiaosan.js
 |http://m.chinawmrc.com/wd.js
 |http://m.86kx.com/templets/ad/*
 |http://m.yxzoo.com/style/js/*
