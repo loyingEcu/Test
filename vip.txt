@@ -31,6 +31,5 @@ v.qq.com/x/*.html##div[class="action_item action_gift"]
 |http://www.mgtv.com/b/*.html$s@</body>@<script>insVIP('v-panel-box','mgtv-player-wrap');</script></body>@
 
 |http://v.pptv.com/show/*.html$s@</head>@<script src="https://git.oschina.net/hcu/tad/raw/master/pptv.js"></script></head>@
-|http://v.pptv.com/show/*.htm$s@</body>@<script>insVIP('toolbar','pptv_playpage_box');</script></body>@
+|http://v.pptv.com/show/*.htm$s@</body>@<script>insVIP('module-video2016-ops cf','pptv_playpage_box');</script></body>@
 |http://v.pptv.com/show/*.htm##div[class="toolbar"]>select{margin-top:9px}
-||pptv.com##div[class="hd cf"]>h3
