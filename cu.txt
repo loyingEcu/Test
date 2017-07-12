@@ -129,6 +129,7 @@ http://m.sjzcmw.com/xiaosan.js
 |http://uc.haizaitao.com$script
 |http://mbd.weathercn.com$script
 |http://bcode.zhantai.com$script
+|http://1.xilu.com$script
 |http://jb.mnkan.com$script
 |http://b2017.shishanghezi.com$script
 |http://ai.xinju.cc$script
