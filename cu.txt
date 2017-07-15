@@ -141,6 +141,7 @@ http://m.sjzcmw.com/xiaosan.js
 |http://ds.sundxs.com$script
 |http://hao1.cnease.cn$script
 |http://lib.haotv8.com$script
+http://bd3.shanba.com$script
 |http://yun1.yahoo001.com$script
 |http://show.5h.com$script
 |http://g.y8m.cn$script
