@@ -164,6 +164,7 @@ http://bd3.shanba.com$script
 |http://m.quankan.tv/js/dibu.js
 |http://m.xqingdou.com/js/baidu.js
 |http://www.lwxs*.com/web/js/17mb.js
+|http://m.hkdm688.com/js/68/wap*.js
 |http://m.txt99.cc/Public/m/script/common.js$s@r = 2*document.writeln("<script src=\"https:*);@
 @@||cj.256.cc/m/js/Mbase.js
 ||aqiudaohang.com
@@ -198,6 +199,15 @@ http://bd3.shanba.com$script
 ||e.xhxnkyy.com
 ||dm.yjbys.org
 ||h.51scj.com
+||nw5.jkjjkj.top
+||s.9dcdn.cn
+||nw5.jkjjkj.top
+||img2.sugesy.com
+||www.legozu.com
+||e.cindy17club.com
+||y.huayi65.com
+||cnzhqs.com
+||khxxly.com
 ||s.iuuff.com
 ||js6533.tongqing2015.com
 ||a1.99909988.com
