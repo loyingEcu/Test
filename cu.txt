@@ -165,6 +165,7 @@ http://bd3.shanba.com$script
 |http://m.xqingdou.com/js/baidu.js
 |http://www.lwxs*.com/web/js/17mb.js
 |http://m.hkdm688.com/js/68/wap*.js
+|http://m.flb0.com/js/Statistics*.js
 |http://m.txt99.cc/Public/m/script/common.js$s@r = 2*document.writeln("<script src=\"https:*);@
 @@||cj.256.cc/m/js/Mbase.js
 ||aqiudaohang.com
