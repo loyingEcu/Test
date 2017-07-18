@@ -171,6 +171,7 @@ http://bd3.shanba.com$script
 @@||cj.256.cc/m/js/Mbase.js
 @@|http://m.fmhua.com/js/b.js
 @@|http://m.fmhua.com/js/a.js
+@@http://hhaass.com/js/v.js
 ||vs8.gzct.u3.ucweb.com
 ||aqiudaohang.com
 ||static.66cn.com/common/js/$script
