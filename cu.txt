@@ -184,6 +184,8 @@ http://bd3.shanba.com$script
 ||jz5u.com/js/tl*.js|$script
 ||s.80sjw.com
 ||jndczg.com
+||j.wubai.cc
+||js.akrwi.cn
 ||jiaoben.fanw8.com
 ||wuliao.fanw8.com
 ||vs8.gzcu.u3.ucweb.com
