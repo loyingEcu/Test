@@ -1,4 +1,4 @@
-!-----2017-07-17
+!-----2017-07-20
 !-----移动端规则
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe
@@ -226,6 +226,11 @@ http://bd3.shanba.com$script
 ||s.jxbjt.com
 ||tyu.m.dingdianzw.com
 ||a.887788.pw
+||ccc.m.ybdu.com
+||sss.m.ybdu.com
+||cl.m.ybdu.com
+||m.vers80.com
+||awyys.com
 ||.feifish66.com
 ||js.sxldyx.com
 ||kkc.m.txt99.cc
