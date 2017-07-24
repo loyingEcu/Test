@@ -92,6 +92,10 @@ http://m.sjzcmw.com/xiaosan.js
 |http://static.yiwan.com/m/js/uc2.js
 |http://m.game333.net/aainset/360_forum.js
 |http://static.qqxzb.com/m/js/uc.js
+|http://m.80dsw.com/Public/style/mstyle/js/di.js
+|http://m.80dsw.com/Public/style/mstyle/js/heng.js
+|http://m.80dsw.com/Public/style/mstyle/js/index.min.js
+|http://m.80dsw.com/Public/style/mstyle/js/uaredirectformobile.js
 |http://m.99mm.me/other/moy.js
 |http://cp.jfcdns.com/*
 |http://www.5zdm.com/css/js/*
