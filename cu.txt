@@ -20,6 +20,7 @@
 |http://m.dingdianzw.com/js/wap.js
 |http://m.chenhuixs.net/js/foot.js
 |http://www.biquge22.com/wap/*
+|http://www.qqyewu.com/jss/* 
 |http://www.17u1u.com/ui/mimg/6677.js
 |http://d.rexuebi.com$script
 |http://jiaoben.eastday.com$script
