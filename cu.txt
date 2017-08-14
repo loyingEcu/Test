@@ -1,11 +1,13 @@
-!-----2017-08-01
+!-----2017-08-15
 !-----移动端规则
 ||se.360.cn/errorpage/index.html?url*
-|http://*@*.exe
-|http://##div[id^="_"][style="width: 100%;"]>iframe,iframe[src*="pos.baidu.com"]
-|https://##div[id^="_"][style="width: 100%;"]>iframe,iframe[src*="pos.baidu.com"]
+!|http://*@*.exe
 |http://##a[href*="@"][href$="exe"]
+|http://##a[href*="cpro.baidu.com"]
+|http://##div[id^="_"][style="width: 100%;"]>iframe,iframe[src*="pos.baidu.com"]
 |https://##a[href*="@"][href$="exe"]
+|https://##a[href*="cpro.baidu.com"]
+|https://##div[id^="_"][style="width: 100%;"]>iframe,iframe[src*="pos.baidu.com"]
 |http://js.xtcake.com/newblog/*
 |http://www.sogou.com/tx?ie=utf-8&hdq=*
 |http://semovie.net/moviet.php?$s@if (!urlhash.match("fromapp"))*}@
