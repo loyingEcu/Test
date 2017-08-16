@@ -1,4 +1,4 @@
-!-----2017-08-15
+!-----2017-08-16
 !-----移动端规则
 ||se.360.cn/errorpage/index.html?url*
 !|http://*@*.exe
@@ -180,6 +180,8 @@ http://bd3.shanba.com$script
 @@|http://m.fmhua.com/js/b.js
 @@|http://m.fmhua.com/js/a.js
 @@http://hhaass.com/js/v.js
+||hk.napi.ucweb.com
+||sea.napi.ucweb.com
 ||vs8.gzct.u3.ucweb.com
 ||aqiudaohang.com
 ||static.66cn.com/common/js/$script
