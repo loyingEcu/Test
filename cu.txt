@@ -1,7 +1,7 @@
 !-----2017-08-16
 !-----移动端规则
 ||se.360.cn/errorpage/index.html?url*
-!|http://*@*.exe
+|http://*@*.exe
 |http://##a[href*="@"][href$="exe"]
 |http://##a[href*="cpro.baidu.com"]
 |http://##div[id^="_"][style="width: 100%;"]>iframe,iframe[src*="pos.baidu.com"]
