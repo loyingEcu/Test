@@ -193,6 +193,7 @@ http://bd3.shanba.com$script
 ||static1.2436.cn/ad*/*
 ||jz5u.com/js/tl*.js|$script
 ||s.80sjw.com
+||da.qhdop.com
 ||jndczg.com
 ||j.wubai.cc
 ||js.akrwi.cn
