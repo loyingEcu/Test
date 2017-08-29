@@ -310,6 +310,7 @@ http://bd3.shanba.com$script
 ||img.ithome.com/file/js/money/wap/content2.js
 ||s0.pstatp.com
 ||lol5s.com/template/wusha/ads/*
+||v.youku.com/v_show/$s@<head>@<head><script>fIE=navigator.userAgent;if((fIE.indexOf('rv:11')!==-1||fIE.indexOf('MSIE')!==-1)&&!window.location.href.match(/debug=flv/)){window.location.href = window.location.href + '&debug=flv'}</script>@
 dysfz.cc##div[class^=ad]
 dl.pconline.com.cn##a[class="btn btn-org"]
 i.jandan.net$s@if (/(Windows NT|Macintosh|Linux x86_64|Linux i686)@@
