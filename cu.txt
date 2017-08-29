@@ -3,10 +3,10 @@
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe
 |http://##a[href*="@"][href$="exe"]
-|http://##a[href*="cpro.baidu.com"]
+|http://##a[href*="cpro.baidu.com"],a[href*="i/?cid="]
 |http://##div[id^="_"][style="width: 100%;"]>iframe,iframe[src*="pos.baidu.com"]
 |https://##a[href*="@"][href$="exe"]
-|https://##a[href*="cpro.baidu.com"]
+|https://##a[href*="cpro.baidu.com"],a[href*="i/?cid="]
 |https://##div[id^="_"][style="width: 100%;"]>iframe,iframe[src*="pos.baidu.com"]
 |http://js.xtcake.com/newblog/*
 |http://www.sogou.com/tx?ie=utf-8&hdq=*
