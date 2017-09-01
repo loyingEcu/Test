@@ -6,9 +6,9 @@
 |http://www.tudou.com/albumplay/*.html$s@</body>@<script>insVIP('tab_nav fix','player');</script></body>@
 |http://www.tudou.com/albumplay/*.html##.tab_nav.fix select{margin-top:11px;font-size: 15px}csshack
 
-|http://www.iqiyi.com/v_*$s@</head>@<script src="https://git.oschina.net/hcu/tad/raw/master/iqiyi.js"></script></head>@
-|http://www.iqiyi.com/v_*$s@</body>@<script>insVIP('mod-play-tit','flashbox');</script></body>@
-|http://www.iqiyi.com/v_*##div[style*="absolute"][style*="visibility"]
+|http://www.iqiyi.com/v_*.html$s@</head>@<script src="https://git.oschina.net/hcu/tad/raw/master/iqiyi.js"></script></head>@
+|http://www.iqiyi.com/v_*.html$s@</body>@<script>insVIP('mod-play-tit','flashbox');</script></body>@
+|http://www.iqiyi.com/v_*.html##div[style*="absolute"][style*="visibility"]
 
 @@|http://vip.iqiyi.com/*/*.html*$s@</head>@<script src="https://git.oschina.net/hcu/tad/raw/master/iqiyi.js"></script></head>@
 @@|http://vip.iqiyi.com/*/*.html*$s@</body>@<script>insVIP('mod-play-tit','flashbox');</script></body>@
