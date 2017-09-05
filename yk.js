@@ -1,0 +1,1 @@
+$('#player').on("click",".h5-layer-conatiner",function(){if($('.setting-bar').is(':hidden')){$('.controlicon.control-play-icon').click()}});$('#player').on("dblclick",".h5-layer-conatiner",function(){$('.control-fullscreen-icon').is(':visible')?$('.control-fullscreen-icon').click():$('.control-halfscreen-icon').click()})
