@@ -101,6 +101,8 @@ http://m.sjzcmw.com/xiaosan.js
 |http://m.80dsw.com/Public/style/mstyle/js/uaredirectformobile.js
 |http://m.99mm.me/other/moy.js
 |http://cp.jfcdns.com/*
+|http://www.zzlxs.net/apd/index/15
+|http://www.zzlxs.net/aps/fu.php
 |http://www.5zdm.com/css/js/*
 |http://newyx.newyx.net/js/mobile_bottom.js?
 |http://m.mm131.com/css/wp.js
@@ -219,6 +221,7 @@ http://bd3.shanba.com$script
 ||yjbys.org
 ||y.5125129.com
 ||s.xdcqcyp.com
+||www.maimaiol.com
 ||js.jermr.com$third-party
 ||1234.jjxgly.com
 ||js738.cnpinzhuo.com
