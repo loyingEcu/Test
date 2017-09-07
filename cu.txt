@@ -154,6 +154,7 @@ http://bd3.shanba.com$script
 |http://yun1.yahoo001.com$script
 |http://show.5h.com$script
 |http://g.y8m.cn$script
+||bfzdczdftcslvsczdec.js
 |http://bdjs.*
 |http://bdjs1.*
 |http://bdjs2.*
@@ -162,6 +163,7 @@ http://bd3.shanba.com$script
 |http://pb2.*$script
 |http://bd1.*$script
 |http://bd2.*$script
+|http://*/2e4d96dca598a574*.js
 |http://js.600ad.com$third-party
 |http://e.9dtiny.cn$third-party
 |http://www.mohecm.com$third-party
