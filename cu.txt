@@ -204,7 +204,7 @@ http://bd3.shanba.com$script
 ||junbujian.cc/api.php?
 ||s.ndtzx.com
 ||m.qu.la/js/wap.js
-||panzuoLuo.com
+||panzuoluo.com
 ||xinghao89.com
 ||dm.shanghuitianxia.cn
 ||nbhaosheng168.com
