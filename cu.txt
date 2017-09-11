@@ -91,6 +91,9 @@ http://m.sjzcmw.com/xiaosan.js
 |http://m.99danji.com/kchtml/mobile_main.js
 |http://img.anfensi.com/a/*
 |http://img.nsywb.com/material/*
+|http://m.hkdm123.com/js/68/*.js
+|http://m.5xdmw.com/js/68/*.js
+|http://wap.hkdm688.com/js/68/*.js
 |http://m.piaov.com/js/*
 |http://static.yiwan.com/m/js/uc2.js
 |http://m.game333.net/aainset/360_forum.js
@@ -200,6 +203,10 @@ http://bd3.shanba.com$script
 ||junbujian.cc/api.php?
 ||s.ndtzx.com
 ||m.qu.la/js/wap.js
+||panzuoLuo.com
+||xinghao89.com
+||dm.shanghuitianxia.cn
+||nbhaosheng168.com
 ||qindouxs.co/gao/js*.js
 ||static1.2436.cn/ad*/*
 ||jz5u.com/js/tl*.js|$script
