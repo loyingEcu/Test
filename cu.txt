@@ -175,6 +175,7 @@ http://bd3.shanba.com$script
 |http://m.wanyx.com/Mobile/js/qian.js
 |http://m.5442.com/style/warp/js/mpads5442.js?2015
 |http://m.qxmuye.com/d/js/wap/*
+|http://m.bzk520.com/templets/*
 |http://m.v6399.com/static/mobilebluewhite/majs/gamercm.js
 |http://www.nms8.net/static/*.js
 |http://m.kankanwu.com/le/*
