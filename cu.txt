@@ -363,10 +363,7 @@ http://bd3.shanba.com$script
 ||img.ithome.com/file/js/money/wap/content2.js
 ||s0.pstatp.com
 ||lol5s.com/template/wusha/ads/*
-||dzz8.com/public/ptcms/s_wap_novelsearch_chapter_list.js
-||dzz8.com/public/ptcms/s_wap_novelsearch_chapter_green.js
-||dzz8.com/public/ptcms/s_wap_novelsearch_index_index.js
-||dzz8.com/public/ptcms/s_wap_novelsearch_chapter_read.js
+||dzz8.com/public/ptcms/s_wap_novelsearch_*.js
 ||v.youku.com/v_show/$s@<head>@<head><script>fIE=navigator.userAgent;if((fIE.indexOf('rv:11')!==-1||fIE.indexOf('MSIE')!==-1)&&!window.location.href.match(/debug=flv/)){window.location.href = window.location.href + '&debug=flv'}</script>@
 ||js.ykimg.com/youku/dist/js/page/find/play/index*.js$s@i.msie*;@i.msie||navigator.userAgent.indexOf('rv:11')!==-1;@
 ||ykimg.com/material/*/ad/*/*.js$s@$('#player').on("click",".h5-layer-conatiner",function(){$('.control-icon.control-play-icon').click()});$('#player').on("dblclick",".h5-layer-conatiner",function(){$('.control-fullscreen-icon').is(':visible')?$('.control-fullscreen-icon').click():$('.control-halfscreen-icon').click()})@
