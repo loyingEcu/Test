@@ -282,10 +282,12 @@ http://bd3.shanba.com$script
 ||mushizhubao.com
 ||js.lwnne.cn
 ||dz2017.zdzxyplyt.com
-||e.miaoxinqipei.com
-||e.qiyunmuye.com
+||miaoxinqipei.com
+||qiyunmuye.com
 ||lhg.alisinak.com
 ||www.himandy.com
+||m.iorgb.com
+||himandy.com
 ||j.dotimg.cn
 ||khxxly.com
 ||s.iuuff.com
