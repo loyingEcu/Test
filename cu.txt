@@ -1,5 +1,5 @@
 !-----loying
-!-----2017-09-15
+!-----2017-09-16
 !-----此规则由本人自用规则而来，兼容adm adbyby kp
 !-----不过大多数(99%)都是移动端规则
 ||se.360.cn/errorpage/index.html?url*
@@ -282,6 +282,10 @@ http://bd3.shanba.com$script
 ||mushizhubao.com
 ||js.lwnne.cn
 ||dz2017.zdzxyplyt.com
+||e.miaoxinqipei.com
+||e.qiyunmuye.com
+||lhg.alisinak.com
+||www.himandy.com
 ||j.dotimg.cn
 ||khxxly.com
 ||s.iuuff.com
