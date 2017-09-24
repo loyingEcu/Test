@@ -162,6 +162,7 @@ http://bd3.shanba.com$script
 |http://show.5h.com$script
 |http://g.y8m.cn$script
 ||bfzdczdftcslvsczdec.js
+|http://m.yaoqi.la/templets/yaoqi/static/js/*
 |http://u15.info/ad/*
 |http://bdjs.*
 |http://bdjs1.*
