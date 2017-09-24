@@ -1,5 +1,5 @@
 !-----loying
-!-----2017-09-19
+!-----2017-09-24
 !-----此规则由本人自用规则而来，兼容adm adbyby kp
 !-----不过大多数(99%)都是移动端规则
 ||se.360.cn/errorpage/index.html?url*
@@ -157,9 +157,11 @@ http://m.sjzcmw.com/xiaosan.js
 |http://lib.haotv8.com$script
 http://bd3.shanba.com$script
 |http://yun1.yahoo001.com$script
+|http://stats.chinaz.com/zz_img/$script
 |http://show.5h.com$script
 |http://g.y8m.cn$script
 ||bfzdczdftcslvsczdec.js
+|http://u15.info/ad/*
 |http://bdjs.*
 |http://bdjs1.*
 |http://bdjs2.*
@@ -265,6 +267,8 @@ http://bd3.shanba.com$script
 ||cindy17club.com
 ||slb.jiehantai.com
 ||nw5.jkjjkj.top
+||y.gwylm.com
+||lovezhishou.com
 ||wangdq.com
 ||s.9dcdn.cn
 ||kuaibaopay.com
