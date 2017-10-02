@@ -10,9 +10,9 @@
 |http://www.iqiyi.com/v_*.html$s@</body>@<script>insVIP('mod-play-tit','flashbox');</script></body>@
 |http://www.iqiyi.com/v_*.html##div[style*="absolute"][style*="visibility"]
 
-@@|http://vip.iqiyi.com/*/*.html*$s@</head>@<script src="https://git.oschina.net/hcu/tad/raw/master/iqiyi.js"></script></head>@
-@@|http://vip.iqiyi.com/*/*.html*$s@</body>@<script>insVIP('mod-play-tit','flashbox');</script></body>@
-@@|http://vip.iqiyi.com/*/*.html*##div[style*="absolute"][style*="visibility"]
+|http://vip.iqiyi.com/*/*.html*$s@</head>@<script src="https://git.oschina.net/hcu/tad/raw/master/iqiyi.js"></script></head>@
+|http://vip.iqiyi.com/*/*.html*$s@</body>@<script>insVIP('mod-play-tit','flashbox');</script></body>@
+|http://vip.iqiyi.com/*/*.html*##div[style*="absolute"][style*="visibility"]
 
 |http://www.le.com/*vplay*.html$s@</head>@<script src="https://git.oschina.net/hcu/tad/raw/master/vip.js"></script></head>@
 |http://www.le.com/*vplay*.html$s@</body>@<script>insVIP('column le_func','fla_box');</script></body>@
