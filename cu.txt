@@ -1,6 +1,6 @@
 !-----loying
 !-----2017-10-03
-!-----此规则由本人自用规则而来，兼容adm adbyby kp
+!-----此规则由本人自用规则而来，兼容adm adbyby
 !-----不过大多数(99%)都是移动端规则
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe
