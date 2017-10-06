@@ -1,7 +1,5 @@
 !-----loying
-!-----2017-10-03
-!-----此规则由本人自用规则而来，兼容adm adbyby
-!-----不过大多数(99%)都是移动端规则
+!-----2017-10-06
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe
 |http://##a[href*="@"][href$="exe"]
@@ -299,6 +297,7 @@ http://bd3.shanba.com$script
 ||www.himandy.com
 ||m.iorgb.com
 ||himandy.com
+||seen.h01ce.cn
 ||j.dotimg.cn
 ||khxxly.com
 ||s.iuuff.com
