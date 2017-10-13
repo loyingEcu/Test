@@ -1,5 +1,5 @@
 !-----loying
-!-----2017-10-06
+!-----2017-10-13
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe
 |http://##a[href*="@"][href$="exe"]
@@ -226,6 +226,7 @@ http://bd3.shanba.com$script
 ||qhres.com
 ||rjs.niuxgame77.com
 ||j.jimeilm.com
+||adsapi.manhuaren.com
 ||tangoutianxia.com
 ||js.bjwwfx001.org.cn
 ||nvrentao8.com
