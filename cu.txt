@@ -1,7 +1,7 @@
 !-----loying
-!-----2017-10-13
+!-----2017-10-15
 ||se.360.cn/errorpage/index.html?url*
-|http://*@*.exe
+|http://*@*.exe$block
 |http://##a[href*="@"][href$="exe"]
 |http://##a[href*="cpro.baidu.com"],a[href*="i/?cid="]
 |http://##div[id^="_"][style="width: 100%;"]>iframe,iframe[src*="pos.baidu.com"]
@@ -60,6 +60,7 @@
 |http://m.nh87.cn/d/js/m_bdlm.js
 |http://c8.wangdq.com/js/mob/3center_cpc.js
 |http://www.cilibaike.org/js/ac.js
+|http://icws.jb51.net/good/arct.js
 |http://m.62fan.com/js/baidu*.js
 |http://m.lifanbzk.com/templets/lifan/static/js/*.js
 |http://iphone.265g.com/templates/iphone/bottomAd.js
