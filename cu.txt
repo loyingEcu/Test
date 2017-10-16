@@ -1,5 +1,5 @@
 !-----loying
-!-----2017-10-15
+!-----2017-10-16
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe$block
 |http://##a[href*="@"][href$="exe"]
