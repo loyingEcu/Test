@@ -12,7 +12,7 @@
 |http://www.sogou.com/tx?ie=utf-8&hdq=*
 |http://semovie.net/moviet.php?$s@if (!urlhash.match("fromapp"))*}@
 |http://*/js/Statistics*.js$s@var m=*3://*break;@@
-|http://*/js/Statistics*.js$s@var m=*//88*(bp, s);@@
+|http://*/js/Statistics_t.js$s@var m=*//88*(bp, s);@@
 |http://m.99mm.me$s@(function(){var d=@@
 |http://m.chenhuiwx.org/js/foot.js
 |http://m.chenhuiwx.org/js/hfz.js
