@@ -129,6 +129,7 @@ http://m.sjzcmw.com/xiaosan.js
 |http://ai.xwx5.com/*.js
 |http://iaa.ez33.org.cn/2016/gp18.js
 |http://m.yoyou.com/kchtml/mobile_main.js
+|http://www.999hdhd.com/js/js.js
 |http://m.3gmfw.cn/js/wap/*
 |http://m.lfkumh.cc/templets/lifanku/static/js/*
 |http://dm.ws8.org$script
