@@ -1,5 +1,5 @@
 !-----loying
-!-----2017-10-18
+!-----2017-10-19
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe$block
 |http://##a[href*="@"][href$="exe"]
@@ -208,6 +208,7 @@ http://bd3.shanba.com$script
 @@http://hhaass.com/js/v.js
 ||hk.napi.ucweb.com
 ||sea.napi.ucweb.com
+||iutr.uozwys.top
 ||vs8.gzct.u3.ucweb.com
 ||aqiudaohang.com
 ||static.66cn.com/common/js/$script
