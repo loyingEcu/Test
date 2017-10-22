@@ -1,5 +1,5 @@
 !-----loying
-!-----2017-10-19
+!-----2017-10-22
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe$block
 |http://##a[href*="@"][href$="exe"]
@@ -252,6 +252,7 @@ http://bd3.shanba.com$script
 ||mqq.zgdmsj.cn
 ||js7022.gdskywings.com
 ||sdkdm.com
+||c.pimst.cn
 ||tanx.sjzcmw.com
 ||g9.ruifeng99.com
 ||youyoumw.com
