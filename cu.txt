@@ -1,5 +1,5 @@
 !-----loying
-!-----2017-10-24
+!-----2017-10-26
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe$block
 |http://##a[href*="@"][href$="exe"]
@@ -89,6 +89,8 @@ http://m.sjzcmw.com/xiaosan.js
 |http://m.renren66.com/js/*
 |http://a.shenchuang.com/*.js
 |http://www.yqdown.com/js/top.js
+|http://m.kankanwu.com/xuxu/$script
+|http://m.kankanwu.com/static/js/index.min.js
 |http://www.yqdown.com/js/dright.js
 |http://m.yqdown.com/js/m_sd.js
 |http://m.sdbeta.com/skin/mobile/js/1688.js
