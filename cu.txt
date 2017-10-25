@@ -228,6 +228,8 @@ http://bd3.shanba.com$script
 ||static1.2436.cn/ad*/*
 ||jz5u.com/js/tl*.js|$script
 ||s.80sjw.com
+||server.m.pp.cn
+||patriot.cs.pp.cn
 ||da.qhdop.com
 ||jndczg.com
 ||j.wubai.cc
