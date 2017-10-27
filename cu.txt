@@ -214,7 +214,9 @@ http://bd3.shanba.com$script
 ||hk.napi.ucweb.com
 ||sea.napi.ucweb.com
 ||iutr.uozwys.top
+||vs*.gzcu.u3.ucweb.com
 ||vs8.gzct.u3.ucweb.com
+||vs19.gzcu.u3.ucweb.com
 ||aqiudaohang.com
 ||static.66cn.com/common/js/$script
 ||cj.256.cc/m/js/*
@@ -236,7 +238,6 @@ http://bd3.shanba.com$script
 ||js.akrwi.cn
 ||jiaoben.fanw8.com
 ||wuliao.fanw8.com
-||vs8.gzcu.u3.ucweb.com
 ||gameyun907.net
 ||s.daskm.com
 ||qhres.com
@@ -260,7 +261,6 @@ http://bd3.shanba.com$script
 ||panzuoLuo.com
 ||panzuoluo.com
 ||mqq.zgdmsj.cn
-||vs19.gzcu.u3.ucweb.com
 ||jc.jtydbz.com
 ||js7022.gdskywings.com
 ||sdkdm.com
