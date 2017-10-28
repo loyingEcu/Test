@@ -164,6 +164,7 @@ http://m.sjzcmw.com/xiaosan.js
 |http://vi1.souid.com$script
 |http://mmcc.yxlady.com$script
 |http://ds.sundxs.com$script
+|http://www.qqyewu.com/jss/$script
 |http://hao1.cnease.cn$script
 |http://lib.haotv8.com$script
 http://bd3.shanba.com$script
