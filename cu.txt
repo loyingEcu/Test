@@ -428,6 +428,7 @@ http://bd3.shanba.com$script
 |http://m.zhishihao.com##img[src$="ad.jpg"]
 dysfz.cc##div[class^=ad]
 dl.pconline.com.cn##a[class="btn btn-org"]
+xiaodao.la##[width="472"][height="361"]
 i.jandan.net$s@if (/(Windows NT|Macintosh|Linux x86_64|Linux i686)@@
 xiaodao.la##img[src^="/adimg/"]
 3g.tompda.com##a>img[src^="http://images.tompda.com/download/ad"]
