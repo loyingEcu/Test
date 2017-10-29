@@ -225,6 +225,7 @@ http://bd3.shanba.com$script
 ||s.ndtzx.com
 ||m.qu.la/js/wap.js
 ||xinghao89.com
+||farwx.com
 ||dm.shanghuitianxia.cn
 ||nbhaosheng168.com
 ||qindouxs.co/gao/js*.js
