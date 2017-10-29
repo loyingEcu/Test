@@ -429,6 +429,7 @@ http://bd3.shanba.com$script
 ||dzz8.com/public/ptcms/s_wap_novelsearch_*.js
 |http://m.zhishihao.com##img[src$="ad.jpg"]
 dysfz.cc##div[class^=ad]
+m.mydrivers.com##[target="_blank"][rel="nofollow"]
 dl.pconline.com.cn##a[class="btn btn-org"]
 xiaodao.la##[width="472"][height="361"]
 i.jandan.net$s@if (/(Windows NT|Macintosh|Linux x86_64|Linux i686)@@
