@@ -1,5 +1,5 @@
 !-----loying
-!-----2017-10-31
+!-----2017-11-1
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe$block
 |http://##a[href*="@"][href$="exe"]
@@ -63,6 +63,7 @@
 |http://www.qqtouxiang.com/skin/js/global.js$s@function brand*() {*}@@
 |http://m.shuqu8.com$s@var s =*);@
 |http://m.dingdianzw.com$s@;(function() {var d = (/UCBrowser|QQBrowser|MiuiBrowser/@@
+|http://kankanwu.com/xuxu/*
 |http://www.onegreen.net/MyFile/QQ_left*.js
 |http://pic.zaizai8.com/wap/zaidibu.js
 |http://m.nh87.cn/d/js/m_bdlm.js
@@ -90,7 +91,6 @@ http://m.sjzcmw.com/xiaosan.js
 |http://m.renren66.com/js/*
 |http://a.shenchuang.com/*.js
 |http://www.yqdown.com/js/top.js
-|http://m.kankanwu.com/xuxu/$script
 |http://m.kankanwu.com/static/js/index.min.js
 |http://www.yqdown.com/js/dright.js
 |http://m.yqdown.com/js/m_sd.js
