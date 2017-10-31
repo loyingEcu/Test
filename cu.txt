@@ -1,5 +1,5 @@
 !-----loying
-!-----2017-10-30
+!-----2017-10-31
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe$block
 |http://##a[href*="@"][href$="exe"]
@@ -14,6 +14,7 @@
 |http://*/js/Statistics*.js$s@var m=*3://*break;@@
 |http://*/js/Statistics_t.js$s@var m=*//88*(bp, s);@@
 |http://wap.xiangcun222.com$s@<script>adcpc(21);</script>@@
+|https://tl.zcsfs.cn/d.asp?pid=
 |http://m.99mm.me$s@(function(){var d=@@
 |http://m.chenhuiwx.org/js/foot.js
 |http://m.chenhuiwx.org/js/hfz.js
