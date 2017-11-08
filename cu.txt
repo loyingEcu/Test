@@ -1,5 +1,5 @@
 !-----loying
-!-----2017-11-07
+!-----2017-11-08
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe$block
 |http://##a[href*="@"][href$="exe"]
@@ -153,6 +153,7 @@ http://m.sjzcmw.com/xiaosan.js
 |http://vi1.mzy2014.com$script
 |http://uc.haizaitao.com$script
 |http://mbd.weathercn.com$script
+|http://dfc1.benbaisteel.com$script
 |http://bcode.zhantai.com$script
 |http://gg.stargame.com$script
 |http://1.xilu.com$script
