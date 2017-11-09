@@ -1,5 +1,5 @@
 !-----loying
-!-----2017-11-08
+!-----2017-11-09
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe$block
 |http://##a[href*="@"][href$="exe"]
@@ -161,6 +161,7 @@ http://m.sjzcmw.com/xiaosan.js
 |http://b2017.shishanghezi.com$script
 |http://ai.xinju.cc$script
 |http://ucpb.hdmnw.com$script
+|http://www.ieddd.com/fanhao/v/$script
 |http://dm.gzpinda.com$script
 |http://s1.hiapk.com$script
 |http://vi1.souid.com$script
@@ -210,6 +211,7 @@ http://bd3.shanba.com$script
 |http://m.flb0.com/js/Statistics*.js
 |http://m.fmhua.com/js/*.js
 |http://m.txt99.cc/Public/m/script/common.js$s@r = 2*document.writeln("<script src=\"https:*);@
+@@|http://www.ieddd.com/fanhao/v/p.js
 @@||cj.256.cc/m/js/Mbase.js
 @@|http://m.fmhua.com/js/b.js
 @@|http://m.fmhua.com/js/a.js
