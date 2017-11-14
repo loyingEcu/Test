@@ -1,5 +1,5 @@
 !-----loying
-!-----2017-11-11
+!-----2017-11-14
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe$block
 |http://##a[href*="@"][href$="exe"]
@@ -38,6 +38,7 @@
 |http://bd1.fengdu100.com$script
 |http://ma1.meishij.net$script
 |http://fpb10.mxitie.com$script
+|http://js62.sczhiguanji.com
 |http://daima.dsxdn.com$script
 |http://t1.612.com$script
 |http://a.kejixun.com$script
@@ -221,6 +222,7 @@ http://bd3.shanba.com$script
 ||7a57a5a743894a0e.m.biquguo.com
 ||7f8d3ee6b2525320.m.biquguo.com
 ||hk.napi.ucweb.com
+||ppx.hgo7r.cn
 ||sea.napi.ucweb.com
 ||iutr.uozwys.top
 ||vs*.gzcu.u3.ucweb.com
