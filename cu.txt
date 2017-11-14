@@ -37,6 +37,8 @@
 |http://shili.wanyx.com$script
 |http://bd1.fengdu100.com$script
 |http://ma1.meishij.net$script
+|http://a.yantu360.net$script
+|http://b.yantu360.net$script
 |http://fpb10.mxitie.com$script
 |http://js62.sczhiguanji.com
 |http://daima.dsxdn.com$script
