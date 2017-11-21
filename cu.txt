@@ -456,6 +456,7 @@ http://bd3.shanba.com$script
 ||lol5s.com/template/wusha/ads/*
 ||dzz8.com/public/ptcms/s_wap_novelsearch_*.js
 |http://m.zhishihao.com##img[src$="ad.jpg"]
+nanrenfuli.com##div[style=" float: left; width: 46%; margin-right: 1%;"],li[id^="text-"]
 dysfz.cc##div[class^=ad]
 m.mydrivers.com##[target="_blank"][rel="nofollow"]
 dl.pconline.com.cn##a[class="btn btn-org"]
