@@ -1,5 +1,5 @@
 !-----loying
-!-----2017-11-21
+!-----2017-11-25
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe$block
 |http://##a[href*="@"][href$="exe"]
@@ -56,6 +56,7 @@
 |http://ss.ting55.com$script
 |http://jsm.9939.com$script
 |http://qiyem.aiwen.cc$script
+|http://bad1.51gxqm.com$script
 |http://h1.18sd.cn$script
 |http://a1.fotao9.com$script
 |http://*/960x^00.js
