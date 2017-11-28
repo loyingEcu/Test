@@ -1,5 +1,5 @@
 !-----loying
-!-----2017-11-26
+!-----2017-11-29
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe$block
 |http://##a[href*="@"][href$="exe"]
@@ -225,6 +225,7 @@ http://bd3.shanba.com$script
 @@|http://m.fmhua.com/js/a.js
 @@http://hhaass.com/js/v.js
 ||www.64si.com
+||u.ddvip.com$script
 ||7a57a5a743894a0e.m.biquguo.com
 ||7f8d3ee6b2525320.m.biquguo.com
 ||hk.napi.ucweb.com
@@ -458,6 +459,7 @@ http://bd3.shanba.com$script
 ||lol5s.com/template/wusha/ads/*
 ||dzz8.com/public/ptcms/s_wap_novelsearch_*.js
 |http://m.zhishihao.com##img[src$="ad.jpg"]
+|http://www.360doc.com/content/$s@</body>@<script>document.body.oncopy=null;document.body.__defineSetter__("oncopy",function(){})</script></body>@
 nanrenfuli.com##div[style=" float: left; width: 46%; margin-right: 1%;"],li[id^="text-"]
 dysfz.cc##div[class^=ad]
 m.mydrivers.com##[target="_blank"][rel="nofollow"]
