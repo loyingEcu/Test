@@ -173,6 +173,7 @@
 |http://s1.hiapk.com$script
 |http://www.qqwaw.com/cache/$script
 |http://vi1.souid.com$script
+|http://www.xunleimi.com/js/ddcc/$script
 |http://mmcc.yxlady.com$script
 |http://ds.sundxs.com$script
 |http://www.qqyewu.com/jss/$script
