@@ -1,5 +1,5 @@
 !-----loying
-!-----2017-12-03
+!-----2017-12-04
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe$block
 |http://##a[href*="@"][href$="exe"]
@@ -11,8 +11,7 @@
 |http://js.xtcake.com/newblog/*
 |http://www.sogou.com/tx?ie=utf-8&hdq=*
 |http://semovie.net/moviet.php?$s@if (!urlhash.match("fromapp"))*}@
-|http://*/js/Statistics*.js$s@var m=*3://*break;@@
-|http://*/js/Statistics_t.js$s@var m=*//88*(bp, s);@@
+|http://*/js/Statistics*.js
 |http://wap.xiangcun222.com$s@<script>adcpc(21);</script>@@
 |https://tl.zcsfs.cn/d.asp?pid=
 |http://m.99mm.me$s@(function(){var d=@@
@@ -46,6 +45,9 @@
 |http://a.kejixun.com$script
 |http://jb.qqzu.com$script
 |http://1.770765.cn$script
+|http://m.hkdm99.com/js/68/$script
+|http://m.xieehao.com/skin/$script
+|http://m.yqmh.co/yq/$script
 |http://*/ads/*$domain=v5.lol5s.com
 |http://js.139y.com$script
 |http://m.aiskycn.com/show/*
@@ -243,6 +245,11 @@ http://bd3.shanba.com$script
 ||junbujian.cc/api.php?
 ||s.ndtzx.com
 ||m.qu.la/js/wap.js
+||s.hzht666.com
+||y.hzht666.com
+||vip.qqxwf.com
+||s1.521daixiao.com
+||e.yijieweizf.com
 ||xinghao89.com
 ||farwx.com
 ||dm.shanghuitianxia.cn
