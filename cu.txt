@@ -1,5 +1,5 @@
 !-----loying
-!-----2017-12-04
+!-----2017-12-07
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe$block
 |http://##a[href*="@"][href$="exe"]
@@ -266,6 +266,7 @@ http://bd3.shanba.com$script
 ||jndczg.com
 ||j.wubai.cc
 ||js.akrwi.cn
+||vj.x-ssp.com
 ||tkmdng.cn
 ||jiaoben.fanw8.com
 ||wuliao.fanw8.com
