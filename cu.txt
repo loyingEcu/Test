@@ -1,5 +1,5 @@
 !-----loying
-!-----2017-12-08
+!-----2017-12-21
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe
 |http://##a[href*="@"][href$="exe"]
@@ -444,6 +444,7 @@ http://bd3.shanba.com$script
 ||m2ka6betm.m.lanseshuba.com
 ||52.fushibooks.com
 ||18.dingdianzw.com
+||e.jingonghuanbao.com
 ||m.maisoncherry.com
 ||m.baidu.com.zhiduo.org
 ||rdlzsy.com
