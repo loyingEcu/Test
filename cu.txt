@@ -1,5 +1,5 @@
 !-----loying
-!-----2017-12-21
+!-----2017-12-23
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe
 |http://##a[href*="@"][href$="exe"]
@@ -84,6 +84,8 @@
 |http://w.yunluge.com/appios_b.asp?pid=
 |http://www.hackhome.com/js/dright.js
 |http://www.hackhome.com/js/bhref.js
+|http://c.mangofortune.net/cats/tt.js
+|http://yidong.g007.com/js/*
 |http://js.jianbaimei.com/js/dlwz-zsj
 |http://js.jianbaimei.com/inc/s.php?s
 |http://m.hackhome.com/js/topssp.js
