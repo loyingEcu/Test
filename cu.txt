@@ -1,5 +1,5 @@
 !-----loying
-!-----2017-12-24
+!-----2017-12-28
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe
 |http://##a[href*="@"][href$="exe"]
@@ -78,6 +78,7 @@
 |http://c8.wangdq.com/js/mob/3center_cpc.js
 |http://www.cilibaike.org/js/ac.js
 |http://icws.jb51.net/good/arct.js
+|http://www.dasudy.com/Runtime/js/*
 |http://m.62fan.com/js/baidu*.js
 |http://m.lifanbzk.com/templets/lifan/static/js/*.js
 |http://iphone.265g.com/templates/iphone/bottomAd.js
@@ -330,6 +331,8 @@ http://bd3.shanba.com$script
 ||js.1000dy.com
 ||s.huayi65.com
 ||88ads.com$third-party
+||s.bjgtsh.com
+||js7001.bjyikao.org
 ||s.yylys.com
 ||e.xhxnkyy.com
 ||dm.yjbys.org
