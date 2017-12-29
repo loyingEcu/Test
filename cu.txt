@@ -1,5 +1,5 @@
 !-----loying
-!-----2017-12-29
+!-----2018-01-01
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe
 |http://##a[href*="@"][href$="exe"]
@@ -481,6 +481,7 @@ http://bd3.shanba.com$script
 ||v.qq.com/*.html$s@</head>@<script>localStorage["txp-user-setting"] = JSON.stringify({"isSkipPrelude":1,"isUsePlaybackRate":1,"isUseFlash":0});</script></head>@
 ||img.ithome.com/file/js/v2.3/common.js?$s@hd_float="<div id=\@@
 ||img.ithome.com/images/zt/*
+zimuku.cn$s@document.write('<a href="*@@
 www.diyibanzhu.in$s@text/html; gb2312@ charset=gb2312@
 ctfile.com$s@var _hascsp_t8_111_02=0*cs_url_t8_111_02 = null@@
 nanrenfuli.com##div[style=" float: left; width: 46%; margin-right: 1%;"],li[id^="text-"]
