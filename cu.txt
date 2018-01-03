@@ -357,6 +357,9 @@ http://bd3.shanba.com$script
 ||s.9dcdn.cn
 ||kuaibaopay.com
 ||hnpjshop.com
+||ct.36900yh.com
+||assets.258ydh.com
+||kovjo.com
 ||mohecm.com
 ||b.gwylm.com
 ||csyueye.com
