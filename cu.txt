@@ -110,7 +110,6 @@
 |http://www.sududy.com/js/m.js
 |http://www.sududy.com/js/ku.js
 |http://www.sududy.com/js/ka.js
-!^http://www.sududy.com/js/[a-zA-Z]{1,3}\.js
 |http://dm.sg92.com/*.js
 |http://a1.289.com/*.js
 |http://m.newasp.net/templates/default/js/*
