@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-01-04
+!-----2018-01-12
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe
 |http://##a[href*="@"][href$="exe"]
@@ -511,6 +511,7 @@ tadu.com##a[href="javascript:;"]
 wap.qqswzx.com##a[href^="http://www.tubuhw.com:88"]
 wap.52pk.com##img[src^="https://www.flwja.com"]
 m.9939.com##div[class$="adv"]
+avtb*.com##img[style="padding-bottom:5px;width:950px;height:60px;left:10px;"]
 hackhome.com##a[href^="http://down.s.qq.com/download"]
 m.game333.net##[style="width:100%;height:75px"]
 m.cr173.com##li>a[href^="http://tj.tt1386.com/"]
