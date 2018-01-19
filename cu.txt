@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-01-15
+!-----2018-01-19
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe
 |http://##a[href*="@"][href$="exe"]
@@ -470,6 +470,7 @@ http://bd3.shanba.com$script
 ||xian.axkxy.com
 ||api.adv.ott.cibntv.net
 ||java.aihaoduo.cn
+||sdk.cferw.com
 ||apiserver.cctvweishi.comv
 ||api.xiaoliangchx.com
 ||c.tkd777.cn
