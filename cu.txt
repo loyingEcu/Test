@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-01-23
+!-----2018-01-29
 !火猫TV开启H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !-----------------------------------------------------------------------
@@ -218,6 +218,10 @@ http://bd3.shanba.com$script
 |http://m.qxmuye.com/d/js/wap/*
 |http://m.bzk520.com/templets/*
 |http://m.v6399.com/static/mobilebluewhite/majs/gamercm.js
+|http://a.repian.com/a/yiyi/m.js
+|http://www.xxdm.tv/for/da/tbottom.js
+|http://m.daman88.com/gjs/*
+|http://www.0855ysw.com/dp.js
 |http://www.nms8.net/static/*.js
 |http://m.kankanwu.com/le/*
 |http://m.flb0.com/js/baidu*.js
@@ -237,6 +241,13 @@ http://bd3.shanba.com$script
 @@|http://m.fmhua.com/js/b.js
 @@|http://m.fmhua.com/js/a.js
 @@http://hhaass.com/js/v.js
+||m.repian110.com/js/*
+||pc.wowhale.com
+||m.szyss.net
+||code.hiwud.com
+||m.symaj.cn
+||symaj.cn
+||6615338.cn
 ||www.64si.com
 ||u.ddvip.com$script
 ||7a57a5a743894a0e.m.biquguo.com
