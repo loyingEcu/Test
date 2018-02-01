@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-01-30
+!-----2018-2-2
 !火猫TV开启H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !-----------------------------------------------------------------------
@@ -324,6 +324,7 @@ http://bd3.shanba.com$script
 ||apk.lnwxw.cn
 ||vmjjzk.cn
 ||hqygz.com
+||m.jlkja.com
 ||dd.520zhai.net
 ||js4941.gaoxiaocup.com
 ||js7152.shxqeps.com
