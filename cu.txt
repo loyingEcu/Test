@@ -3,7 +3,7 @@
 !火猫TV开启H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !-----------------------------------------------------------------------
-!火狐添加龙珠H5开关
+!火狐添加龙珠直播H5开关
 ||star.longzhu.com$s@var lg_config = {"roomid":19569,"dailyRanking":[],"weekRanking":[],"PLAYER_SWF":"//player.plures.net/prod/player/vPlayer_v313.swf","DANMAKU_SWF":"//r.plures.net/pts/swfbin/player/danmaku-ips6ypkj.swf","SHENLONG_SWF":"//r.plures.net/pts/swfbin/gift/shenlong-ipqrer8t.swf","FLASHVAR":"&abcXmlURL=http://player.plures.net/prod/player/videoConfig/video_abcv15.xml&vxml=http://player.plures.net/prod/player/videoConfig/lz_player_37.xml","BROWSER_NAME":"Chrome/44.0.0.0+, QQBrowser/9.6.11184.400+","PLAYER_H5":"//player.plures.net/prod/html5playerbase/jquery-1.10.30.min.js"};@var lg_config = {"roomid":19569,"dailyRanking":[],"weekRanking":[],"PLAYER_SWF":"//player.plures.net/prod/player/vPlayer_v313.swf","DANMAKU_SWF":"//r.plures.net/pts/swfbin/player/danmaku-ips6ypkj.swf","SHENLONG_SWF":"//r.plures.net/pts/swfbin/gift/shenlong-ipqrer8t.swf","FLASHVAR":"&abcXmlURL=http://player.plures.net/prod/player/videoConfig/video_abcv15.xml&vxml=http://player.plures.net/prod/player/videoConfig/lz_player_37.xml","BROWSER_NAME":"Chrome/44.0.0.0+, QQBrowser/9.6.11184.400+,Mozilla/5.0+","PLAYER_H5":"//player.plures.net/prod/html5playerbase/jquery-1.10.30.min.js"};@
 !-----------------------------------------------------------------------------------------------------------
 |http://cf.qq.com/act/a20160405cftv/ntcls-live.shtml
