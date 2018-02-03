@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-2-3
+!-----2018-2-4
 !火猫TV开启H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !-----------------------------------------------------------------------
