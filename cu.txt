@@ -267,6 +267,7 @@ http://bd3.shanba.com$script
 ||vs19.gzcu.u3.ucweb.com
 ||aqiudaohang.com
 ||static.66cn.com/common/js/$script
+||sy.shongcheng.com
 ||cj.256.cc/m/js/*
 ||junbujian.cc/api.php?
 ||s.ndtzx.com
