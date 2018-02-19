@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-2-6
+!-----2018-2-20
 !-----向adm,adbyby兼容
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
@@ -518,6 +518,7 @@ http://bd3.shanba.com$script
 ||img.ithome.com/images/zt/*
 zimuku.cn$s@document.write('<a href="*@@
 |http://www.*avtb.com##div[class="ads"]
+|http://www.*avtb.com##div[class^="ads"]
 |http://www.*avtb.com##[src$=".gif"]
 www.diyibanzhu.in$s@text/html; gb2312@ charset=gb2312@
 ctfile.com$s@var _hascsp_t8_111_02=0*cs_url_t8_111_02 = null@@
