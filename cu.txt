@@ -288,6 +288,7 @@ http://bd3.shanba.com$script
 ||nbhaosheng168.com
 ||qindouxs.co/gao/js*.js
 ||static1.2436.cn/ad*/*
+||cndjs-1251973891.coshk.myqcloud.com
 ||jz5u.com/js/tl*.js|$script
 ||s.80sjw.com
 ||weld.iefsf.com
