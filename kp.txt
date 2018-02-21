@@ -22,7 +22,13 @@
 |http://semovie.net/moviet.php?$s@if (!urlhash.match("fromapp"))*}@
 |http://*/js/Statistics*.js
 |http://wap.xiangcun222.com$s@<script>adcpc(21);</script>@@
+|https://api.zzyonghao.com
+|https://cdn.openxt.cn
+|https://jingdian230.meilika.net
+|https://www.ynwqls.com
 |https://tl.zcsfs.cn/d.asp?pid=
+|http://wap.jiadiandm.com/js/68/*
+|http://mm.csn56.com:789/god/js/common_dl.js
 |http://m.99mm.me$s@(function(){var d=@@
 |http://m.chenhuiwx.org/js/foot.js
 |http://m.chenhuiwx.org/js/hfz.js
@@ -250,6 +256,8 @@ http://bd3.shanba.com$script
 ||m.szyss.net
 ||code.hiwud.com
 ||m.symaj.cn
+||ynwqls.com
+||jingdian230.meilika.net
 ||symaj.cn
 ||6615338.cn
 ||www.64si.com
