@@ -266,6 +266,7 @@ http://bd3.shanba.com$script
 ||7a57a5a743894a0e.m.biquguo.com
 ||7f8d3ee6b2525320.m.biquguo.com
 ||hk.napi.ucweb.com
+||cndjs-1251973891.coshk.myqcloud.com
 ||ppx.hgo7r.cn
 ||sea.napi.ucweb.com
 ||j0.jegxny.com
