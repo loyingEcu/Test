@@ -10,13 +10,6 @@
 |http://cf.qq.com/act/a20160405cftv/ntcls-live.shtml
 !-------------------------------------分割线-----------------------------------------------
 ||se.360.cn/errorpage/index.html?url*
-|http://*@*.exe
-|http://##a[href*="@"][href$="exe"]
-|http://##a[href*="cpro.baidu.com"],a[href*="i/?cid="]
-|http://##div[id^="_"][style="width: 100%;"]>iframe,iframe[src*="pos.baidu.com"]
-|https://##a[href*="@"][href$="exe"]
-|https://##a[href*="cpro.baidu.com"],a[href*="i/?cid="]
-|https://##div[id^="_"][style="width: 100%;"]>iframe,iframe[src*="pos.baidu.com"]
 |http://js.xtcake.com/newblog/*
 |http://www.sogou.com/tx?ie=utf-8&hdq=*
 |http://semovie.net/moviet.php?$s@if (!urlhash.match("fromapp"))*}@
