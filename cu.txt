@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-2-22
+!-----2018-2-26
 !-----向adm,adbyby兼容
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
@@ -271,6 +271,7 @@ http://bd3.shanba.com$script
 ||vs19.gzcu.u3.ucweb.com
 ||aqiudaohang.com
 ||service.ad.adesk.com
+||jscode.jbzj.com
 ||static.66cn.com/common/js/$script
 ||sy.shongcheng.com
 ||cj.256.cc/m/js/*
