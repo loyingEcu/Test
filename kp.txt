@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-2-27
+!-----2018-2-28
 !-----兼容KP
 !百度搜索广告
 |https://m.baidu.com##div[class^="ec_r_"]
@@ -347,6 +347,7 @@ http://bd3.shanba.com$script
 ||mqq.zgdmsj.cn
 ||jc.jtydbz.com
 ||js7022.gdskywings.com
+||djhbxz.com
 ||sdkdm.com
 ||c.pimst.cn
 ||tanx.sjzcmw.com
