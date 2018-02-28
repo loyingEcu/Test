@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-2-28
+!-----2018-3-1
 !-----向adm,adbyby兼容
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
@@ -242,11 +242,20 @@ http://bd3.shanba.com$script
 |http://m.flb0.com/js/Statistics*.js
 |http://m.fmhua.com/js/*.js
 |http://m.txt99.cc/Public/m/script/common.js$s@r = 2*document.writeln("<script src=\"https:*);@
+||m.ybdu.com/wap/common.js$s@if (n>3){*else{*else{*else{*else{*function home_bottom(){}@@
+||m.bqg5200.com/wap/wap.js$s@function bqg_top*(){@@
+||m.biqudu.com/js/common.js$s@function hf*(){@@
+||m.biqudu.com/js/common.js$s@function tj(){@@
+||m.biqudao.com/js/wap.js$s@function read*()@@
+||m.qu.la/jsa/p.js
 @@|http://www.ieddd.com/fanhao/v/p.js
 @@||cj.256.cc/m/js/Mbase.js
 @@|http://m.fmhua.com/js/b.js
 @@|http://m.fmhua.com/js/a.js
 @@http://hhaass.com/js/v.js
+||lzytt.com
+||bvoer.com
+||tqd.ntpddq.com
 ||m.repian110.com/js/*
 ||pc.wowhale.com
 ||m.szyss.net
