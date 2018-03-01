@@ -1,6 +1,7 @@
 |http://v.youku.com/v_show/*$s@</head>@<script src="https://git.oschina.net/hcu/tad/raw/master/vip.js"></script></head>@
-|http://v.youku.com/v_show/*$s@</body>@<script>insVIP('fns','player');</script></body>@
+|http://v.youku.com/v_show/*$s@</body>@<script>insVIP('vpactionv5_iframe_wrap','player');</script></body>@
 ||v.youku.com/v_show/*###player:not([style])>iframe{height:calc(100% - 50px)}csshack
+||v.youku.com/v_show/*##div[class="vpactionv5_iframe_wrap"]>select{margin-top:2px}
 
 |http://www.tudou.com/albumplay/*.html$s@</head>@<script src="https://git.oschina.net/hcu/tad/raw/master/vip.js"></script></head>@
 |http://www.tudou.com/albumplay/*.html$s@</body>@<script>insVIP('tab_nav fix','player');</script></body>@
