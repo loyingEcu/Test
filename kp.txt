@@ -529,6 +529,8 @@ http://bd3.shanba.com$script
 ||lol5s.com/template/wusha/ads/*
 ||dzz8.com/public/ptcms/s_wap_novelsearch_*.js
 |http://m.zhishihao.com##img[src$="ad.jpg"]
+|https://graph.qq.com$s@</html><script>document.getElementById('select_all').click();</script></html>
+|https://bing.com/translator$s@</head>@</head><script>document.cookie = "destLang=zh-CHS";</script>
 /^http:\/\/www\.[1-9]*avtb\.com/$s@var s = document.createElement('script');@@
 /^http:\/\/www\.[1-9]*avtb\.com/$s@style="*bottom:5px;width:1089px;height:77px;"@style="display:none"@
 /^http:\/\/www\.[1-9]*avtb\.com/$s@style="*bottom:5px;width:1090px;height:77px;"@style="display:none"@
