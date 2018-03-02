@@ -545,6 +545,7 @@ http://bd3.shanba.com$script
 zimuku.cn$s@document.write('<a href="*@@
 |http://www.*avtb.com##div[class="ads"]
 |http://www.*avtb.com##[src$=".gif"]
+xiaodao.la##[src$="/20170223000126702670.gif"]
 www.diyibanzhu.in$s@text/html; gb2312@ charset=gb2312@
 ctfile.com$s@var _hascsp_t8_111_02=0*cs_url_t8_111_02 = null@@
 nanrenfuli.com##div[style=" float: left; width: 46%; margin-right: 1%;"],li[id^="text-"]
