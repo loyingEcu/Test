@@ -1,9 +1,10 @@
 !-----loying
-!-----2018-3-1
+!-----2018-3-2
 !-----兼容KP
-!百度搜索广告
+!百度广告
 |https://m.baidu.com##div[class^="ec_r_"]
 |https://m.baidu.com$s@.ad-baokuan-container@@
+|https://zhidao.baidu.com##div[class$="-ads"]
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !-----------------------------------------------------------------------
