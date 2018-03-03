@@ -20,6 +20,7 @@
 |http://semovie.net/moviet.php?$s@if (!urlhash.match("fromapp"))*}@
 |http://*/js/Statistics*.js
 |http://wap.xiangcun222.com$s@<script>adcpc(21);</script>@@
+|https://www.qupinhj.com
 |https://ed.sczhilong.cn
 |https://api.zzyonghao.com
 |https://cdn.openxt.cn
@@ -403,6 +404,7 @@ http://bd3.shanba.com$script
 ||hnpjshop.com
 ||ct.36900yh.com
 ||assets.258ydh.com
+||qupinhj.com
 ||kovjo.com
 ||mohecm.com
 ||b.gwylm.com
