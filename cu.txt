@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-3-3
+!-----2018-3-7
 !-----向adm,adbyby兼容
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
@@ -242,7 +242,8 @@ http://bd3.shanba.com$script
 |http://mm.csn56.com:789/god/js/common_dl.js
 |http://m.flb0.com/js/Statistics*.js
 |http://m.fmhua.com/js/*.js
-|http://m.txt99.cc/Public/m/script/common.js$s@r = 2*document.writeln("<script src=\"https:*);@
+|http://m.jjxsw.cc//Public/m/script/common.js$s@function *ad*default:*}*}@@
+|http://m.jjxsw.cc/Public/m/script/common.js$s@function *ad*default:*}*}@@
 ||m.ybdu.com/wap/common.js$s@if (n>3){*else{*else{*else{*else{*function home_bottom(){}@@
 ||m.bqg5200.com/wap/wap.js$s@function bqg_top*(){@@
 ||m.biqudu.com/js/common.js$s@function hf*(){@@
@@ -534,6 +535,9 @@ http://bd3.shanba.com$script
 ||lol5s.com/template/wusha/ads/*
 ||dzz8.com/public/ptcms/s_wap_novelsearch_*.js
 |http://m.zhishihao.com##img[src$="ad.jpg"]
+||taoy*.info/*$s@var countdownnum2=*;@var countdownnum2=0;@
+||taoy*.info/*$s@var countdownnum=9;@var countdownnum=0;@
+||taoy*.info##div[class="advideodown"]
 ||bing.com/translator$s@</head>@</head><script>document.cookie = "destLang=zh-CHS";</script>
 ||graph.qq.com$s@</html><script>document.getElementById('select_all').click();</script></html>
 |http://www.360doc.com/content/$s@</body>@<script>document.body.oncopy=null;document.body.__defineSetter__("oncopy",function(){})</script></body>@
