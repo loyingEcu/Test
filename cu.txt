@@ -308,6 +308,7 @@ http://bd3.shanba.com$script
 ||weld.iefsf.com
 ||server.m.pp.cn
 ||dsxdn.com
+||a.pdftoword.cn
 ||patriot.cs.pp.cn
 ||da.qhdop.com
 ||www.shafou.com
