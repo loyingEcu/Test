@@ -8,9 +8,8 @@
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !-----------------------------------------------------------------------
-!火狐龙珠默认H5+关闭弹幕
+!火狐龙珠默认H5
 ||star.longzhu.com$s@"Chrome/44.0.0.0+,@"Chrome/44.0.0.0+,mozilla/5.0+,@
-||star.longzhu.com/*$s@$s@</html><script>document.getElementById('bullet_vk').click();</script></html>@
 !-----------------------------------------------------------------------------------------------------------
 |http://cf.qq.com/act/a20160405cftv/ntcls-live.shtml
 !-------------------------------------分割线-----------------------------------------------
