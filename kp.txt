@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-3-23
+!-----2018-3-25
 !-----兼容KP
 !百度广告
 |https://m.baidu.com##div[class^="ec_r_"]
@@ -26,7 +26,13 @@
 |https://cdn.openxt.cn
 |https://jingdian230.meilika.net
 |https://www.ynwqls.com
+|https://ms.qaqact.cn
 |https://tl.zcsfs.cn/d.asp?pid=
+|https://zxr.fzxrjx.com
+||https://vmzqwz.cn
+||https://layyi.com
+||https://sysal.cn
+||https://qsove.com
 |http://wap.jiadiandm.com/js/68/*
 |http://mm.csn56.com:789/god/js/common_dl.js
 |http://m.99mm.me$s@(function(){var d=@@
@@ -264,6 +270,11 @@ http://bd3.shanba.com$script
 ||m.szyss.net
 ||code.hiwud.com
 ||m.symaj.cn
+||m.sysal.cn
+||layyi.com
+||qsove.com
+||vmzqwz.cn
+||zxr.fzxrjx.com
 ||ynwqls.com
 ||jingdian230.meilika.net
 ||symaj.cn
@@ -279,6 +290,7 @@ http://bd3.shanba.com$script
 ||ppx.hgo7r.cn
 ||sea.napi.ucweb.com
 ||j0.jegxny.com
+||ms.qaqact.cn
 ||m8t1130.gaolen.com
 ||iutr.uozwys.top
 ||cfg.aiclicash.com
