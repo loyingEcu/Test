@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-3-25
+!-----2018-3-26
 !-----兼容KP
 !百度广告
 |https://m.baidu.com##div[class^="ec_r_"]
@@ -26,6 +26,7 @@
 |https://cdn.openxt.cn
 |https://jingdian230.meilika.net
 |https://www.ynwqls.com
+|https://ss.symav.cn
 |https://ms.qaqact.cn
 |https://tl.zcsfs.cn/d.asp?pid=
 |https://zxr.fzxrjx.com
