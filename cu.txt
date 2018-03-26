@@ -558,6 +558,7 @@ http://bd3.shanba.com$script
 ||img.ithome.com/file/js/v2.3/common.js?$s@hd_float="<div id=\@@
 ||img.ithome.com/images/zt/*
 zimuku.cn$s@document.write('<a href="*@@
+wap.51.com##a[href="http://hong.51.com/?code=yl"]
 |http://www.*avtb.com##div[class="ads"]
 |http://www.*avtb.com##div[class^="ads"]
 |http://www.*avtb.com##[src$=".gif"]
