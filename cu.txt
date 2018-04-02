@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-3-27
+!-----2018-4-3
 !-----向adm,adbyby兼容
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
@@ -248,6 +248,7 @@ http://bd3.shanba.com$script
 ||m.biqudu.com/js/common.js$s@function hf*(){@@
 ||m.biqudu.com/js/common.js$s@function tj(){@@
 ||m.biqudao.com/js/wap.js$s@function read*()@@
+||img.aolusb.com/forever/*
 ||m.qu.la/jsa/p.js
 @@|http://www.ieddd.com/fanhao/v/p.js
 @@||cj.256.cc/m/js/Mbase.js
