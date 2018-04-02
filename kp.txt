@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-3-27
+!-----2018-4-3
 !-----兼容KP
 !百度广告
 |https://m.baidu.com##div[class^="ec_r_"]
@@ -19,6 +19,7 @@
 |http://semovie.net/moviet.php?$s@if (!urlhash.match("fromapp"))*}@
 |http://*/js/Statistics*.js
 |http://wap.xiangcun222.com$s@<script>adcpc(21);</script>@@
+|https://img.aolusb.com/forever/*
 |https://www.qupinhj.com
 |https://ed.sczhilong.cn
 |https://km.jianduankm.com
