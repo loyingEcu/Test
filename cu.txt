@@ -1,16 +1,19 @@
 !-----loying
-!-----2018-4-4
+!-----2018-4-5
 !-----向adm,adbyby兼容
 !为EDGE火狐直播平台开启H5
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
-!-----------------------------------------------------------------------
+!-----------------------------------------------------------------------------------------------------------
 !YY虎牙播开启H5 火狐只支持57以上 请在about:config里将javascript.options.streams 和 dom.streams.enabled 参数改为 true
 yy.com/*$s@</head>@<script>Object.defineProperty(navigator, 'plugins', {get: function () {return { length: 0 };}});'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0",writable:false,configurable:false,enumerable:true});</script></head>@
 huya.com/*$s@</head>@<script>Object.defineProperty(navigator, 'plugins', {get: function () {return { length: 0 };}});'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0",writable:false,configurable:false,enumerable:true});</script></head>@
 !-----------------------------------------------------------------------------------------------------------
 !龙珠默认H5
 ||star.longzhu.com$s@"Chrome/44.0.0.0+,@"Chrome/44.0.0.0+,mozilla/5.0+,@
+!-----------------------------------------------------------------------------------------------------------
+!斗鱼默认H5
+douyu.com/*$s@</head>@<script>(function() {'use strict';const switchCheck = setInterval(function () {if (unsafeWindow.__player &&unsafeWindow.__player.switchPlayer){unsafeWindow.__player.switchPlayer('h5');clearInterval(switchCheck);}}, 500);})();</script></head>@
 !-----------------------------------------------------------------------------------------------------------
 !屏蔽CF退出弱智直播
 |http://cf.qq.com/act/a20160405cftv/ntcls-live.shtml
