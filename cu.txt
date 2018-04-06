@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-4-5
+!-----2018-4-7
 !-----向adm,adbyby兼容
 !为EDGE火狐直播平台开启H5
 !火猫TV强制H5
@@ -17,6 +17,12 @@ douyu.com/*$s@</head>@<script>(function() {'use strict';const switchCheck = setI
 !-----------------------------------------------------------------------------------------------------------
 !屏蔽CF退出弱智直播
 |http://cf.qq.com/act/a20160405cftv/ntcls-live.shtml
+!修正adbyby漫画网站的误杀
+@@|http://www.ieddd.com/fanhao/v/p.js
+@@||cj.256.cc/m/js/Mbase.js
+@@|http://m.fmhua.com/js/b.js
+@@|http://m.fmhua.com/js/a.js
+@@|http://hhaass.com/js/v.js
 !-------------------------------------分割线-----------------------------------------------
 ||se.360.cn/errorpage/index.html?url*
 |http://*@*.exe
@@ -259,11 +265,6 @@ http://bd3.shanba.com$script
 ||m.biqudao.com/js/wap.js$s@function read*()@@
 ||img.aolusb.com/forever/*
 ||m.qu.la/jsa/p.js
-@@|http://www.ieddd.com/fanhao/v/p.js
-@@||cj.256.cc/m/js/Mbase.js
-@@|http://m.fmhua.com/js/b.js
-@@|http://m.fmhua.com/js/a.js
-@@http://hhaass.com/js/v.js
 ||lzytt.com
 ||bvoer.com
 ||tqd.ntpddq.com
