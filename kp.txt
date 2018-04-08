@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-4-8
+!-----2018-4-9
 !-----兼容KP
 !为EDGE火狐直播平台开启H5
 !火猫TV强制H5
@@ -18,10 +18,12 @@ douyu.com/*$s@</head>@<script>(function() {'use strict';const switchCheck = setI
 !屏蔽CF退出弱智直播
 |http://cf.qq.com/act/a20160405cftv/ntcls-live.shtml
 !-------------------------------------分割线-----------------------------------------------
-!百度广告
 |https://m.baidu.com##div[class^="ec_r_"]
 |https://m.baidu.com$s@.ad-baokuan-container@@
 |https://zhidao.baidu.com##div[class$="-ads"]
+||https://ads.api.vungle.com
+||https://z.moatads.com
+||https://googleads.g.doubleclick.net
 |http://xiaobai.ruanjiandown.com:7457/share/*.mp4$domain=windows7en.com
 ||se.360.cn/errorpage/index.html?url*
 |http://js.xtcake.com/newblog/*
@@ -274,6 +276,9 @@ http://bd3.shanba.com$script
 |https://tqd.ntpddq.com
 ||https://bvoer.com
 ||https://lzytt.com
+||ads.api.vungle.com
+||z.moatads.com
+||hgoogleads.g.doubleclick.net
 ||lzytt.com
 ||bvoer.com
 ||tqd.ntpddq.com
