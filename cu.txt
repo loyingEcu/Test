@@ -571,7 +571,6 @@ http://bd3.shanba.com$script
 ||graph.qq.com$s@</html><script>document.getElementById('select_all').click();</script></html>
 |http://www.360doc.com/content/$s@</body>@<script>document.body.oncopy=null;document.body.__defineSetter__("oncopy",function(){})</script></body>@
 ||v.qq.com/*.html$s@</head>@<script>localStorage["txp-user-setting"] = JSON.stringify({"isSkipPrelude":1,"isUsePlaybackRate":1,"isUseFlash":0});</script></head>@
-||img.ithome.com/file/js/v2.3/common.js?$s@hd_float="<div id=\@@
 ||img.ithome.com/images/zt/*
 zimuku.cn$s@document.write('<a href="*@@
 wap.51.com##a[href="http://hong.51.com/?code=yl"]
