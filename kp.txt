@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-4-9
+!-----2018-4-11
 !-----兼容KP
 !为EDGE火狐直播平台开启H5
 !火猫TV强制H5
@@ -24,6 +24,7 @@ douyu.com/*$s@</head>@<script>(function() {'use strict';const switchCheck = setI
 ||https://ads.api.vungle.com
 ||https://z.moatads.com
 ||https://googleads.g.doubleclick.net
+||https://tuituigui19999.com
 |http://xiaobai.ruanjiandown.com:7457/share/*.mp4$domain=windows7en.com
 ||se.360.cn/errorpage/index.html?url*
 |http://js.xtcake.com/newblog/*
