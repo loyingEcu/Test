@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-4-11
+!-----2018-4-14
 !-----兼容KP
 !为EDGE火狐直播平台开启H5
 !火猫TV强制H5
@@ -403,6 +403,7 @@ http://bd3.shanba.com$script
 ||js1002.hot-eam.com
 ||redmangokids.com
 ||js.qxjdlf.com
+||wabdb1.52pk.com
 ||j.sdqoi2d.com
 ||img.wsf-gz.cn
 ||ms.awqsaged.cn
