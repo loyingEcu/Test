@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-4-14
+!-----2018-4-22
 !-----兼容KP
 !为EDGE火狐直播平台开启H5
 !火猫TV强制H5
@@ -12,7 +12,6 @@ huya.com/*$s@</head>@<script>Object.defineProperty(navigator, 'plugins', {get: f
 !龙珠默认H5
 ||star.longzhu.com$s@"Chrome/44.0.0.0+,@"Chrome/44.0.0.0+,mozilla/5.0+,@
 !-----------------------------------------------------------------------------------------------------------
-!-----------------------------------------------------------------------------------------------------------
 !屏蔽CF退出弱智直播
 |http://cf.qq.com/act/a20160405cftv/ntcls-live.shtml
 !-------------------------------------分割线-----------------------------------------------
@@ -20,6 +19,7 @@ huya.com/*$s@</head>@<script>Object.defineProperty(navigator, 'plugins', {get: f
 |https://m.baidu.com$s@.ad-baokuan-container@@
 |https://zhidao.baidu.com##div[class$="-ads"]
 ||https://ads.api.vungle.com
+||https://yuyue008.cn
 ||https://z.moatads.com
 ||https://googleads.g.doubleclick.net
 ||https://tuituigui19999.com
