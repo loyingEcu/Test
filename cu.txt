@@ -304,6 +304,7 @@ http://bd3.shanba.com$script
 ||km.jianduankm.com
 ||pc.5151gj.com
 ||static.66cn.com/common/js/$script
+||yuyue008.cn
 ||sy.shongcheng.com
 ||cj.256.cc/m/js/*
 ||junbujian.cc/api.php?
