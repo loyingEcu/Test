@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-4-22
+!-----2018-4-23
 !-----兼容KP
 !为EDGE火狐直播平台开启H5
 !火猫TV强制H5
@@ -18,6 +18,7 @@ huya.com/*$s@</head>@<script>Object.defineProperty(navigator, 'plugins', {get: f
 |https://m.baidu.com##div[class^="ec_r_"]
 |https://m.baidu.com$s@.ad-baokuan-container@@
 |https://zhidao.baidu.com##div[class$="-ads"]
+|https://www.ttrar.com/statics/pos_js/*
 ||https://ads.api.vungle.com
 ||https://yuyue008.cn
 ||https://z.moatads.com
