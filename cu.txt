@@ -262,7 +262,7 @@ http://bd3.shanba.com$script
 ||m.biqudu.com/js/common.js$s@function hf*(){@@
 ||m.biqudu.com/js/common.js$s@function tj(){@@
 ||m.biqudao.com/js/wap.js$s@function read*()@@
-||ttrar.com/statics/pos_js/*
+||ttrar.com/statics/pos_js/ydggw*.js
 ||img.aolusb.com/forever/*
 ||m.qu.la/jsa/p.js
 ||ads.api.vungle.com
