@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-4-23
+!-----2018-5-8
 !-----向adm,adbyby兼容
 !为EDGE火狐直播平台开启H5
 !火猫TV强制H5
@@ -254,6 +254,7 @@ http://bd3.shanba.com$script
 |http://wap.jiadiandm.com/js/68/*
 |http://mm.csn56.com:789/god/js/common_dl.js
 |http://m.flb0.com/js/Statistics*.js
+|http://m.031067.com/js/xett*t.js
 |http://m.fmhua.com/js/*.js
 |http://m.jjxsw.cc//Public/m/script/common.js$s@function *ad*default:*}*}@@
 |http://m.jjxsw.cc/Public/m/script/common.js$s@function *ad*default:*}*}@@
@@ -364,6 +365,21 @@ http://bd3.shanba.com$script
 ||adsapi.manhuaren.com
 ||tangoutianxia.com
 ||js.bjwwfx001.org.cn
+||e.zhuyuanp.club
+||m.zhuyuanp.club
+||e.yicang8.com
+||m.yicang8.com
+||e.zhuyuanp.top
+||m.zhuyuanp.top
+||e.apxyz.com
+||m.apxyz.com
+||in.zhfyws.com
+||uyw.kyad88.com
+||f.petsheying.com
+||k.85wa.cn
+||niwd.zhybw88.com
+||qifann.com
+
 ||nvrentao8.com
 ||js.bjwwfx001.org.cn
 ||js651.dupinpu.com
