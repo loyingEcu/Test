@@ -93,6 +93,7 @@ huya.com/*$s@</head>@<script>Object.defineProperty(navigator, 'plugins', {get: f
 |http://www.qqtouxiang.com/skin/js/global.js$s@function brand*() {*}@@
 |http://m.shuqu8.com$s@var s =*);@
 |http://m.dingdianzw.com$s@;(function() {var d = (/UCBrowser|QQBrowser|MiuiBrowser/@@
+|http://m.neihanpa.com/skin/js/commonuo.js$s@imgwrap.innerHTML='<div class="div-link">'+i+'<span class="close-l">x</span></div>';@@
 |http://*/templets/*/static/js/*.js
 |http://kankanwu.com/xuxu/*
 |http://www.onegreen.net/MyFile/QQ_left*.js
