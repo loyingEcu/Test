@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-5-27
+!-----2018-6-2
 !-----向adm,adbyby兼容
 !为EDGE火狐直播平台开启H5
 !火猫TV强制H5
@@ -264,6 +264,7 @@ http://bd3.shanba.com$script
 ||m.biqudu.com/js/common.js$s@function hf*(){@@
 ||m.biqudu.com/js/common.js$s@function tj(){@@
 ||m.biqudao.com/js/wap.js$s@function read*()@@
+||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
 ||img.aolusb.com/forever/*
 ||m.qu.la/jsa/p.js
