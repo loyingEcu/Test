@@ -287,6 +287,8 @@ http://bd3.shanba.com$script
 ||6615338.cn
 ||ksksqa.cn
 ||ms.awqsaged.cn
+||73.sinawap.com
+||37.sinawap.com
 ||www.64si.com
 ||qupinhj.com
 ||u.ddvip.com$script
