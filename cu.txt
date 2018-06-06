@@ -40,6 +40,7 @@ huya.com/*$s@</head>@<script>Object.defineProperty(navigator, 'plugins', {get: f
 |https://tl.zcsfs.cn/d.asp?pid=
 |http://m.99mm.me$s@(function(){var d=@@
 |http://er.dlhygj.com/js/*
+|http://boardx.huanqiu.com/smu*/c.js
 |http://m.chenhuiwx.org/js/foot.js
 |http://m.chenhuiwx.org/js/hfz.js
 |http://m.bookben.com/js/m/wap.js
