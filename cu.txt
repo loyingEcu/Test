@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-6-6
+!-----2018-6-9
 !-----向adm,adbyby兼容
 !为EDGE火狐直播平台开启H5
 !火猫TV强制H5
@@ -273,6 +273,7 @@ http://bd3.shanba.com$script
 ||m.qu.la/jsa/p.js
 ||ads.api.vungle.com
 ||z.moatads.com
+||titi.qifajiang.cn
 ||googleads.g.doubleclick.net
 ||lzytt.com
 ||bvoer.com
