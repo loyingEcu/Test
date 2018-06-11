@@ -1,6 +1,5 @@
 !-----loying
-!-----2018-6-10
-!-----向adm,adbyby兼容
+!-----2018-6-11
 !为EDGE火狐直播平台开启H5
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
@@ -34,6 +33,7 @@ huya.com/*$s@</head>@<script>Object.defineProperty(navigator, 'plugins', {get: f
 |http://js.xtcake.com/newblog/*
 |http://www.sogou.com/tx?ie=utf-8&hdq=*
 |http://semovie.net/moviet.php?$s@if (!urlhash.match("fromapp"))*}@
+|http://m.*js$s@function *ad*case 1:*break;*case 2:*break;*case 3:*break;@
 |http://104.225.235.176/*
 |http://*/js/Statistics*.js
 |http://wap.xiangcun222.com$s@<script>adcpc(21);</script>@@
@@ -303,6 +303,12 @@ http://bd3.shanba.com$script
 ||ppx.hgo7r.cn
 ||sea.napi.ucweb.com
 ||shke.kuuad.com
+||ssh.szxiuchang.com
+||qinchugudao.com
+||c.statstat888.com
+||c.sssgao999.com
+||c.cyto-biotherapy.com
+||zs0611.chuanxianwanguan.com
 ||ssh.lifu11.com
 ||wsoe.kwiago.com
 ||js.69lm.com.cn
