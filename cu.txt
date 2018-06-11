@@ -15,11 +15,9 @@ huya.com/*$s@</head>@<script>Object.defineProperty(navigator, 'plugins', {get: f
 !屏蔽CF退出弱智直播
 |http://cf.qq.com/act/a20160405cftv/ntcls-live.shtml
 !修正adbyby漫画网站的误杀
-@@|http://www.ieddd.com/fanhao/v/p.js
 @@||cj.256.cc/m/js/Mbase.js
 @@|http://m.fmhua.com/js/b.js
 @@|http://m.fmhua.com/js/a.js
-@@|http://hhaass.com/js/v.js
 !-------------------------------------分割线-----------------------------------------------
 ||se.360.cn/errorpage/index.html?url*
 |http://xiaobai.ruanjiandown.com:7457/share/*.mp4$domain=windows7en.com
