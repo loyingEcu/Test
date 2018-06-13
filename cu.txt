@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-6-11
+!-----2018-6-13
 !为EDGE火狐直播平台开启H5
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
@@ -38,6 +38,7 @@ huya.com/*$s@</head>@<script>Object.defineProperty(navigator, 'plugins', {get: f
 |https://tl.zcsfs.cn/d.asp?pid=
 |http://m.99mm.me$s@(function(){var d=@@
 |http://er.dlhygj.com/js/*
+|http://www.jz5u.com/count2.js
 |http://boardx.huanqiu.com/smu*/c.js
 |http://m.chenhuiwx.org/js/foot.js
 |http://m.chenhuiwx.org/js/hfz.js
