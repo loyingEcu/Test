@@ -298,7 +298,11 @@ http://bd3.shanba.com$script
 ||7a57a5a743894a0e.m.biquguo.com
 ||7f8d3ee6b2525320.m.biquguo.com
 ||img.wsf-gz.cn
+||ad.shuoshuomi.com
+||somennew.com
 ||atcryp.com
+||er.dlhygj.com
+||c6.lnymd.com
 ||hk.napi.ucweb.com
 ||ppx.hgo7r.cn
 ||sea.napi.ucweb.com
