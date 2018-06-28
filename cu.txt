@@ -20,6 +20,7 @@
 ||se.360.cn/errorpage/index.html?url*
 |http://xiaobai.ruanjiandown.com:7457/share/*.mp4$domain=windows7en.com
 |http://*@*.exe
+|http://*@*_*.exe
 |http://##a[href*="@"][href$="exe"]
 |http://##a[href*="cpro.baidu.com"],a[href*="i/?cid="]
 |http://##div[id^="_"][style="width: 100%;"]>iframe,iframe[src*="pos.baidu.com"]
