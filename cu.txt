@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-7-2
+!-----2018-7-3
 !为EDGE火狐直播平台开启H5
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
@@ -38,6 +38,7 @@
 |http://m.99mm.me$s@(function(){var d=@@
 |http://er.dlhygj.com/js/*
 |http://www.jz5u.com/count2.js
+|http://www.sss1368.com/js/*.js
 |http://boardx.huanqiu.com/smu*/c.js
 |http://m.chenhuiwx.org/js/foot.js
 |http://m.chenhuiwx.org/js/hfz.js
@@ -269,6 +270,9 @@ http://bd3.shanba.com$script
 ||m.biqudao.com/js/wap.js$s@function read*()@@
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
+||www.jagcn.com
+||ddd.haodizhi666.com
+||woaizhongguo.cdn111222.com
 ||img.aolusb.com/forever/*
 ||m.qu.la/jsa/p.js
 ||ads.api.vungle.com
@@ -636,6 +640,8 @@ wap.51.com##a[href="http://hong.51.com/?code=yl"]
 |http://www.*avtb.com##div[class="ads"]
 |http://www.*avtb.com##div[class^="ads"]
 |http://www.*avtb.com##[src$=".gif"]
+69tang9.com##div[id^="guanggao"]
+69tang9.com##div[class="dahengfu"]
 www.diyibanzhu.in$s@text/html; gb2312@ charset=gb2312@
 ctfile.com$s@var _hascsp_t8_111_02=0*cs_url_t8_111_02 = null@@
 nanrenfuli.com##div[style=" float: left; width: 46%; margin-right: 1%;"],li[id^="text-"]
