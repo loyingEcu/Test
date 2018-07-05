@@ -1,55 +1,35 @@
 !-----loying
-!-----2018-4-23
-!-----兼容KP
+!-----2018-7-3
 !为EDGE火狐直播平台开启H5
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !-----------------------------------------------------------------------------------------------------------
-!YY虎牙直播开启H5 火狐只支持57以上 请在about:config里将javascript.options.streams 和 dom.streams.enabled 参数改为 true
-yy.com/*$s@</head>@<script>Object.defineProperty(navigator, 'plugins', {get: function () {return { length: 0 };}});'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36",writable:false,configurable:false,enumerable:true});</script></head>@
-huya.com/*$s@</head>@<script>Object.defineProperty(navigator, 'plugins', {get: function () {return { length: 0 };}});'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36",writable:false,configurable:false,enumerable:true});</script></head>@
-!-----------------------------------------------------------------------------------------------------------
 !龙珠默认H5
 ||star.longzhu.com$s@"Chrome/44.0.0.0+,@"Chrome/44.0.0.0+,mozilla/5.0+,@
+!-----------------------------------------------------------------------------------------------------------
+!解决火狐不能播放PPTV视频
+||pptv.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36",writable:false,configurable:false,enumerable:true});</script></head>@
 !-----------------------------------------------------------------------------------------------------------
 !屏蔽CF退出弱智直播
 |http://cf.qq.com/act/a20160405cftv/ntcls-live.shtml
 !-------------------------------------分割线-----------------------------------------------
-|https://m.baidu.com##div[class^="ec_r_"]
-|https://m.baidu.com$s@.ad-baokuan-container@@
-|https://zhidao.baidu.com##div[class$="-ads"]
-|https://www.ttrar.com/statics/pos_js/ydggw*.js
-||https://ads.api.vungle.com
-||https://yuyue008.cn
-||https://z.moatads.com
-||https://googleads.g.doubleclick.net
-||https://tuituigui19999.com
-|http://xiaobai.ruanjiandown.com:7457/share/*.mp4$domain=windows7en.com
 ||se.360.cn/errorpage/index.html?url*
+|http://xiaobai.ruanjiandown.com:7457/share/*.mp4$domain=windows7en.com
+|http://*/*@*.exe
+|http://*/*@*_*.exe
 |http://js.xtcake.com/newblog/*
 |http://www.sogou.com/tx?ie=utf-8&hdq=*
 |http://semovie.net/moviet.php?$s@if (!urlhash.match("fromapp"))*}@
+|http://m.*js$s@function *ad*case 1:*break;*case 2:*break;*case 3:*break;@
+|http://104.225.235.176/*
 |http://*/js/Statistics*.js
 |http://wap.xiangcun222.com$s@<script>adcpc(21);</script>@@
-|https://img.aolusb.com/forever/*
-|https://www.qupinhj.com
-|https://ed.sczhilong.cn
-|https://km.jianduankm.com
-|https://api.zzyonghao.com
-|https://cdn.openxt.cn
-|https://jingdian230.meilika.net
-|https://www.ynwqls.com
-|https://ss.symav.cn
-|https://ms.qaqact.cn
 |https://tl.zcsfs.cn/d.asp?pid=
-|https://zxr.fzxrjx.com
-||https://vmzqwz.cn
-||https://layyi.com
-||https://sysal.cn
-||https://qsove.com
-|http://wap.jiadiandm.com/js/68/*
-|http://mm.csn56.com:789/god/js/common_dl.js
 |http://m.99mm.me$s@(function(){var d=@@
+|http://er.dlhygj.com/js/*
+|http://www.jz5u.com/count2.js
+|http://www.sss1368.com/js/*.js
+|http://boardx.huanqiu.com/smu*/c.js
 |http://m.chenhuiwx.org/js/foot.js
 |http://m.chenhuiwx.org/js/hfz.js
 |http://m.bookben.com/js/m/wap.js
@@ -102,9 +82,11 @@ huya.com/*$s@</head>@<script>Object.defineProperty(navigator, 'plugins', {get: f
 |http://*index960.js$script
 |http://a1.79432.com$script
 |http://s.iroby.com$script
+|http://www.69tang9.com/player/html.php?aid=start_html&video_id=
 |http://www.qqtouxiang.com/skin/js/global.js$s@function brand*() {*}@@
 |http://m.shuqu8.com$s@var s =*);@
 |http://m.dingdianzw.com$s@;(function() {var d = (/UCBrowser|QQBrowser|MiuiBrowser/@@
+|http://m.neihanpa.com/skin/js/commonuo.js$s@imgwrap.innerHTML='<div class="div-link">'+i+'<span class="close-l">x</span></div>';@@
 |http://*/templets/*/static/js/*.js
 |http://kankanwu.com/xuxu/*
 |http://www.onegreen.net/MyFile/QQ_left*.js
@@ -263,60 +245,104 @@ http://bd3.shanba.com$script
 |http://m.xqingdou.com/js/baidu.js
 |http://www.lwxs*.com/web/js/17mb.js
 |http://m.hkdm688.com/js/68/wap*.js
+|http://wap.jiadiandm.com/js/68/*
+|http://mm.csn56.com:789/god/js/common_dl.js
 |http://m.flb0.com/js/Statistics*.js
+|http://m.031067.com/js/xett*t.js
 |http://m.fmhua.com/js/*.js
 |http://m.jjxsw.cc//Public/m/script/common.js$s@function *ad*default:*}*}@@
 |http://m.jjxsw.cc/Public/m/script/common.js$s@function *ad*default:*}*}@@
-|https://m.ybdu.com/wap/common.js$s@if (n>3){*else{*else{*else{*else{*function home_bottom(){}@@
-|https://m.bqg5200.com/wap/wap.js$s@function bqg_top*(){@@
-|https://m.biqudu.com/js/common.js$s@function hf*(){@@
-|https://m.biqudu.com/js/common.js$s@function tj(){@@
-|https://m.biqudao.com/js/wap.js$s@function read*()@@
-|https://m.qu.la/jsa/p.js
-|https://tqd.ntpddq.com
-||https://bvoer.com
-||https://lzytt.com
+||img.ithome.com/file/js/v2.3/common.js$s@tyle=\"display:block;width:240px;height:240px;background:url(//*)@@
+||img.ithome.com/file/js/v2.3/common.js$s@showFullSrcModal("https://s.click.taobao.com/*);@@
+||m.ybdu.com/wap/common.js$s@if (n>3){*else{*else{*else{*else{*function home_bottom(){}@@
+||m.bqg5200.com/wap/wap.js$s@function bqg_top*(){@@
+||m.biqudu.com/js/common.js$s@function hf*(){@@
+||m.biqudu.com/js/common.js$s@function tj(){@@
+||m.biqudao.com/js/wap.js$s@function read*()@@
+||womt.xyz$s@freeaddon_banadblock@@
+||ttrar.com/statics/pos_js/ydggw*.js
+||www.jagcn.com
+||ddd.haodizhi666.com
+||woaizhongguo.cdn111222.com
+||img.aolusb.com/forever/*
+||m.qu.la/jsa/p.js
 ||ads.api.vungle.com
 ||z.moatads.com
-||hgoogleads.g.doubleclick.net
+||g.d.cg
+||bu1.duba.com
+||bu2.duba.com
+||titi.qifajiang.cn
+||googleads.g.doubleclick.net
 ||lzytt.com
+||gcs1.cn
 ||bvoer.com
 ||tqd.ntpddq.com
+||s.652748.com
 ||m.repian110.com/js/*
 ||pc.wowhale.com
+||file.70wei.com
+||cdn.openxt.cn
 ||m.szyss.net
+||j.baminw.cn
 ||code.hiwud.com
 ||m.symaj.cn
-||m.sysal.cn
-||layyi.com
-||qsove.com
-||vmzqwz.cn
-||zxr.fzxrjx.com
-||ynwqls.com
-||jingdian230.meilika.net
+||plz.jandan.net
 ||symaj.cn
 ||6615338.cn
+||ksksqa.cn
+||ms.awqsaged.cn
+||73.sinawap.com
+||37.sinawap.com
 ||www.64si.com
+||qupinhj.com
+||ihl3ga.hepengshan.cn
+||gyca9f.dahuangcheng.cn
+||wer.bendougou.cn
+||bmw2ep.paomifen.cn
+||ll.songlaoban.cn
 ||u.ddvip.com$script
-||service.ad.adesk.com
 ||7a57a5a743894a0e.m.biquguo.com
 ||7f8d3ee6b2525320.m.biquguo.com
-||jscode.jbzj.com
+||img.wsf-gz.cn
+||ad.shuoshuomi.com
+||somennew.com
+||atcryp.com
+||er.dlhygj.com
+||c6.lnymd.com
 ||hk.napi.ucweb.com
-||cndjs-1251973891.coshk.myqcloud.com
 ||ppx.hgo7r.cn
-||adsp.xunlei.com
 ||sea.napi.ucweb.com
+||shke.kuuad.com
+||ssh.szxiuchang.com
+||qinchugudao.com
+||c.statstat888.com
+||c.sssgao999.com
+||c.cyto-biotherapy.com
+||zs0611.chuanxianwanguan.com
+||ssh.lifu11.com
+||wsoe.kwiago.com
+||js.69lm.com.cn
+||e.zhuyuanp.club
+||m.zhuyuanp.club
+||wsoe.kwiago.com
 ||j0.jegxny.com
-||ms.qaqact.cn
 ||m8t1130.gaolen.com
 ||iutr.uozwys.top
+||ms.actingidekex.cn
+||ms.ienkdaccessory.cn
 ||cfg.aiclicash.com
 ||vs*.gzcu.u3.ucweb.com
 ||vs8.gzct.u3.ucweb.com
 ||vs19.gzcu.u3.ucweb.com
 ||aqiudaohang.com
+||wabdb1.52pk.com
+||bdlm.120askimages.com
+||service.ad.adesk.com
+||jscode.jbzj.com
+||km.jianduankm.com
+||pc.5151gj.com
 ||static.66cn.com/common/js/$script
+||yuyue008.cn
 ||sy.shongcheng.com
 ||cj.256.cc/m/js/*
 ||junbujian.cc/api.php?
@@ -324,6 +350,12 @@ http://bd3.shanba.com$script
 ||m.qu.la/js/wap.js
 ||s.hzht666.com
 ||y.hzht666.com
+||m.sysal.cn
+||qsove.com
+||vmzqwz.cn
+||layyi.com
+||zxr.fzxrjx.com
+||layyi.com
 ||vip.qqxwf.com
 ||s1.521daixiao.com
 ||e.yijieweizf.com
@@ -334,11 +366,14 @@ http://bd3.shanba.com$script
 ||nbhaosheng168.com
 ||qindouxs.co/gao/js*.js
 ||static1.2436.cn/ad*/*
+||cndjs-1251973891.coshk.myqcloud.com
 ||jz5u.com/js/tl*.js|$script
 ||s.80sjw.com
 ||weld.iefsf.com
 ||server.m.pp.cn
+||adsp.xunlei.com
 ||dsxdn.com
+||a.pdftoword.cn
 ||patriot.cs.pp.cn
 ||da.qhdop.com
 ||www.shafou.com
@@ -346,6 +381,10 @@ http://bd3.shanba.com$script
 ||j.wubai.cc
 ||js.akrwi.cn
 ||vj.x-ssp.com
+||ed.sczhilong.cn
+||api.zzyonghao.com
+||cdn.openxt.cn
+||jingdian230.meilika.net
 ||tkmdng.cn
 ||jiaoben.fanw8.com
 ||m.diogv.com
@@ -355,21 +394,34 @@ http://bd3.shanba.com$script
 ||p.niudashu.com
 ||wuliao.fanw8.com
 ||gameyun907.net
+||ss.h501.cn
 ||s.daskm.com
 ||qhres.com
-||pc.5151gj.com
 ||rjs.niuxgame77.com
 ||j.jimeilm.com
 ||adsapi.manhuaren.com
 ||tangoutianxia.com
 ||js.bjwwfx001.org.cn
+||e.zhuyuanp.club
+||m.zhuyuanp.club
+||e.yicang8.com
+||m.yicang8.com
+||e.zhuyuanp.top
+||m.zhuyuanp.top
+||e.apxyz.com
+||m.apxyz.com
+||in.zhfyws.com
+||uyw.kyad88.com
+||f.petsheying.com
+||k.85wa.cn
+||niwd.zhybw88.com
+||qifann.com
 ||nvrentao8.com
 ||js.bjwwfx001.org.cn
 ||js651.dupinpu.com
 ||lhafy.com
 ||zxwdw.com
 ||rsas.szzek.com
-||ksksqa.cn
 ||miui.gdmexe.com
 ||k.yp68.cn
 ||d.pr33.cn
@@ -379,8 +431,6 @@ http://bd3.shanba.com$script
 ||f0029.hysfjx.cn
 ||apk.lnwxw.cn
 ||vmjjzk.cn
-||file.70wei.com
-||cdn.openxt.cn
 ||hqygz.com
 ||m.jlkja.com
 ||dd.520zhai.net
@@ -391,7 +441,6 @@ http://bd3.shanba.com$script
 ||mqq.zgdmsj.cn
 ||jc.jtydbz.com
 ||js7022.gdskywings.com
-||djhbxz.com
 ||sdkdm.com
 ||c.pimst.cn
 ||tanx.sjzcmw.com
@@ -402,13 +451,11 @@ http://bd3.shanba.com$script
 ||js1002.hot-eam.com
 ||redmangokids.com
 ||js.qxjdlf.com
-||wabdb1.52pk.com
 ||j.sdqoi2d.com
-||img.wsf-gz.cn
-||ms.awqsaged.cn
 ||yjbys.org
 ||y.5125129.com
 ||s.xdcqcyp.com
+||szshouzhai.com
 ||www.maimaiol.com
 ||js.jermr.com$third-party
 ||1234.jjxgly.com
@@ -430,6 +477,7 @@ http://bd3.shanba.com$script
 ||symae.cn
 ||la.hzzfan.com
 ||slb.jiehantai.com
+||djhbxz.com
 ||nw5.jkjjkj.top
 ||js.69lm.com.cn
 ||kn.qhdfxkj.com
@@ -441,7 +489,6 @@ http://bd3.shanba.com$script
 ||hnpjshop.com
 ||ct.36900yh.com
 ||assets.258ydh.com
-||qupinhj.com
 ||kovjo.com
 ||mohecm.com
 ||b.gwylm.com
@@ -455,6 +502,7 @@ http://bd3.shanba.com$script
 ||e.cindy17club.com
 ||y.huayi65.com
 ||cnzhqs.com
+||ss.symav.cn
 ||17un.com
 ||pp2.dhzw.org
 ||hqsjc.com
@@ -546,7 +594,6 @@ http://bd3.shanba.com$script
 ||m.baidu.com.zhiduo.org
 ||rdlzsy.com
 ||sbrqp.com
-||a.pdftoword.cn
 ||analytics3.dopool.com
 ||xian.axkxy.com
 ||api.adv.ott.cibntv.net
@@ -574,22 +621,20 @@ http://bd3.shanba.com$script
 ||taoy*.info/*$s@var countdownnum2=*;@var countdownnum2=0;@
 ||taoy*.info/*$s@var countdownnum=9;@var countdownnum=0;@
 ||taoy*.info##div[class="advideodown"]
-|https://graph.qq.com$s@</html><script>document.getElementById('select_all').click();</script></html>
-|https://bing.com/translator$s@</head>@</head><script>document.cookie = "destLang=zh-CHS";</script>
-/^http:\/\/www\.[1-9]*avtb\.com/$s@var s = document.createElement('script');@@
-/^http:\/\/www\.[1-9]*avtb\.com/$s@style="*bottom:5px;width:1089px;height:77px;"@style="display:none"@
-/^http:\/\/www\.[1-9]*avtb\.com/$s@style="*bottom:5px;width:1090px;height:77px;"@style="display:none"@
-/^http:\/\/www\.[1-9]*avtb\.com/$s@style="*bottom:5px;width:1090px;height:77px;"@style="display:none"@
-/^http:\/\/www\.[1-9]*avtb\.com/$s@style="*bottom:5px;width:950px;height:60px;left:10px;"@style="display:none"@
-/^http:\/\/www\.[1-9]*avtb\.com/$s@img style="*bottom:5px;width:960px;height:60px;"@img style="*bottom:0px;width:0px;height:0px;"@
+||bing.com/translator$s@</head>@</head><script>document.cookie = "destLang=zh-CHS";</script>
+||graph.qq.com$s@</html><script>document.getElementById('select_all').click();</script></html>
 |http://www.360doc.com/content/$s@</body>@<script>document.body.oncopy=null;document.body.__defineSetter__("oncopy",function(){})</script></body>@
 ||v.qq.com/*.html$s@</head>@<script>localStorage["txp-user-setting"] = JSON.stringify({"isSkipPrelude":1,"isUsePlaybackRate":1,"isUseFlash":0});</script></head>@
 ||img.ithome.com/images/zt/*
 zimuku.cn$s@document.write('<a href="*@@
-|http://www.*avtb.com##div[class="ads"]
-|http://www.*avtb.com##[src$=".gif"]
-xiaodao.la##[src$="/20170223000126702670.gif"]
 wap.51.com##a[href="http://hong.51.com/?code=yl"]
+|http://www.*avtb.com##div[class="ads"]
+|http://www.*avtb.com##div[class^="ads"]
+|http://www.*avtb.com##[src$=".gif"]
+69tang9.com##div[id^="guanggao"]
+69tang9.com##div[class="dahengfu"]
+69tang9.comimg[style="width: 100%; height: 86%;"]
+69tang9.com##img[style="width:79%;height:55px;margin-top:2px;"]
 www.diyibanzhu.in$s@text/html; gb2312@ charset=gb2312@
 ctfile.com$s@var _hascsp_t8_111_02=0*cs_url_t8_111_02 = null@@
 nanrenfuli.com##div[style=" float: left; width: 46%; margin-right: 1%;"],li[id^="text-"]
@@ -607,7 +652,6 @@ tadu.com##a[href="javascript:;"]
 wap.qqswzx.com##a[href^="http://www.tubuhw.com:88"]
 wap.52pk.com##img[src^="https://www.flwja.com"]
 m.9939.com##div[class$="adv"]
-http://*##[src="http://chuantu.biz/t6/167/1512475509x-1404758208.gif"]
 hackhome.com##a[href^="http://down.s.qq.com/download"]
 m.game333.net##[style="width:100%;height:75px"]
 m.cr173.com##li>a[href^="http://tj.tt1386.com/"]
@@ -630,42 +674,3 @@ m.lishiquwen.com$s@<script>ad*</script>@@
 m.mnw.cn##div[class$="ad"]
 m.kewaishu.org##div[class="content_pic mar10"]
 m.mydrivers.com##img[src="http://icons.mydrivers.com/news/2017/m_hsb_600X150.gif"]
-|http://v.youku.com/v_show/*$s@</head>@<script src="https://git.oschina.net/hcu/tad/raw/master/vip.js"></script></head>@
-|http://v.youku.com/v_show/*$s@</body>@<script>insVIP('fns','player');</script></body>@
-||v.youku.com/v_show/*###player:not([style])>iframe{height:calc(100% - 50px)}csshack
-
-|http://www.tudou.com/albumplay/*.html$s@</head>@<script src="https://git.oschina.net/hcu/tad/raw/master/vip.js"></script></head>@
-|http://www.tudou.com/albumplay/*.html$s@</body>@<script>insVIP('tab_nav fix','player');</script></body>@
-|http://www.tudou.com/albumplay/*.html##.tab_nav.fix select{margin-top:11px;font-size: 15px}csshack
-
-|http://www.iqiyi.com/v_*.html$s@</head>@<script src="https://git.oschina.net/hcu/tad/raw/master/iqiyi.js"></script></head>@
-|http://www.iqiyi.com/v_*.html$s@</body>@<script>insVIP('mod-play-tit','flashbox');</script></body>@
-|http://www.iqiyi.com/v_*.html##div[style*="absolute"][style*="visibility"]
-
-|http://vip.iqiyi.com/*/*.html*$s@</head>@<script src="https://git.oschina.net/hcu/tad/raw/master/iqiyi.js"></script></head>@
-|http://vip.iqiyi.com/*/*.html*$s@</body>@<script>insVIP('mod-play-tit','flashbox');</script></body>@
-|http://vip.iqiyi.com/*/*.html*##div[style*="absolute"][style*="visibility"]
-
-|http://www.le.com/*vplay*.html$s@</head>@<script src="https://git.oschina.net/hcu/tad/raw/master/vip.js"></script></head>@
-|http://www.le.com/*vplay*.html$s@</body>@<script>insVIP('column le_func','fla_box');</script></body>@
-|http://www.le.com/*vplay*.html##div[class="column le_func"]>select{margin-top:9px}
-
-|https://film.sohu.com/album/*.html$s@</head>@<script src="https://git.oschina.net/hcu/tad/raw/master/vip.js"></script></head>@
-|https://film.sohu.com/album/*.html$s@</body>@<script>insVIP('player-content-info','playerWrap');</script></body>@
-|http://film.sohu.com/album/*.html##.player-content-info>select{margin-top:20px;font-size: 15px}csshack
-
-||tv.sohu.com/*/*.shtml$s@</head>@<script src="https://git.oschina.net/hcu/tad/raw/master/vip.js"></script></head>@
-||tv.sohu.com/*/*.shtml$s@</body>@<script>insVIP('videoBox cfix','player_vipTips');</script></body>@
-||tv.sohu.com/*/*shtml##.player-content-info>select{margin-top:20px;font-size: 15px}csshack
-
-||v.qq.com/x/*.html*$s@</head>@<script src="https://git.oschina.net/hcu/tad/raw/master/qq.js"></script></head>@
-||v.qq.com/x/*.html*$s@</body>@<script>insVIPssl('action_wrap cf','tenvideo_player');</script></body>@
-||v.qq.com/x/*.html*##[class="action_wrap cf"]>select{margin-top:18px}[class="action_item action_count"] .icon_text
-v.qq.com/x/*.html##div[class="action_item action_gift"]
-
-|http://www.mgtv.com/b/*/*.html$s@</head>@<script src="https://git.oschina.net/hcu/tad/raw/master/vip.js"></script></head>@
-|http://www.mgtv.com/b/*.html$s@</body>@<script>insVIP('v-panel-box','mgtv-player-wrap');</script></body>@
-
-|http://v.pptv.com/show/*.html$s@</head>@<script src="https://git.oschina.net/hcu/tad/raw/master/pptv.js"></script></head>@
-|http://v.pptv.com/show/*.htm$s@</body>@<script>insVIP('module-video2016-ops cf','pptv_playpage_box');</script></body>@
-|http://v.pptv.com/show/*.htm##div[class="toolbar"]>select{margin-top:9px}
