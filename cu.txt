@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-7-3
+!-----2018-7-13
 !为EDGE火狐直播平台开启H5
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
@@ -641,6 +641,7 @@ wap.51.com##a[href="http://hong.51.com/?code=yl"]
 |http://www.*avtb.com##div[class="ads"]
 |http://www.*avtb.com##div[class^="ads"]
 |http://www.*avtb.com##[src$=".gif"]
+hanhuazu.cc##div[class="post-img"] > p:nth-last-child(1)
 69tang9.com##div[id^="guanggao"]
 69tang9.com##div[class="dahengfu"]
 69tang9.comimg[style="width: 100%; height: 86%;"]
