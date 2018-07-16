@@ -1,5 +1,5 @@
 !-------------------------------loying
-!-------------------------------2018-7-17
+!-------------------------------2018-7-18
 !为EDGE火狐直播平台开启H5
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
@@ -653,6 +653,8 @@ http://bd3.shanba.com$script
 ||taoy*.info/*$s@var countdownnum2=*;@var countdownnum2=0;@
 ||taoy*.info/*$s@var countdownnum=9;@var countdownnum=0;@
 ||taoy*.info##div[class="advideodown"]
+||taoy*.info##div[style="box-shadow: 0 1px 6px #ccc;"]
+||taoy*.info##div[id="sfad"]
 ||bing.com/translator$s@</head>@</head><script>document.cookie = "destLang=zh-CHS";</script>
 ||graph.qq.com$s@</html><script>document.getElementById('select_all').click();</script></html>
 |http://www.360doc.com/content/$s@</body>@<script>document.body.oncopy=null;document.body.__defineSetter__("oncopy",function(){})</script></body>@
