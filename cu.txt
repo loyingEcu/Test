@@ -1,5 +1,5 @@
 !-----loying
-!-----2018-7-16
+!-----2018-7-17
 !为EDGE火狐直播平台开启H5
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
@@ -275,6 +275,9 @@ http://bd3.shanba.com$script
 ||m.biqudao.com/js/wap.js$s@function read*()@@
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
+||zsw.nnjxqd.com
+||e.mozist.com
+||ps.3fenge.com
 ||dcw.hdswgc.com
 ||game.9xzj.com
 ||wzhuze.com
