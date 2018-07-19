@@ -1,5 +1,5 @@
-!-----loying
-!-----2018-7-3
+!-------------------------------loying
+!-------------------------------2018-7-19
 !为EDGE火狐直播平台开启H5
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
@@ -12,6 +12,8 @@
 !-----------------------------------------------------------------------------------------------------------
 !屏蔽CF退出弱智直播
 |http://cf.qq.com/act/a20160405cftv/ntcls-live.shtml
+!白名单
+@@||qhres.com$domain=360.cn
 !-------------------------------------分割线-----------------------------------------------
 ||se.360.cn/errorpage/index.html?url*
 |http://xiaobai.ruanjiandown.com:7457/share/*.mp4$domain=windows7en.com
@@ -26,6 +28,8 @@
 |http://wap.xiangcun222.com$s@<script>adcpc(21);</script>@@
 |https://tl.zcsfs.cn/d.asp?pid=
 |http://m.99mm.me$s@(function(){var d=@@
+|http://m.31xs.net/js/yd.js$s@function yd1(){*var _hmt = _hmt*})();@@
+|http://www.mxpcp.com/templets/wap/mobile.js
 |http://er.dlhygj.com/js/*
 |http://www.jz5u.com/count2.js
 |http://www.sss1368.com/js/*.js
@@ -261,6 +265,23 @@ http://bd3.shanba.com$script
 ||m.biqudao.com/js/wap.js$s@function read*()@@
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
+||zlsw.nnjxqd.com
+||e.mozist.com
+||ps.3fenge.com
+||dcw.hdswgc.com
+||game.9xzj.com
+||wzhuze.com
+||cdn.sp.rizhao9.com
+||m.pieaa.com
+||vvocm.com
+||e.afvfe.cn
+||ask.gaykes.com
+||m.foumm.com
+||h.canmg.cn
+||kn.gzcce.cn
+||ms.continuedsys.cn
+||a.mjlnbx.cn
+||f.91byy.cn
 ||www.jagcn.com
 ||ddd.haodizhi666.com
 ||woaizhongguo.cdn111222.com
@@ -293,6 +314,7 @@ http://bd3.shanba.com$script
 ||ms.awqsaged.cn
 ||73.sinawap.com
 ||37.sinawap.com
+||pwjhg.com
 ||www.64si.com
 ||qupinhj.com
 ||ihl3ga.hepengshan.cn
@@ -394,6 +416,8 @@ http://bd3.shanba.com$script
 ||p.niudashu.com
 ||wuliao.fanw8.com
 ||gameyun907.net
+||a.lwinl.com
+||a.ltdnc.com
 ||ss.h501.cn
 ||s.daskm.com
 ||qhres.com
@@ -621,16 +645,29 @@ http://bd3.shanba.com$script
 ||taoy*.info/*$s@var countdownnum2=*;@var countdownnum2=0;@
 ||taoy*.info/*$s@var countdownnum=9;@var countdownnum=0;@
 ||taoy*.info##div[class="advideodown"]
+||taoy*.info##div[style="box-shadow: 0 1px 6px #ccc;"]
+||taoy*.info##div[id="sfad"]
+||taoy*.top##div[class="advideodown"]
+||taoy*.top##div[style="box-shadow: 0 1px 6px #ccc;"]
+||taoy*.top##div[id="sfad"]
 ||bing.com/translator$s@</head>@</head><script>document.cookie = "destLang=zh-CHS";</script>
 ||graph.qq.com$s@</html><script>document.getElementById('select_all').click();</script></html>
 |http://www.360doc.com/content/$s@</body>@<script>document.body.oncopy=null;document.body.__defineSetter__("oncopy",function(){})</script></body>@
 ||v.qq.com/*.html$s@</head>@<script>localStorage["txp-user-setting"] = JSON.stringify({"isSkipPrelude":1,"isUsePlaybackRate":1,"isUseFlash":0});</script></head>@
 ||img.ithome.com/images/zt/*
 zimuku.cn$s@document.write('<a href="*@@
+zz12*.com$s@position:fixed;bottom:0;z-index:888;@display:none!important;display:none@
+zz12*.com$s@width:960px;height:80px;margin-bottom:2px;@display:none!important;display:none@
+zz12*.com$s@width:100%;height:70px;margin-bottom: 3px;display:block;@display:none!important;display:none@
+zz12*.com$s@width:230px;height: 230px;position: absolute;top:25px;left: 50%;margin-left: -90px;@display:none!important;display:none@
 wap.51.com##a[href="http://hong.51.com/?code=yl"]
 |http://www.*avtb.com##div[class="ads"]
 |http://www.*avtb.com##div[class^="ads"]
 |http://www.*avtb.com##[src$=".gif"]
+|http://www.avtb*.com##div[class="ads"]
+|http://www.avtb*.com##div[class^="ads"]
+|http://www.avtb*.com##[src$=".gif"]
+hanhuazu.cc##div[class="post-img"] > p:nth-last-child(1)
 69tang9.com##div[id^="guanggao"]
 69tang9.com##div[class="dahengfu"]
 69tang9.comimg[style="width: 100%; height: 86%;"]
@@ -652,6 +689,7 @@ tadu.com##a[href="javascript:;"]
 wap.qqswzx.com##a[href^="http://www.tubuhw.com:88"]
 wap.52pk.com##img[src^="https://www.flwja.com"]
 m.9939.com##div[class$="adv"]
+http://*##[src="http://chuantu.biz/t6/167/1512475509x-1404758208.gif"]
 hackhome.com##a[href^="http://down.s.qq.com/download"]
 m.game333.net##[style="width:100%;height:75px"]
 m.cr173.com##li>a[href^="http://tj.tt1386.com/"]
