@@ -1,5 +1,5 @@
 !-------------------------------loying
-!-------------------------------2018-7-21
+!-------------------------------2018-7-24
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !-----------------------------------------------------------------------------------------------------------
@@ -20,8 +20,6 @@
 !-------------------------------------分割线-----------------------------------------------
 ||se.360.cn/errorpage/index.html?url*
 |http://xiaobai.ruanjiandown.com:7457/share/*.mp4$domain=windows7en.com
-|http://*@*.exe
-|http://*@*_*.exe
 |http://##a[href*="@"][href$="exe"]
 |http://##a[href*="cpro.baidu.com"],a[href*="i/?cid="]
 |http://##div[id^="_"][style="width: 100%;"]>iframe,iframe[src*="pos.baidu.com"]
@@ -263,6 +261,8 @@ http://bd3.shanba.com$script
 |http://m.flb0.com/js/Statistics*.js
 |http://m.031067.com/js/xett*t.js
 |http://m.fmhua.com/js/*.js
+|http://*_*@*.exe
+|http://*@*_*.exe
 |http://m.jjxsw.cc//Public/m/script/common.js$s@function *ad*default:*}*}@@
 |http://m.jjxsw.cc/Public/m/script/common.js$s@function *ad*default:*}*}@@
 ||img.ithome.com/file/js/v2.3/common.js$s@tyle=\"display:block;width:240px;height:240px;background:url(//*)@@
