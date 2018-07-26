@@ -1,5 +1,5 @@
 !-------------------------------loying
-!-------------------------------2018-7-24
+!-------------------------------2018-7-27
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !-----------------------------------------------------------------------------------------------------------
@@ -268,6 +268,10 @@ http://bd3.shanba.com$script
 ||img.ithome.com/file/js/v2.3/common.js$s@tyle=\"display:block;width:240px;height:240px;background:url(//*)@@
 ||img.ithome.com/file/js/v2.3/common.js$s@showFullSrcModal("https://s.click.taobao.com/*);@@
 ||m.ybdu.com/wap/common.js$s@if (n>3){*else{*else{*else{*else{*function home_bottom(){}@@
+||client.vgabc.com$s@show_time":"6"@show_time":"0"@
+||vgabc.com/*/ad*/81acbdac7b962a5e7b0dc631646dccc8.jpg
+||vgabc.com/*/ad*/08811cda86c304b452de13efda7c92d0.jpg
+||vgabc.com/*/ad*/29c577a23ed5f3bf204c99031d93fc89.jpg
 ||m.bqg5200.com/wap/wap.js$s@function bqg_top*(){@@
 ||m.biqudu.com/js/common.js$s@function hf*(){@@
 ||m.biqudu.com/js/common.js$s@function tj(){@@
