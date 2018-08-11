@@ -17,6 +17,7 @@
 @@|http://m.fmhua.com/js/a.js
 !白名单
 @@||qhres.com$domain=360.cn
+@@||qhres.com$domain=ludashi.com
 !-------------------------------------分割线-----------------------------------------------
 ||se.360.cn/errorpage/index.html?url*
 |http://xiaobai.ruanjiandown.com:7457/share/*.mp4$domain=windows7en.com
