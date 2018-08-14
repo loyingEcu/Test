@@ -1,5 +1,5 @@
 !-------------------------------loying
-!-------------------------------2018-8-13
+!-------------------------------2018-8-15
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !-----------------------------------------------------------------------------------------------------------
@@ -280,6 +280,8 @@ http://bd3.shanba.com$script
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
 ||y1.ss.feizw.com
+||hgrqp.com
+||mmkvi.com
 ||hzyuw.com
 ||images.ycyixin.cn
 ||m.lusrg.cn
