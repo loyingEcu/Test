@@ -1,5 +1,5 @@
 !-------------------------------loying
-!-------------------------------2018-8-15
+!-------------------------------2018-8-18
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !-----------------------------------------------------------------------------------------------------------
@@ -19,6 +19,8 @@
 @@||qhres.com$domain=360.cn
 @@||qhres.com$domain=ludashi.com
 !-------------------------------------分割线-----------------------------------------------
+|http://*/js/google*.js
+|http://m.*/js/baidu*.js
 ||se.360.cn/errorpage/index.html?url*
 |http://xiaobai.ruanjiandown.com:7457/share/*.mp4$domain=windows7en.com
 |http://##a[href*="@"][href$="exe"]
@@ -28,7 +30,7 @@
 |https://##a[href*="cpro.baidu.com"],a[href*="i/?cid="]
 |https://##div[id^="_"][style="width: 100%;"]>iframe,iframe[src*="pos.baidu.com"]
 |http://js.xtcake.com/newblog/*
-|http://www.sogou.com/tx?ie=utf-8&hdq=*
+@@|http://www.sogou.com/tx?ie=utf-8&hdq=*
 |http://semovie.net/moviet.php?$s@if (!urlhash.match("fromapp"))*}@
 |http://m.*js$s@function *ad*case 1:*break;*case 2:*break;*case 3:*break;@
 |http://104.225.235.176/*
@@ -280,6 +282,13 @@ http://bd3.shanba.com$script
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
 ||y1.ss.feizw.com
+||m.uissm.com
+||e.uissm.com
+||e.ysdhe.com
+||m.ysdhe.com
+||e.yoiur.com
+||m.yoiur.com
+||mmkvi.com 
 ||hgrqp.com
 ||mmkvi.com
 ||hzyuw.com
