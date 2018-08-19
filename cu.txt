@@ -1,5 +1,5 @@
 !-------------------------------loying
-!-------------------------------2018-8-19
+!-------------------------------2018-8-20
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !-----------------------------------------------------------------------------------------------------------
@@ -40,6 +40,7 @@
 |http://m.99mm.me$s@(function(){var d=@@
 |http://m.31xs.net/js/yd.js$s@function yd1(){*var _hmt = _hmt*})();@@
 |http://www.mxpcp.com/templets/wap/mobile.js
+|http://api.pucms.com/35.js
 |http://er.dlhygj.com/js/*
 |http://www.jz5u.com/count2.js
 |http://www.sss1368.com/js/*.js
