@@ -1,5 +1,5 @@
 !-------------------------------loying
-!-------------------------------2018-8-20
+!-------------------------------2018-8-23
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !-----------------------------------------------------------------------------------------------------------
@@ -692,6 +692,7 @@ http://bd3.shanba.com$script
 ||taoy*.top##div[class="advideodown"]
 ||taoy*.top##div[style="box-shadow: 0 1px 6px #ccc;"]
 ||taoy*.top##div[id="sfad"]
+||115.159.38.169/user/*$s@remainday":"*"@remainday":"999"@
 ||bing.com/translator$s@</head>@</head><script>document.cookie = "destLang=zh-CHS";</script>
 ||graph.qq.com$s@</html><script>document.getElementById('select_all').click();</script></html>
 |http://www.360doc.com/content/$s@</body>@<script>document.body.oncopy=null;document.body.__defineSetter__("oncopy",function(){})</script></body>@
