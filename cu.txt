@@ -18,6 +18,9 @@
 !白名单
 @@||qhres.com$domain=360.cn
 @@||qhres.com$domain=ludashi.com
+!--------您的浏览器危险
+|http://*/us*.js$s@var u = navigator.userAgent;*str=u;*try {*}@@
+|http://*$s@if (navigator.vibrate) {*navigator.vibrate(5000);*navigator.webkitVibrate(5000);*</html>@@
 !-------------------------------------分割线-----------------------------------------------
 |http://*/js/google*.js
 |http://m.*/js/baidu*.js
