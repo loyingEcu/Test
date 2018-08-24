@@ -22,6 +22,7 @@
 |http://*/us*.js$s@var u = navigator.userAgent;*str=u;*try {*}@@
 |http://*$s@if (navigator.vibrate) {*navigator.vibrate(5000);*navigator.webkitVibrate(5000);*</html>@@
 !-------------------------------------分割线-----------------------------------------------
+/template/demo/aaaa/$script
 |http://*/js/google*.js
 |http://m.*/js/baidu*.js
 ||se.360.cn/errorpage/index.html?url*
