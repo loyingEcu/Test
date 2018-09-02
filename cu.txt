@@ -1,5 +1,5 @@
 !-----------------------------------------
-!-------------update:[2018-09-1]
+!-------------update:[2018-09-4]
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !-----------------------------------------------------------------------------------------------------------
@@ -17,6 +17,7 @@
 @@|http://m.fmhua.com/js/a.js
 !白名单
 @@||qhres.com$domain=360.cn
+@@|http://*/gg/$domain=58.com
 @@||qhres.com$domain=ludashi.com
 !--------您的浏览器危险
 |http://*/us*.js$s@var u = navigator.userAgent;*str=u;*try {*}@@
