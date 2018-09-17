@@ -1,5 +1,5 @@
 !-----------------------------------------
-!-------------update:[2018-09-12]
+!-------------update:[2018-09-18]
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !-----------------------------------------------------------------------------------------------------------
@@ -287,6 +287,8 @@ http://bd3.shanba.com$script
 ||m.biqudao.com/js/wap.js$s@function read*()@@
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
+||imageplus.baidu.com
+||d.s11.cn
 ||a.90370.com
 ||mivideo.g.mi.com
 ||pass1.soogif.com
