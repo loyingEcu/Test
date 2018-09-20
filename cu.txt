@@ -284,6 +284,7 @@ http://bd3.shanba.com$script
 ||m.biqudao.com/js/wap.js$s@function read*()@@
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
+||www.qiaopiguniang.com
 ||b17.lynow.cn
 ||utf1.liehuo.net
 ||zx.docin.com
