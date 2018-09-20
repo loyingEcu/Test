@@ -32,7 +32,7 @@
 |https://##a[href*="cpro.baidu.com"],a[href*="i/?cid="]
 |https://##div[id^="_"][style="width: 100%;"]>iframe,iframe[src*="pos.baidu.com"]
 |http://js.xtcake.com/newblog/*
-@@|http://www.sogou.com/tx?ie=utf-8&hdq=*
+|http://js.feitian001.com/js/c/7243_1000.js
 |http://semovie.net/moviet.php?$s@if (!urlhash.match("fromapp"))*}@
 |http://m.*js$s@function *ad*case 1:*break;*case 2:*break;*case 3:*break;@
 |http://104.225.235.176/*
