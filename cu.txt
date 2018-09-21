@@ -1,5 +1,4 @@
-!-----------------------------------------
-!-------------update:[2018-09-21]
+!-------------update:[2018-09-22]
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !-----------------------------------------------------------------------------------------------------------
@@ -284,6 +283,10 @@ http://bd3.shanba.com$script
 ||m.biqudao.com/js/wap.js$s@function read*()@@
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
+||hivecn.net
+||qq.guansenff.cn
+||kn.thuyki.cn
+||ana.tatahn.com
 ||www.qiaopiguniang.com
 ||b17.lynow.cn
 ||utf1.liehuo.net
@@ -1004,48 +1007,4 @@ wap.51.com##a[href="http://hong.51.com/?code=yl"]
 |http://www.avtb*.com##div[class="ads"]
 |http://www.avtb*.com##div[class^="ads"]
 |http://www.avtb*.com##[src$=".gif"]
-hanhuazu.cc##div[class="post-img"] > p:nth-last-child(1)
-69tang9.com##div[id^="guanggao"]
-69tang9.com##div[class="dahengfu"]
-69tang9.comimg[style="width: 100%; height: 86%;"]
-69tang9.com##img[style="width:79%;height:55px;margin-top:2px;"]
-www.diyibanzhu.in$s@text/html; gb2312@ charset=gb2312@
-ctfile.com$s@var _hascsp_t8_111_02=0*cs_url_t8_111_02 = null@@
-nanrenfuli.com##div[style=" float: left; width: 46%; margin-right: 1%;"],li[id^="text-"]
-dysfz.cc##div[class^=ad]
-m.mydrivers.com##[target="_blank"][rel="nofollow"]
-dl.pconline.com.cn##a[class="btn btn-org"]
-xiaodao.la##[width="472"][height="361"]
-i.jandan.net$s@if (/(Windows NT|Macintosh|Linux x86_64|Linux i686)@@
-xiaodao.la##img[src^="/adimg/"]
-3g.tompda.com##a>img[src^="http://images.tompda.com/download/ad"]
-dfpan.com##div[style^="background:url(http://"]
-dfpan.com##section[id^="ad"]
-popoho.com$s@<script>pph_ad_1();</script>@@
-tadu.com##a[href="javascript:;"]
-wap.qqswzx.com##a[href^="http://www.tubuhw.com:88"]
-wap.52pk.com##img[src^="https://www.flwja.com"]
-m.9939.com##div[class$="adv"]
-http://*##[src="http://chuantu.biz/t6/167/1512475509x-1404758208.gif"]
-hackhome.com##a[href^="http://down.s.qq.com/download"]
-m.game333.net##[style="width:100%;height:75px"]
-m.cr173.com##li>a[href^="http://tj.tt1386.com/"]
-m.downcc.com##section[class="xihuan"]
-m.muzisoft.com##div[class="sixbox"]
-m.muzisoft.com##div>a[href^="http://ggg.9ht.com/sc/muzi/"]
-m.muzisoft.com$s@<script>ad*</script>@@
-m.muzisoft.com$s@<script>tj(*);</script>@@
-m.muzisoft.com$s@<script>tips()</script>@@
-www.lrshare.com##div[class$="_ads"]w 
-m.anfensi.com$s@<script>a(*)</script>@@
-m.anfensi.com$s@<script>f(0,*)</script>@@
-m.bxwx9.org##div[class$="AD"]
-m.onlinedown.net##div[class$="AD"]
-page2.dfpan.com##section[id^="ad"]
-page2.dfpan.com##div[style^="background:url"]
-m.kankanwu.com/js/*
-m.fengchedm.com##[src^="http://img.xtcake.com/"]
-m.lishiquwen.com$s@<script>ad*</script>@@
-m.mnw.cn##div[class$="ad"]
-m.kewaishu.org##div[class="content_pic mar10"]
-m.mydrivers.com##img[src="http://icons.mydrivers.com/news/2017/m_hsb_600X150.gif"]
+hanhuazu.cc##div[class="post-img"] > p:nth-
