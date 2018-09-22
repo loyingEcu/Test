@@ -283,6 +283,8 @@ http://bd3.shanba.com$script
 ||m.biqudao.com/js/wap.js$s@function read*()@@
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
+||t.arrows-hitech.com
+||as.jdkic.com
 ||e.gsycdb.com
 ||nsy.hnzyfs.com
 ||li.anyysz.com
