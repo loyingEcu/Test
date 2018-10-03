@@ -283,8 +283,15 @@ http://bd3.shanba.com$script
 ||m.biqudao.com/js/wap.js$s@function read*()@@
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
+||d/js/acmsd/*.js
+||m.gcheg.com
+||qhuik.com
 ||js1146.xuanmeiguoji.com
 ||ye.tsdlp.com
+||neijh.com
+||vbaiu.com
+||jyjhkz.com
+||qipt.1632j6.cn
 ||1.tuxi.com.cn
 ||lishi.yxbao.com
 ||zhuuv.maoyumao.net
