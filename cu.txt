@@ -1,4 +1,4 @@
-!-------------2018-10-05
+!-------------2018-10-09
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !-----------------------------------------------------------------------------------------------------------
@@ -284,6 +284,8 @@ http://bd3.shanba.com$script
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
 ||d/js/acmsd/*.js
+||e.60608787.com
+||u.umm6.cn
 ||photo.welldex.cn
 ||www.fenvm.com
 ||lwq.wangketuan.com
