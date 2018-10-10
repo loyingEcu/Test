@@ -1,6 +1,8 @@
 !-------------2018-10-09
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
+!虎牙FF H5
+huya.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36"});</script></head>@
 !-----------------------------------------------------------------------------------------------------------
 !龙珠默认H5
 ||star.longzhu.com$s@"Chrome/44.0.0.0+,@"Chrome/44.0.0.0+,mozilla/5.0+,@
