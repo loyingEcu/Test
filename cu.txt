@@ -609,10 +609,8 @@ http://bd3.shanba.com$script
 ||a.mjlnbx.cn
 ||ms.continuedsys.cn
 ||kn.gzcce.cn
-||h.canmg.cn
 ||m.foumm.com
 ||ask.gaykes.com
-||e.afvfe.cn
 ||vvocm.com
 ||m.pieaa.com
 ||cdn.sp.rizhao9.com
@@ -688,11 +686,9 @@ http://bd3.shanba.com$script
 ||cdn.sp.rizhao9.com
 ||m.pieaa.com
 ||vvocm.com
-||e.afvfe.cn
 ||ask.gaykes.com
 ||m.foumm.com
 ||qiyezs.ejunshi.com
-||h.canmg.cn
 ||kn.gzcce.cn
 ||ms.continuedsys.cn
 ||a.mjlnbx.cn
@@ -788,7 +784,6 @@ http://bd3.shanba.com$script
 ||s.hzht666.com
 ||y.hzht666.com
 ||m.sysal.cn
-||qsove.com
 ||vmzqwz.cn
 ||layyi.com
 ||zxr.fzxrjx.com
@@ -796,7 +791,6 @@ http://bd3.shanba.com$script
 ||vip.qqxwf.com
 ||s1.521daixiao.com
 ||e.yijieweizf.com
-||xinghao89.com
 ||hoisin.coocaatv.com
 ||farwx.com
 ||dm.shanghuitianxia.cn
@@ -843,8 +837,6 @@ http://bd3.shanba.com$script
 ||js.bjwwfx001.org.cn
 ||e.zhuyuanp.club
 ||m.zhuyuanp.club
-||e.yicang8.com
-||m.yicang8.com
 ||e.zhuyuanp.top
 ||m.zhuyuanp.top
 ||e.apxyz.com
