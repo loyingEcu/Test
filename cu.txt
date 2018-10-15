@@ -1,4 +1,4 @@
-!  -----:  2018-10-12 00:00:00   by:loying-----
+!  -----:  2018-10-15 14:20:01   by:loying-----
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !虎牙FF H5
@@ -38,6 +38,7 @@ huya.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userA
 |http://m.*js$s@function *ad*case 1:*break;*case 2:*break;*case 3:*break;@
 |http://104.225.235.176/*
 |http://*/js/Statistics*.js
+|http://m.*/templets/youquba/$script
 |http://wap.xiangcun222.com$s@<script>adcpc(21);</script>@@
 |https://tl.zcsfs.cn/d.asp?pid=
 |http://m.99mm.me$s@(function(){var d=@@
@@ -286,6 +287,27 @@ http://bd3.shanba.com$script
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
 ||d/js/acmsd/*.js
+||a.aspnet.tech
+||k.85wa.cn
+||s1.szlu-an.com
+||s1.hnhbyxdq.com
+||push.zhanzhang.baidu.com
+||ahlxxx.com
+||oem.cnrghj.cn
+||m.sjaidu.com
+||abc.zhiyaspa.com
+||cx.v5cam.com
+||tuos.kyouad.com
+||wnek.xvyljkr.com
+||yxs.tymsyx.com
+||s1.kuaibaopay.com
+||.weixingshexiangji.net
+||dodi.86zhnc.cn
+||jmxlaser.com
+||uzhaj.com
+||scouc.com
+||enjuw.com
+||zmlfk.com
 ||e.60608787.com
 ||u.umm6.cn
 ||photo.welldex.cn
