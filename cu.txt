@@ -1,4 +1,4 @@
-!  -----:  2018-10-22 00:00:01   by:loying-----
+!  -----:  2018-10-24 15:17:25   by:loying-----
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !虎牙FF H5
@@ -288,6 +288,15 @@ http://bd3.shanba.com$script
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
 ||d/js/acmsd/*.js
+||www.brightadnetwork.com
+||xxlargepop.com
+||vebadu.com
+||1d1a.com
+||s.456jjh.cn
+||1.modzj.net
+||ilancc.com
+||api.callget.cn
+||dsjsee.dqgpb.com
 ||appfh.com
 ||sjbtn.appfh.com
 ||css.asitend.com
