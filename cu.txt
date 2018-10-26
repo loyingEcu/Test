@@ -1,4 +1,4 @@
-!  -----:  2018-10-26 01:08:50   by:loying-----
+!  -----:  2018-10-27 00:00:10   by:loying-----
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !虎牙FF H5
@@ -26,6 +26,7 @@ huya.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userA
 /template/demo/aaaa/$script
 |http://*/js/google*.js
 |http://m.*/js/baidu*.js
+http://mobaliyun.res.mgtv.com/*.mp4$f@http://127.0.0.1:11111/block/null.mp4
 |http://m.*##a[href^="https://player.quankan.tv/aoriys.php"]
 ||se.360.cn/errorpage/index.html?url*
 |http://xiaobai.ruanjiandown.com:7457/share/*.mp4$domain=windows7en.com
