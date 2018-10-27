@@ -1,4 +1,4 @@
-!  -----:  2018-10-27 15:56:17   by:loying-----
+!  -----:  2018-10-27 16:14:17   by:loying-----
 !  只兼容adbyby
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
@@ -25,6 +25,10 @@ huya.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userA
 |http://*$s@if (navigator.vibrate) {*navigator.vibrate(5000);*navigator.webkitVibrate(5000);*</html>@@
 !-------------------------------------分割线-----------------------------------------------
 /template/demo/aaaa/$script
+/vipgg/url_site.js
+/vipgg/pc/js/$script
+/vipgg/m/js/$script
+/videos/##a[href="https://tbaif.com"]
 http://mobaliyun.res.mgtv.com/*.mp4$f@http://127.0.0.1:11111/block/null.mp4
 |http://*/js/google*.js
 |http://m.*/js/baidu*.js
