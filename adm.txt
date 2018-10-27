@@ -288,6 +288,8 @@ http://bd3.shanba.com$script
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
 ||d/js/acmsd/*.js
+||a3.jandan.net
+||b3.jandan.net
 ||gdgy56.com
 ||raw.okwan.cn
 ||zheng.cs12d.com
