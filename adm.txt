@@ -15,9 +15,6 @@ huya.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userA
 @@||qhres.com$domain=360.cn
 @@|http://*/gg/$domain=58.com
 @@||qhres.com$domain=ludashi.com
-!--------您的浏览器危险
-|http://*/us*.js$s@var u = navigator.userAgent;*str=u;*try {*}@@
-|http://*$s@if (navigator.vibrate) {*navigator.vibrate(5000);*navigator.webkitVibrate(5000);*</html>@@
 !-------------------------------------分割线-----------------------------------------------
 /template/demo/aaaa/$script
 /vipgg/url_site.js
