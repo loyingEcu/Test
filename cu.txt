@@ -28,7 +28,6 @@ huya.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userA
 /vipgg/pc/js/$script
 /vipgg/m/js/$script
 /videos/##a[href="https://tbaif.com"]
-http://mobaliyun.res.mgtv.com/*.mp4$f@http://127.0.0.1:11111/block/null.mp4
 |http://*/js/google*.js
 |http://m.*/js/baidu*.js
 |http://m.*##a[href^="https://player.quankan.tv/aoriys.php"]
