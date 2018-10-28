@@ -1,4 +1,4 @@
-!  -----:  2018-10-28 00:00:01   by:loying-----
+!  -----:  2018-10-28 18:10:01   by:loying-----
 !  只兼容 ADM
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
@@ -274,7 +274,7 @@ http://bd3.shanba.com$script
 |http://*@*_*.exe
 |http://m.jjxsw.cc//Public/m/script/common.js$s@function *ad*default:*}*}@@
 |http://m.jjxsw.cc/Public/m/script/common.js$s@function *ad*default:*}*}@@
-||mobaliyun.res.mgtv.com/*.mp4$m@res:block/null.mp4
+||da.mgtv.com/*/player$s@<Ad@<noAd@
 ||img.ithome.com/file/js/v2.3/common.js$s@tyle=\"display:block;width:240px;height:240px;background:url(//*)@@
 ||img.ithome.com/file/js/v2.3/common.js$s@showFullSrcModal("https://s.click.taobao.com/*);@@
 ||m.ybdu.com/wap/common.js$s@if (n>3){*else{*else{*else{*else{*function home_bottom(){}@@
