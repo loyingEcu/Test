@@ -1112,3 +1112,4 @@ wap.51.com##a[href="http://hong.51.com/?code=yl"]
 |http://www.avtb*.com##div[class^="ads"]
 |http://www.avtb*.com##[src$=".gif"]
 hanhuazu.cc##div[class="post-img"] > p:nth-
+!-----| 防程序更新BUG干扰行：<head></head><body></body>
