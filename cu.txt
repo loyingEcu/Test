@@ -1,4 +1,4 @@
-!  -----:  2018-10-29 18:58:03   by:loying-----
+!  -----:  2018-11-01 00:00:01   by:loying-----
 !  只兼容adbyby
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
@@ -297,6 +297,7 @@ http://bd3.shanba.com$script
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
 ||d/js/acmsd/*.js
+||rwq.youle55.com
 ||a3.jandan.net
 ||b3.jandan.net
 ||gdgy56.com
