@@ -1,5 +1,6 @@
-!  -----:  2018-11-01 00:00:01   by:loying-----
+!  -----:  2018-11-07 19:01:15   by:loying-----
 !  只兼容 ADM
+|http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 !火猫TV强制H5
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !YY默认H5
