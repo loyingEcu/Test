@@ -52,6 +52,7 @@ huya.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userA
 |http://wap.xiangcun222.com$s@<script>adcpc(21);</script>@@
 |https://tl.zcsfs.cn/d.asp?pid=
 |http://m.99mm.me$s@(function(){var d=@@
+|http://svip.shwxtw.com/js/bottomfly.js
 |http://m.31xs.net/js/yd.js$s@function yd1(){*var _hmt = _hmt*})();@@
 |http://www.mxpcp.com/templets/wap/mobile.js
 |http://api.pucms.com/35.js
