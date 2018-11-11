@@ -1,6 +1,7 @@
-!  -----:  2018-11-10 17:43:00   by:loying-----
+!  -----:  2018-11-11 11:11:11   by:loying-----
 !  只兼容 ADM
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
+|https://www.mgtv.com/$s@isSupportFlash('11.2.0')@isSupportFlash('99.9.9')@
 !PPTV开启H5
 ||player.aplus.pptv.com/jsplayer/pid/5701.js$s@"isopen":{"live":0,"vod":0},@"isopen":{"live":1,"vod":1},@
 !火猫TV强制H5
