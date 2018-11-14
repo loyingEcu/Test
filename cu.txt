@@ -1,4 +1,4 @@
-!  -----:  2018-11-15 03:30:00   by:loying-----
+!  -----:  2018-11-15 04:00:00   by:loying-----
 !  只兼容adbyby
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 |https://www.mgtv.com/$s@isSupportFlash('11.2.0')@isSupportFlash('99.9.9')@
@@ -1126,6 +1126,7 @@ http://bd3.shanba.com$script
 |http://www.360doc.com/content/$s@</body>@<script>document.body.oncopy=null;document.body.__defineSetter__("oncopy",function(){})</script></body>@
 ||v.qq.com/*.html$s@</head>@<script>localStorage["txp-user-setting"] = JSON.stringify({"isSkipPrelude":1,"isUsePlaybackRate":1,"isUseFlash":0});</script></head>@
 ||img.ithome.com/images/zt/*
+rmdown.com##img[src^="http"]
 rmdown.com$s@ads.js@null@
 rmdown.com$s@window.open@@
 m.m1615.com$s@if(window.navigator.userAgent.toLowerCase().indexOf("android")>=0*</div>');@@
