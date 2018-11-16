@@ -1,4 +1,4 @@
-!  -----:  2018-11-16 17:21:16   by:loying-----
+!  -----:  2018-11-17 02:11:11   by:loying-----
 !  只兼容adbyby
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 |https://www.mgtv.com/$s@isSupportFlash('11.2.0')@isSupportFlash('99.9.9')@
@@ -304,6 +304,22 @@ http://bd3.shanba.com$script
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
 ||d/js/acmsd/*.js
+||vs26.szct.u3.ucweb.com
+||d.517sccts.cn
+||app.fdwdqc.cn
+||p.9wotuan.com
+||m.youhuomeishi.com
+||js.flpjc.com
+||ytsyyey.com
+||m.tkssw.com
+||tx.lwinl.com
+||i.hzblic.com
+||.dsgy521.com
+||noble55.com
+||cloud.zyiis.net
+||www.18dusun.com
+||d.hzblic.com
+||amae.zjcapital.cn
 ||m.kyxnz.cn
 ||x.dami66.cn
 ||m.czxjx.cn
@@ -1115,7 +1131,7 @@ http://bd3.shanba.com$script
 ||lol5s.com/template/wusha/ads/*
 ||dzz8.com/public/ptcms/s_wap_novelsearch_*.js
 |http://m.zhishihao.com##img[src$="ad.jpg"]
-||t66y.com$s@60000@0@
+||t66y.com/*.html$s@readS(){@readS(){return;@
 ||taoy*.info/*$s@var countdownnum2=*;@var countdownnum2=0;@
 ||taoy*.info/*$s@var countdownnum=9;@var countdownnum=0;@
 ||taoy*.info##div[class="advideodown"]
