@@ -1,4 +1,4 @@
-!  -----:  2018-11-15 04:00:00   by:loying-----
+!  -----:  2018-11-17 17:10:16   by:loying-----
 !  只兼容 ADM
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 |https://www.mgtv.com/$s@isSupportFlash('11.2.0')@isSupportFlash('99.9.9')@
@@ -296,6 +296,8 @@ http://bd3.shanba.com$script
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
 ||d/js/acmsd/*.js
+||m.kyxnz.cn
+||x.dami66.cn
 ||m.czxjx.cn
 ||js.5xml.com
 ||hcenc.com
