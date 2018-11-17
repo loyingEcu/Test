@@ -1,4 +1,4 @@
-!  -----:  2018-11-17 17:11:11   by:loying-----
+!  -----:  2018-11-18 00:00:01   by:loying-----
 !  只兼容 ADM
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 |https://www.mgtv.com/$s@isSupportFlash('11.2.0')@isSupportFlash('99.9.9')@
@@ -1143,6 +1143,8 @@ http://bd3.shanba.com$script
 rmdown.com##img[src^="http"]
 rmdown.com$s@ads.js@null@
 rmdown.com$s@window.open@@
+thzbt.co##img[src$=".gif"],img[style="padding- bottom:5px;width:960px;height:60px;"],img[style="padding- bottom:5px;width:960px;height:120px;"],[width="180"][height="400"]
+thzbt.co##table[style="border:#e8e8e8 1px solid;"],td[style="text-align:center;"]
 m.m1615.com$s@if(window.navigator.userAgent.toLowerCase().indexOf("android")>=0*</div>');@@
 m.sinosony.com$s@if(window.navigator.userAgent.toLowerCase().indexOf("android")>=0*</div>');@@
 m.sjzjdd.com$s@if(window.navigator.userAgent.toLowerCase().indexOf("android")>=0*</div>');@@
