@@ -1,4 +1,4 @@
-!  -----:  2018-11-20 00:04:48   by:loying-----
+!  -----:  2018-11-22 01:04:48   by:loying-----
 !  只兼容adbyby
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 |https://www.mgtv.com/$s@isSupportFlash('11.2.0')@isSupportFlash('99.9.9')@
@@ -304,6 +304,20 @@ http://bd3.shanba.com$script
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
 ||d/js/acmsd/*.js
+||h.b5qpg.cn
+||q.ihgmc.cn
+||tbieq.com
+||ibinp.com
+||wbies.com
+||www.whxhhjx.com
+||union.baidustatic.guannin.com
+||cpoml.iask.sina.com.cn
+||matwbp.iask.sina.com.cn
+||xj.zjhim.com
+||m.pmshy.cn
+||xj.eh456yje4.pw
+||motoe.plokr.com
+||ctki.hs1s1.cn
 ||pic.zxwhys.cn
 ||photo.0234408.cn
 ||m.muusn.cn
