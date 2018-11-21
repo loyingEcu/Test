@@ -1,4 +1,4 @@
-!  -----:  2018-11-20 00:04:48   by:loying-----
+!  -----:  2018-11-22 01:04:48   by:loying-----
 !  只兼容 ADM
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 |https://www.mgtv.com/$s@isSupportFlash('11.2.0')@isSupportFlash('99.9.9')@
@@ -31,6 +31,7 @@ huya.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userA
 /videos/##a[href="https://tbaif.com"]
 |http://*/js/google*.js
 |http://m.*/js/baidu*.js
+|http://m.dm530.net/js/ne/$script
 |http://m.*##a[href^="https://player.quankan.tv/aoriys.php"]
 ||se.360.cn/errorpage/index.html?url*
 |http://xiaobai.ruanjiandown.com:7457/share/*.mp4$domain=windows7en.com
@@ -298,6 +299,20 @@ http://bd3.shanba.com$script
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
 ||d/js/acmsd/*.js
+||h.b5qpg.cn
+||q.ihgmc.cn
+||tbieq.com
+||ibinp.com
+||wbies.com
+||www.whxhhjx.com
+||union.baidustatic.guannin.com
+||cpoml.iask.sina.com.cn
+||matwbp.iask.sina.com.cn
+||xj.zjhim.com
+||m.pmshy.cn
+||xj.eh456yje4.pw
+||motoe.plokr.com
+||ctki.hs1s1.cn
 ||pic.zxwhys.cn
 ||photo.0234408.cn
 ||m.muusn.cn
@@ -1153,6 +1168,7 @@ http://bd3.shanba.com$script
 rmdown.com##img[src^="http"]
 rmdown.com$s@ads.js@null@
 rmdown.com$s@window.open@@
+mydrivers.com##img[src="//icons.mydrivers.com/2018/ad/kurui1.jpg"]
 thzbt.co##img[src$=".gif"],img[style="padding- bottom:5px;width:960px;height:60px;"],img[style="padding- bottom:5px;width:960px;height:120px;"],[width="180"][height="400"]
 thzbt.co##table[style="border:#e8e8e8 1px solid;"],td[style="text-align:center;"]
 m.m1615.com$s@if(window.navigator.userAgent.toLowerCase().indexOf("android")>=0*</div>');@@
