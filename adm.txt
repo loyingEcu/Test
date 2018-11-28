@@ -19,6 +19,8 @@ huya.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userA
 ||star.longzhu.com$s@"Chrome/44.0.0.0+,@"Chrome/44.0.0.0+,mozilla/5.0+,@
 douyu.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"});</script></head>@
 douyu.com##div[class="FlashVersionTips"]
+!战旗H5
+zhanqi.tv/*$s@</head>@<script>'use strict';localStorage.lastPlayer = 'h5';</script></head>@
 !-----------------------------------------------------------------------------------------------------------
 !屏蔽CF退出弱智直播
 |http://cf.qq.com/act/a20160405cftv/ntcls-live.shtml
