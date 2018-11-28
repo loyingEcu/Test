@@ -1,4 +1,4 @@
-!  -----:  2018-11-25 20:36:04   by:loying-----
+!  -----:  2018-11-28 17:17:58   by:loying-----
 !  只兼容adbyby
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 !pptv开启H5
@@ -286,6 +286,7 @@ http://bd3.shanba.com$script
 |http://m.flb0.com/js/Statistics*.js
 |http://m.031067.com/js/xett*t.js
 |http://m.fmhua.com/js/*.js
+|http://m.xue63.com/hot/fudl/sj.js
 |http://*_*@*.exe
 |http://*@*_*.exe
 |http://m.jjxsw.cc//Public/m/script/common.js$s@function *ad*default:*}*}@@
@@ -305,6 +306,25 @@ http://bd3.shanba.com$script
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
 ||d/js/acmsd/*.js
+||vgaom.com
+||app.9yyg.cn
+||y.zp22.cn
+||ff.xue63.com
+||j.qiqivv.com
+||1.hnyouneng.com
+||bcode.zhantai.com
+||adsc.wasu.tv
+||b17.wenjutv.com
+||j17.wenjutv.com
+||jian18.mumu01.com
+||dai18.mumu01.com
+||a1.zhanzhang.net
+||a2.zhanzhang.net
+||ohwx.7cjsh.cn
+||owtl.e0yp21.cn
+||qtpb.12jf3.cn
+||pcaoo.com
+||ajiez.com
 ||h.b5qpg.cn
 ||q.ihgmc.cn
 ||tbieq.com
