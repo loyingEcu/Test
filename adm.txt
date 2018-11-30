@@ -1,4 +1,4 @@
-!  -----:  2018-11-29 20:20:20   by:loying-----
+!  -----:  2018-11-30 17:52:20   by:loying-----
 !  只兼容 ADM
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 !pptv开启H5
@@ -13,6 +13,7 @@ huya.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userA
 !zealer PC H5
 ||zealer.com/post/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (iPad; CPU OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3"});</script></head>@
 !火狐芒果tv H5
+mgtv.com/*$s@</head>@<script>'use strict';window.USER_H5_PLAYER = true</script></head>@
 ||www.mgtv.com$s@window.isH5Player = false;@window.isH5Player = true;@
 |https://www.mgtv.com/$s@isSupportFlash('11.2.0')@isSupportFlash('99.9.9')@
 !龙珠斗鱼默认H5
