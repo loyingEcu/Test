@@ -1,4 +1,4 @@
-!  -----:  2018-12-01 15:15:15   by:loying-----
+!  -----:  2018-12-04 17:51:15   by:loying-----
 !  只兼容 ADM
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 iqiyi.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"});</script></head>@
@@ -307,6 +307,18 @@ http://bd3.shanba.com$script
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
 ||d/js/acmsd/*.js
+||m.bgcse.cn
+||m.lxind.cn
+||svip.xsmy2.cn
+||vvp.agzxj8990.com
+||gzhctryy.com
+||smucdn.com
+||engine.tuicoco.com
+||gang.rw33.cn
+||uzi66.jozee.cn
+||sypd.w13qh.cn
+||ubaii.com
+||xdunv.com
 ||vgaom.com
 ||app.9yyg.cn
 ||y.zp22.cn
