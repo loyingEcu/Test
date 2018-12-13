@@ -36,6 +36,7 @@ zhanqi.tv/*$s@</head>@<script>'use strict';localStorage.lastPlayer = 'h5';</scri
 @@|http://*/gg/$domain=58.com
 @@||qhres.com$domain=ludashi.com
 @@|http://www.dushudang.com/js/play*.js
+@@|http://www.yinyuetai.com/proment/get-play-medias?json
 !-------------------------------------分割线-----------------------------------------------
 /template/demo/aaaa/$script
 /vipgg/url_site.js
