@@ -1,4 +1,4 @@
-!  -----:  2018-12-06 18:18:18   -----
+!  -----:  2018-12-13 21:43:18   -----
 !  只兼容adbyby
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 iqiyi.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"});</script></head>@
@@ -31,6 +31,7 @@ zhanqi.tv/*$s@</head>@<script>'use strict';localStorage.lastPlayer = 'h5';</scri
 @@|http://m.fmhua.com/js/b.js
 @@|http://m.fmhua.com/js/a.js
 !白名单
+@@||aliyun.com
 @@||qhres.com$domain=360.cn
 @@|http://*/gg/$domain=58.com
 @@||qhres.com$domain=ludashi.com
