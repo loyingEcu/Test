@@ -1,4 +1,4 @@
-!  -----:  2018-12-13 21:43:18   -----
+!  -----:  2018-12-13 22:00:00   -----
 !  只兼容adbyby
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 iqiyi.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"});</script></head>@
@@ -1221,6 +1221,7 @@ http://bd3.shanba.com$script
 rmdown.com##img[src^="http"]
 rmdown.com$s@ads.js@null@
 rmdown.com$s@window.open@@
+158pan.cn##img[src="/static/images/hongbao.jpg"]
 mydrivers.com##img[src="//icons.mydrivers.com/2018/ad/kurui1.jpg"]
 thzbt.co##img[src$=".gif"],img[style="padding- bottom:5px;width:960px;height:60px;"],img[style="padding- bottom:5px;width:960px;height:120px;"],[width="180"][height="400"]
 thzbt.co##table[style="border:#e8e8e8 1px solid;"],td[style="text-align:center;"]
