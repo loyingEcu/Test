@@ -1,6 +1,7 @@
-!  -----:  2018-12-13 22:00:00   -----
+!  -----:  2018-12-20 01:35:00   -----
 !  只兼容adbyby
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
+mtime.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (iPad; CPU OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3"});</script></head>@
 iqiyi.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"});</script></head>@
 !pptv开启H5
 ||player.aplus.pptv.com/jsplayer/pid/*.js$s@"isopen":{"live":0,"vod":0},@"isopen":{"live":1,"vod":1},@
@@ -1217,6 +1218,7 @@ http://bd3.shanba.com$script
 ||bing.com/translator$s@</head>@</head><script>document.cookie = "destLang=zh-CHS";</script>
 ||graph.qq.com$s@</html>@<script>document.getElementById('select_all').click();</script></html>@
 |http://www.360doc.com/content/$s@</body>@<script>document.body.oncopy=null;document.body.__defineSetter__("oncopy",function(){})</script></body>@
+http://www.fankes.com.cn/TMore/sendvip.php$s@3@1@
 ||v.qq.com/*.html$s@</head>@<script>localStorage["txp-user-setting"] = JSON.stringify({"isSkipPrelude":1,"isUsePlaybackRate":1,"isUseFlash":0});</script></head>@
 ||img.ithome.com/images/zt/*
 rmdown.com##img[src^="http"]
