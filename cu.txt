@@ -1,4 +1,4 @@
-!  -----:  2018-12-22 15:35:00   -----
+!  -----:  2019-1-1 00:00:00   -----
 !  只兼容adbyby
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 mtime.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (iPad; CPU OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3"});</script></head>@
@@ -317,6 +317,40 @@ http://bd3.shanba.com$script
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
 ||d/js/acmsd/*.js
+||m.enrogwm.cn
+||a.wanrenshe.com
+||m.msujd.cn
+||m.xcfwnhj.cn
+||bd-s.baixing.net
+||tu.baixing.com
+||bd-js.baixing.net
+||abc.douguo.com
+||kpshx.douguo.com
+||zcaod.com
+||fcunq.com
+||rbbf.07kfh.cn
+||hjues.com
+||zwwa.h2pzh.cn
+||wbanz.com
+||mdous.com
+||linglong.supersuer.com
+||m2u.376710.com
+||mobile7.cn
+||devstore.cn
+||appadmob.com
+||jikelm.com
+||juzijiang.cn
+||limei.com
+||play.qs01.cn
+||yujyjms.cn
+||cp.003store.com
+||yuanqiyiyang.com
+||m.haishuxue.com
+||xs.searchacg.org
+||url.jiemengle.com
+||clc.wanmancn.com
+||jhwj88.com
+||m.181mob.com
 ||m.181mob.com
 ||js.autoyou1678.com
 ||jc.shenglonghg.net
