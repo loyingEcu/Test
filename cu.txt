@@ -1,4 +1,4 @@
-!  -----:  2019-01-02 00:28:00   -----
+!  -----:  2019-01-02 15:59:59   -----
 !  只兼容adbyby
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 mtime.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (iPad; CPU OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3"});</script></head>@
@@ -316,6 +316,29 @@ http://bd3.shanba.com$script
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
 ||d/js/acmsd/*.js
+||m.bedhdig.cn
+||m.emshx.cn
+||photo.boweineng.cn
+||ybaoh.com
+||k.cao86789.cn
+||k5tmk4.sadobo.com
+||glvej.com
+||anuk.9pb0h.cn
+||tj.tongjiwo.com
+||s3.joexl.com
+||gxwlzz.baiduspider1.cn
+||m.xhera.cn
+||ae.bdstatic.com
+||s.bdstatic.com
+||www.yiyuantian.com
+||img.sxcol.cn
+||photo.bjdfhy.cn
+||m.tenh2.cn
+||kn.hnfxty.cn
+||ixnj.8j24h.cn
+||hxfu.nz53h.cn
+||bdjsfl.chinabig.com.cn
+||bdjiaoben.wmxa.cn
 ||m.enrogwm.cn
 ||a.wanrenshe.com
 ||m.msujd.cn
