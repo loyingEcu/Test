@@ -128,6 +128,7 @@ zhanqi.tv/*$s@</head>@<script>'use strict';localStorage.lastPlayer = 'h5';</scri
 |http://a1.79432.com$script
 |http://s.iroby.com$script
 |http://pianyuan.net/indexbottom.js
+|http://pianyuan.net/slade.js
 |http://www.69tang9.com/player/html.php?aid=start_html&video_id=
 |http://www.qqtouxiang.com/skin/js/global.js$s@function brand*() {*}@@
 |http://m.shuqu8.com$s@var s =*);@
