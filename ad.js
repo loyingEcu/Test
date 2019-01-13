@@ -32,7 +32,7 @@ function FindProxyForURL(url, host){
 
     var hosts = [
 //=========域名Start=========
-
+"nidq.zxin131.cn",
 "ads.vipbaihe.com",
 "api.aixifan.com",
 "api.ssp.adoceans.com",
