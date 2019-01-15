@@ -1,4 +1,4 @@
-!  -----:  2019-01-13 22:55:52   -----
+!  -----:  2019-01-15 16:15:59   -----
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 mtime.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (iPad; CPU OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3"});</script></head>@
 iqiyi.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"});</script></head>@
@@ -304,6 +304,9 @@ http://bd3.shanba.com$script
 |http://m.jjxsw.cc//Public/m/script/common.js$s@function *ad*default:*}*}@@
 |http://m.jjxsw.cc/Public/m/script/common.js$s@function *ad*default:*}*}@@
 ||177picaa.info/js/$script
+||pvcdban.com/manhua/2016/0907/104_1.html
+||pvcdban.com$s@showcloneshengxiaon@@
+||pvcdban.com/js/*.js
 ||da.mgtv.com/*/player$s@<Ad@<noAd@
 ||img.ithome.com/file/js/v2.3/common.js$s@tyle=\"display:block;width:240px;height:240px;background:url(//*)@@
 ||img.ithome.com/file/js/v2.3/common.js$s@showFullSrcModal("https://s.click.taobao.com/*);@@
