@@ -1,4 +1,4 @@
-!  -----:  2019-01-15 16:15:59   -----
+!  -----:  2019-01-21 01:59:52   -----
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 mtime.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (iPad; CPU OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3"});</script></head>@
 iqiyi.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"});</script></head>@
@@ -48,6 +48,10 @@ zhanqi.tv/*$s@</head>@<script>'use strict';localStorage.lastPlayer = 'h5';</scri
 |http://*/js/google*.js
 |http://m.*/js/baidu*.js
 |http://m.*##a[href^="https://player.quankan.tv/aoriys.php"]
+|http://m.*/style.js$s@function m_middle(){*requestApi.func(); })();}@@
+|http://m.*/style.js$s@function m_bottom(){*requestApi.func(); })();}@@
+|http://m.*/style.js$s@function m_footr(){*request.abr.send(null);}})();}@@
+|http://m.*/style.js$s@function uc_foot(){*document.write("");} else {}@@
 ||se.360.cn/errorpage/index.html?url*
 |http://xiaobai.ruanjiandown.com:7457/share/*.mp4$domain=windows7en.com
 |http://##a[href*="@"][href$="exe"]
