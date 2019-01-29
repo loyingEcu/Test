@@ -1128,7 +1128,6 @@ http://bd3.shanba.com$script
 ||a.ltdnc.com
 ||ss.h501.cn
 ||s.daskm.com
-||qhres.com
 ||rjs.niuxgame77.com
 ||j.jimeilm.com
 ||adsapi.manhuaren.com
