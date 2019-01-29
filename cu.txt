@@ -1,10 +1,11 @@
-!  -----:  2019-01-25 14:32:14   -----
+!  -----:  2019-01-29 14:38:50   -----
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 mtime.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (iPad; CPU OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3"});</script></head>@
 iqiyi.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"});</script></head>@
 !pptv开启H5
 ||player.aplus.pptv.com/jsplayer/pid/*.js$s@"isopen":{"live":0,"vod":0},@"isopen":{"live":1,"vod":1},@
 !火猫TV强制H5
+||huomao.com/static/web/js/newindex.es6.js$s@var isFlash = true;@var isFlash = false;@
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !YY默认H5
 ||yy.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36"});</script></head>@
@@ -307,11 +308,14 @@ http://bd3.shanba.com$script
 |http://*@*_*.exe
 |http://m.jjxsw.cc//Public/m/script/common.js$s@function *ad*default:*}*}@@
 |http://m.jjxsw.cc/Public/m/script/common.js$s@function *ad*default:*}*}@@
+||ysgou.cc/Runtime/Js/$script
 ||177picaa.info/js/$script
 ||pvcdban.com/manhua/2016/0907/104_1.html
 ||pvcdban.com$s@showcloneshengxiaon@@
 ||pvcdban.com/js/*.js
 ||da.mgtv.com/*/player$s@<Ad@<noAd@
+||haitum.com/template/default/static/js/ad_middle.js
+||haitum.com/template/default/static/js/bottom.js
 ||img.ithome.com/file/js/v2.3/common.js$s@tyle=\"display:block;width:240px;height:240px;background:url(//*)@@
 ||img.ithome.com/file/js/v2.3/common.js$s@showFullSrcModal("https://s.click.taobao.com/*);@@
 ||m.ybdu.com/wap/common.js$s@if (n>3){*else{*else{*else{*else{*function home_bottom(){}@@
@@ -1364,6 +1368,7 @@ http://www.fankes.com.cn/TMore/sendvip.php$s@3@1@
 rmdown.com##img[src^="http"]
 rmdown.com$s@ads.js@null@
 rmdown.com$s@window.open@@
+www.xmpan.com$s@<p style="text-indent:2em;">*</table>@@
 158pan.cn##img[src="/static/images/hongbao.jpg"]
 mydrivers.com##img[src="//icons.mydrivers.com/2018/ad/kurui1.jpg"]
 thzbt.co##img[src$=".gif"],img[style="padding- bottom:5px;width:960px;height:60px;"],img[style="padding- bottom:5px;width:960px;height:120px;"],[width="180"][height="400"]
