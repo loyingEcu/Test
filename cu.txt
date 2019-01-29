@@ -1,4 +1,4 @@
-!  -----:  2019-01-29 14:38:50   -----
+!  -----:  2019-01-30 00:01:00   -----
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 mtime.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (iPad; CPU OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3"});</script></head>@
 iqiyi.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"});</script></head>@
@@ -10,6 +10,7 @@ iqiyi.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"user
 !YY默认H5
 ||yy.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36"});</script></head>@
 虎牙FF H5
+||huya.com/*$s@'html5' : 'true' == 'true' ? true : false,@'html5' : 'true' == 'true' ? true : true,@
 huya.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.366"});</script></head>@
 !-----------------------------------------------------------------------------------------------------------
 !zealer PC H5
@@ -33,9 +34,7 @@ zhanqi.tv/*$s@</head>@<script>'use strict';localStorage.lastPlayer = 'h5';</scri
 @@|http://m.fmhua.com/js/a.js
 !白名单
 @@||aliyun.com
-@@||qhres.com$domain=360.cn
 @@|http://*/gg/$domain=58.com
-@@||qhres.com$domain=ludashi.com
 @@|http://www.dushudang.com/js/play*.js
 @@|http://syzs.qq.com/js/bannerData.js
 @@|http://www.yinyuetai.com/proment/get-play-medias?json
