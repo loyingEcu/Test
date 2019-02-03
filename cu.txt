@@ -1,4 +1,4 @@
-!  -----:  2019-01-30 00:01:00   -----
+!  -----:  2019-02-03 20:46:17   -----
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 mtime.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (iPad; CPU OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3"});</script></head>@
 iqiyi.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"});</script></head>@
@@ -329,6 +329,55 @@ http://bd3.shanba.com$script
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
 ||d/js/acmsd/*.js
+||b.whrdch.com
+||mac.gitcms.com
+||jc.ouwenlaitaoci.com
+||jc.ziig.com.cn
+||union.maccms.net
+||photo.yinhaocafe.cn
+||js.forte8.com
+||m.mxguan.com
+||ekfe.idanmei.cn
+||s3.chaju28.com
+||t3.chaju28.com
+||s3.dongruanquan.com
+||t3.dongruanquan.com
+||m.rerwe.cn
+||img.rerwe.cn
+||img.piaosugo.com
+||s.appjiagu.com
+||adash.man.aliyuncs.com
+||embed.tawk.to
+||ipengtai.huanqiu.com
+||17.huanqiu.com
+||shermanerer.com
+||photo.cxslchkb.cn
+||photo.epowuxiao.cn
+||t.yunsoka.com
+||www.duobaoqj.com
+||sizd.6nzev.cn
+||m.lglady.cn
+||ayues.com
+||anhm.acv5e.cn
+||www.93vitui.com
+||a6.hn985.com
+||tfs.zhamm.cn
+||krq.yymmsd.cn
+||dam.zhqryw.cn
+||sudon.afefw.com
+||nuloe.alksdh.com
+||zouwie.mlhif.com
+||ssh.hbhtbn.com
+||www.poke88.com
+||h.how5.cn
+||aganj.com
+||kguaq.com
+||ssl86.pjshw.cn
+||1.xuexi.la
+||w1.jinyueya.net
+||wl.duoshitong.com
+||www.guanggao369.cn
+||img.ferlie.net
 ||www.nnnwwwe.com
 ||nchet.com
 ||kdieu.com
@@ -1340,6 +1389,7 @@ http://bd3.shanba.com$script
 ||sc.goyozo.com
 ||xhxnkyy.com
 ||csdn1718.jiejuefangan741.com
+||xbiquge.la/js/wap.js
 ||sobt5.org/Public/static/js/*
 ||img.ithome.com/file/js/money/wap/content2.js
 ||s0.pstatp.com
