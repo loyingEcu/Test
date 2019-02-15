@@ -1,7 +1,8 @@
-!  -----:  2019-02-13 01:20:35   -----
+!  -----:  2019-02-16 02:45:50   -----
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 mtime.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"});</script></head>@
 iqiyi.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"});</script></head>@
+||jstatic.letvcdn.com/sdk/player.js$s@isH5:e.isH5@isH5:1@
 !pptv开启H5
 ||player.aplus.pptv.com/jsplayer/pid/*.js$s@"isopen":{"live":0,"vod":0},@"isopen":{"live":1,"vod":1},@
 !火猫TV强制H5
