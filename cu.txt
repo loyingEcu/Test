@@ -1,4 +1,4 @@
-!  -----:  2019-02-16 02:45:50   -----
+!  -----:  2019-02-23 02:09:40   -----
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 mtime.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"});</script></head>@
 iqiyi.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"});</script></head>@
@@ -43,6 +43,7 @@ zhanqi.tv/*$s@</head>@<script>'use strict';localStorage.lastPlayer = 'h5';</scri
 /vipgg/pc/js/$script
 /vipgg/m/js/$script
 /videos/##a[href="https://tbaif.com"]
+|http://*/img/head2.js
 |http://m.*/js/xett*t.js
 |http://*/js/google*.js
 |http://m.*/js/baidu*.js
@@ -1405,6 +1406,7 @@ http://bd3.shanba.com$script
 ||sc.goyozo.com
 ||xhxnkyy.com
 ||csdn1718.jiejuefangan741.com
+||umei.cc/js/UmeiApp.js
 ||xbiquge.la/js/wap.js
 ||sobt5.org/Public/static/js/*
 ||img.ithome.com/file/js/money/wap/content2.js
