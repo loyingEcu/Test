@@ -1,4 +1,4 @@
-!  -----:  2019-02-23 02:09:40   -----
+!  -----:  2019-02-24 21:34:50   -----
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 mtime.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"});</script></head>@
 iqiyi.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"});</script></head>@
@@ -64,6 +64,7 @@ zhanqi.tv/*$s@</head>@<script>'use strict';localStorage.lastPlayer = 'h5';</scri
 |http://js.feitian001.com/js/c/7243_1000.js
 |http://semovie.net/moviet.php?$s@if (!urlhash.match("fromapp"))*}@
 |http://m.*js$s@function *ad*case 1:*break;*case 2:*break;*case 3:*break;@
+|http://www.kanjuba.me/js/bbk/p.js
 |http://104.225.235.176/*
 |http://*/js/Statistics*.js
 |http://m.dm530.net/js/ne/$script
