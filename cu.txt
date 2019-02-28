@@ -1,4 +1,4 @@
-!  -----:  2019-02-25 21:46:05   -----
+!  -----:  2019-02-28 18:53:27   -----
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 mtime.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"});</script></head>@
 iqiyi.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"});</script></head>@
@@ -330,6 +330,35 @@ http://bd3.shanba.com$script
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
 ||d/js/acmsd/*.js
+||606.z.anquanzhuomian.cn
+||ssl.51shanchayou.com
+||cspb1.5w5w.com
+||tags.h12-media.com
+||www.tj-cmys.com
+||m.g312.net
+||js.lzzqqc.com
+||g.tangeb.com
+||g.haienkj.com
+||f.nkjwmb.com
+||10.0768dns.net
+||stuartuaua.com
+||fc.wxfktc.com
+||www.jarryham.com
+||pdaa.lumakj.com
+||spencerncence.com
+||djv99sxoqpv11.cloudfront.net
+||union.ykxdbz.com
+||shang.baful.net
+||vrs.hisau.com
+||s3.8v7wg.com
+||bdsearch.2345.com
+||bdcode.2345.com
+||jsa.15tianqi.com
+||dma.15tianqi.com
+||mc.weather.com.cn
+||aima.weathercn.com
+||baidu1.weather.com.cn
+||bima.weathercn.com
 ||jc.4006825178.com
 ||k.hdjxmf.com
 ||www.googletagservices.com
