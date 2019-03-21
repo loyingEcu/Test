@@ -1,4 +1,4 @@
-!  -----:  2019-02-28 18:53:27   -----
+!  -----:  2019-03-21 22:49:00   -----
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 mtime.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"});</script></head>@
 iqiyi.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"});</script></head>@
@@ -1460,6 +1460,7 @@ http://bd3.shanba.com$script
 ||d3m3oe9guvnvvk.cloudfront.net/*$s@"canLook":false@"canLook":true@
 ||d3m3oe9guvnvvk.cloudfront.net/*$s@adsConfig@null@
 ||d3m3oe9guvnvvk.cloudfront.net/*$s@"restCount":*,@"restCount":999,@
+||api.fastdown666.com/*$s@"invite_count":*,@"invite_count":999,@
 ||xiguaapi.czapp1.xyz/index/my/index/?userdata*$s@"quanxian":null,@"quanxian":vip,@
 ||xiguaapi.czapp1.xyz/*$s@app":{"update":"yes"@app":{"update":"no"@
 ||115.159.38.169/user/*$s@remainday":"*"@remainday":"999"@
