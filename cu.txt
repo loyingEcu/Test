@@ -1460,7 +1460,8 @@ http://bd3.shanba.com$script
 ||d3m3oe9guvnvvk.cloudfront.net/*$s@"canLook":false@"canLook":true@
 ||d3m3oe9guvnvvk.cloudfront.net/*$s@adsConfig@null@
 ||d3m3oe9guvnvvk.cloudfront.net/*$s@"restCount":*,@"restCount":999,@
-||api.fastdown666.com/*$s@"task_total":3,@"task_total":999,@
+||api.fastdown666.com/*$s@"task_used":*,@"task_used":999,@
+||api.fastdown666.com/*$s@"task_total":*,@"task_total":999,@
 ||api.fastdown666.com/*$s@"invite_count":*,@"invite_count":999,@
 ||api.fastdown666.com$s@"speed_limit":200,@"speed_limit":9999999,@
 ||api.fastdown666.com$s@"if_acc":0@"if_acc":1@
