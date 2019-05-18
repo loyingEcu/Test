@@ -1,7 +1,7 @@
 !  -----:  2019-04-14 12:19:00   -----
 http://api.fastdown666.com$s@"payment":"*",@"payment":"0",@
-http://api.fastdown666.com$s@"exp":"*",@"exp":"0",@
-http://api.fastdown666.com$s@"fs":"*"@"fs":"0"@
+http://api.fastdown666.com$s@"exp":*,@"exp":0,@
+http://api.fastdown666.com$s@"fs":*@"fs":0@
 |http://n.miaopai.com/media/$s@</head>@<script>location.href = 'javascript:var event=new Event("videoFix");document.dispatchEvent(event);void(0)';</script></head>@
 mtime.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"});</script></head>@
 iqiyi.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"});</script></head>@
