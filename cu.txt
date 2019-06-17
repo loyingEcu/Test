@@ -1,4 +1,4 @@
-!  -----:  2019-05-24 00:01:00   -----
+!  -----:  2019-06-17 20:07:00   -----
 ||yhdm.tv/bar/yfyh.js
 http://api.fastdown666.com$s@"payment":"*",@"payment":"0",@
 http://api.fastdown666.com$s@"exp":*,@"exp":0,@
@@ -334,6 +334,12 @@ http://bd3.shanba.com$script
 ||womt.xyz$s@freeaddon_banadblock@@
 ||ttrar.com/statics/pos_js/ydggw*.js
 ||d/js/acmsd/*.js
+||jpxs123.com/skin/default/js/$script
+||at2.doubanio.com
+||dg.egjq.com.cn
+||b17.xiumucn.com
+||ii.jiankang.com
+||fjiej.com
 ||606.z.anquanzhuomian.cn
 ||ssl.51shanchayou.com
 ||cspb1.5w5w.com
