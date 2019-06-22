@@ -14,7 +14,7 @@ iqiyi.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"user
 ||huomao.com/static/web/js/newindex.es6.js$s@var isFlash = true;@var isFlash = false;@
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !YY默认H5
-||yy.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"});</script></head>@
+||yy.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"});</script></head>@
 !虎牙FF H5
 ||huya.com/*$s@'html5' : 'true' == 'true' ? true : false,@'html5' : 'true' == 'true' ? true : true,@
 huya.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"});</script></head>@
