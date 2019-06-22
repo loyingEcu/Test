@@ -1,4 +1,4 @@
-!  -----:  2019-06-17 20:07:00   -----
+!  -----:  2019-06-22 20:32:30   -----
 ||yhdm.tv/bar/yfyh.js
 http://api.fastdown666.com$s@"payment":"*",@"payment":"0",@
 http://api.fastdown666.com$s@"exp":*,@"exp":0,@
@@ -8,7 +8,8 @@ mtime.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"user
 iqiyi.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"});</script></head>@
 ||jstatic.letvcdn.com/sdk/player.js$s@isH5:e.isH5@isH5:1@
 !pptv开启H5
-||player.aplus.pptv.com/jsplayer/pid/*.js$s@"isopen":{"live":0,"vod":0},@"isopen":{"live":1,"vod":1},@
+||player.aplus.pptv.com/jsplayer/pid/*.js$s@this.isSupportH5=!0@this.isSupportH5=!1@
+||player.aplus.pptv.com/jsplayer/pid/*.js$s@playerClass="flash"@playerClass="h5"@
 !火猫TV强制H5
 ||huomao.com/static/web/js/newindex.es6.js$s@var isFlash = true;@var isFlash = false;@
 ||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
