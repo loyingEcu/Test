@@ -1,4 +1,4 @@
-!  -----:  2019-06-22 20:32:30   -----
+!  -----:  2019-06-30 18:03:59   -----
 ||yhdm.tv/bar/yfyh.js
 http://api.fastdown666.com$s@"payment":"*",@"payment":"0",@
 http://api.fastdown666.com$s@"exp":*,@"exp":0,@
@@ -336,6 +336,12 @@ http://bd3.shanba.com$script
 ||ttrar.com/statics/pos_js/ydggw*.js
 ||d/js/acmsd/*.js
 ||jpxs123.com/skin/default/js/$script
+address /dg.egjq.com.cn/0.0.0.0
+||b17.xiumucn.com
+||img.sexyun.net
+||d.docexcel.net
+||k.daokejs.com
+||k.550tg.com
 ||at2.doubanio.com
 ||dg.egjq.com.cn
 ||b17.xiumucn.com
