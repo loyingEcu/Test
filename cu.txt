@@ -1,7 +1,7 @@
 !  -----:  2019-08-29 22:29:20   -----
 ||yhdm.tv/bar/yfyh.js
 ||dlyun.wap.slb.dalongyun.com$s@"ext":"0",@"ext":"9999",@
-||dlyun.wap.slb.dalongyun.com$s"vipGrade":0,@"vipGrade":3,@
+||dlyun.wap.slb.dalongyun.com$s@"vipGrade":0,@"vipGrade":3,@
 http://api.fastdown666.com$s@"payment":"*",@"payment":"0",@
 http://api.fastdown666.com$s@"exp":*,@"exp":0,@
 http://api.fastdown666.com$s@"fs":*}@"fs":0}@
