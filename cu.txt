@@ -1,7 +1,4 @@
-!  -----:  2019-08-29 22:29:20   -----
-||yhdm.tv/bar/yfyh.js
-||dlyun.wap.slb.dalongyun.com$s@"ext":"0",@"ext":"9999",@
-||dlyun.wap.slb.dalongyun.com$s@"vipGrade":0,@"vipGrade":3,@
+!  -----:  2020-01-20 19:20:05   -----
 http://api.fastdown666.com$s@"payment":"*",@"payment":"0",@
 http://api.fastdown666.com$s@"exp":*,@"exp":0,@
 http://api.fastdown666.com$s@"fs":*}@"fs":0}@
@@ -60,6 +57,7 @@ zhanqi.tv/*$s@</head>@<script>'use strict';localStorage.lastPlayer = 'h5';</scri
 |http://m.*/style.js$s@function m_footr(){*request.abr.send(null);}})();}@@
 |http://m.*/style.js$s@function uc_foot(){*document.write("");} else {}@@
 ||se.360.cn/errorpage/index.html?url*
+|http://api.balebalebale.com/api/v1/ad/*
 |http://xiaobai.ruanjiandown.com:7457/share/*.mp4$domain=windows7en.com
 |http://##a[href*="@"][href$="exe"]
 |http://##a[href*="cpro.baidu.com"],a[href*="i/?cid="]
