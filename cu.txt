@@ -20,7 +20,6 @@ huya.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userA
 !火狐芒果tv H5
 ||mgtv.com/*$s@</head>@<script>'use strict';window.USER_H5_PLAYER = true</script></head>@
 ||www.mgtv.com$s@window.isH5Player = false;@window.isH5Player = true;@
-|https://www.mgtv.com/$s@isSupportFlash('11.2.0')@isSupportFlash('99.9.9')@
 !龙珠斗鱼默认H5
 ||star.longzhu.com$s@"Chrome/44.0.0.0+,@"Chrome/44.0.0.0+,mozilla/5.0+,@
 douyu.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"});</script></head>@
