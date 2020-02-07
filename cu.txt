@@ -1,4 +1,4 @@
-!  -----:  2020-01-23 11:35:05   -----
+!  -----:  2020-02-07 21:36:36   -----
 http://api.fastdown666.com$s@"payment":"*",@"payment":"0",@
 http://api.fastdown666.com$s@"exp":*,@"exp":0,@
 http://api.fastdown666.com$s@"fs":*}@"fs":0}@
@@ -9,9 +9,6 @@ iqiyi.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"user
 !pptv开启H5
 !||player.aplus.pptv.com/jsplayer/pid/*.js$s@this.isSupportH5=!0@this.isSupportH5=!1@
 !||player.aplus.pptv.com/jsplayer/pid/*.js$s@playerClass="flash"@playerClass="h5"@
-!火猫TV强制H5
-||huomao.com/static/web/js/newindex.es6.js$s@var isFlash = true;@var isFlash = false;@
-||huomao.com/static/web/js/newlive.es6.js$s@var isFlash = true;@var isFlash = false;@
 !YY默认H5
 ||yy.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"});</script></head>@
 !虎牙FF H5
