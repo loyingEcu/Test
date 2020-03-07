@@ -1,4 +1,4 @@
-!  -----:  2020-02-28 08:14:20   -----
+!  -----:  2020-03-07 13:03:00   -----
 http://api.fastdown666.com$s@"payment":"*",@"payment":"0",@
 http://api.fastdown666.com$s@"exp":*,@"exp":0,@
 http://api.fastdown666.com$s@"fs":*}@"fs":0}@
@@ -305,6 +305,9 @@ http://bd3.shanba.com$script
 |http://*@*_*.exe
 |http://m.jjxsw.cc//Public/m/script/common.js$s@function *ad*default:*}*}@@
 |http://m.jjxsw.cc/Public/m/script/common.js$s@function *ad*default:*}*}@@
+||statics.zdface.com/js/m/zw_*.js
+||m.baishixi.com/mstyle/js/*
+||www.jiyoutv.com/js/function.js
 ||cupid.iqiyi.com/show2*a=qc_100001_*$s@"a":[{"ds":?,"p":??,*:[]}],"inv":@"a":[]}],"inv":@
 ||ysgou.cc/Runtime/Js/$script
 ||177picaa.info/js/$script
