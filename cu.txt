@@ -12,8 +12,6 @@ iqiyi.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"user
 !pptv开启H5
 !||player.aplus.pptv.com/jsplayer/pid/*.js$s@this.isSupportH5=!0@this.isSupportH5=!1@
 !||player.aplus.pptv.com/jsplayer/pid/*.js$s@playerClass="flash"@playerClass="h5"@
-!YY默认H5
-||yy.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"});</script></head>@
 !火狐芒果tv H5
 ||mgtv.com/*$s@</head>@<script>'use strict';window.USER_H5_PLAYER = true</script></head>@
 ||www.mgtv.com$s@window.isH5Player = false;@window.isH5Player = true;@
