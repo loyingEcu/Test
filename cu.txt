@@ -1,4 +1,4 @@
-!  -----:  2020-03-12 11:10:30   -----
+!  -----:  2020-03-14 11:35:10   -----
 http://api.fastdown666.com$s@"payment":"*",@"payment":"0",@
 http://api.fastdown666.com$s@"exp":*,@"exp":0,@
 http://api.fastdown666.com$s@"fs":*}@"fs":0}@
@@ -6,6 +6,8 @@ http://api.fastdown666.com$s@"fs":*}@"fs":0}@
 mtime.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"});</script></head>@
 iqiyi.com/*$s@</head>@<script>'use strict';Object.defineProperty(navigator,"userAgent",{value:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"});</script></head>@
 ||jstatic.letvcdn.com/sdk/player.js$s@isH5:e.isH5@isH5:1@
+!腾讯课堂
+||imgcache.qq.com/open/qcloud/video/vcplayer/TcPlayer*.js$s@Shockwave Flash@GUNDANFLASH@
 !斗鱼视频h5
 ||sta-op.douyucdn.cn/front-publish/h5-vod-main-master/player_*$s@return!0}}return!1@return!0}}return!0@
 ||shark2.douyucdn.cn/front-publish/demand-master/js/author_*.js$s@return!0}}return!1@return!0}}return!0@
