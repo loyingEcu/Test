@@ -1,4 +1,4 @@
-!  -----:  2020-03-25 20:20:20   -----
+!  -----:  2020-03-27 00:02:40   -----
 http://api.fastdown666.com$s@"payment":"*",@"payment":"0",@
 http://api.fastdown666.com$s@"exp":*,@"exp":0,@
 http://api.fastdown666.com$s@"fs":*}@"fs":0}@
@@ -306,6 +306,8 @@ http://bd3.shanba.com$script
 |http://*@*_*.exe
 |http://m.jjxsw.cc//Public/m/script/common.js$s@function *ad*default:*}*}@@
 |http://m.jjxsw.cc/Public/m/script/common.js$s@function *ad*default:*}*}@@
+||g.alicdn.com/player/beta-ykplayer/1.10.34/youku-player.min.js$s@disable youku_vip_pay_btn@@
+||g.alicdn.com/player/beta-ykplayer/1.10.34/youku-player.min.js$s@o="VIP"@o="NO VIP"@
 ||statics.zdface.com/js/m/zw_*.js
 ||m.baishixi.com/mstyle/js/*
 ||www.jiyoutv.com/js/function.js
