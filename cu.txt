@@ -1,4 +1,4 @@
-!  -----:  2020-04-02 03:35:50   -----
+!  -----:  2020-04-05 16:00:00   -----
 !腾讯课堂
 ||imgcache.qq.com/open/qcloud/video/vcplayer/TcPlayer*.js$s@Shockwave Flash@GUNDANFLASH@
 !斗鱼视频h5
@@ -299,8 +299,8 @@ http://bd3.shanba.com$script
 |http://*@*_*.exe
 |http://m.jjxsw.cc//Public/m/script/common.js$s@function *ad*default:*}*}@@
 |http://m.jjxsw.cc/Public/m/script/common.js$s@function *ad*default:*}*}@@
-||g.alicdn.com/player/beta-ykplayer/1.10.34/youku-player.min.js$s@disable youku_vip_pay_btn@@
-||g.alicdn.com/player/beta-ykplayer/1.10.34/youku-player.min.js$s@o="VIP"@o="NO VIP"@
+||g.alicdn.com/player/beta-ykplayer/*/youku-player.min.js$s@disable youku_vip_pay_btn@@
+||g.alicdn.com/player/beta-ykplayer/*/youku-player.min.js$s@o="VIP"@o="NO VIP"@
 ||statics.zdface.com/js/m/zw_*.js
 ||m.baishixi.com/mstyle/js/*
 ||www.jiyoutv.com/js/function.js
