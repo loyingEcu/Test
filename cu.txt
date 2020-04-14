@@ -1,4 +1,4 @@
-!  -----:  2020-04-05 16:00:00   -----
+!  -----:  2020-04-14 23:05   -----
 !腾讯课堂
 ||imgcache.qq.com/open/qcloud/video/vcplayer/TcPlayer*.js$s@Shockwave Flash@GUNDANFLASH@
 !斗鱼视频h5
@@ -23,7 +23,7 @@ zhanqi.tv/*$s@</head>@<script>'use strict';localStorage.lastPlayer = 'h5';</scri
 !白名单
 @@||aliyun.com
 @@||dftoutiao.com
-@@|http://*/gg/$domain=58.com
+@@|http://gg.58.com
 @@|http://www.dushudang.com/js/play*.js
 @@|http://syzs.qq.com/js/bannerData.js
 @@|http://www.yinyuetai.com/proment/get-play-medias?json
