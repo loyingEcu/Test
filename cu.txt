@@ -22,6 +22,7 @@ zhanqi.tv/*$s@</head>@<script>'use strict';localStorage.lastPlayer = 'h5';</scri
 @@|http://m.fmhua.com/js/a.js
 !白名单
 @@||aliyun.com
+@@||dftoutiao.com
 @@|http://*/gg/$domain=58.com
 @@|http://www.dushudang.com/js/play*.js
 @@|http://syzs.qq.com/js/bannerData.js
