@@ -24,10 +24,8 @@ zhanqi.tv/*$s@</head>@<script>'use strict';localStorage.lastPlayer = 'h5';</scri
 @@||aliyun.com
 @@||dftoutiao.com
 @@|http://gg.58.com
-@@|http://www.dushudang.com/js/play*.js
 @@|http://syzs.qq.com/js/bannerData.js
 @@|http://www.yinyuetai.com/proment/get-play-medias?json
-||diyibanzhu.life$s@gb2312@charset=gb2312@
 !-------------------------------------分割线-----------------------------------------------
 /template/demo/aaaa/$script
 /vipgg/url_site.js
