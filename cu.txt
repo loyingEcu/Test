@@ -33,6 +33,7 @@ zhanqi.tv/*$s@</head>@<script>'use strict';localStorage.lastPlayer = 'h5';</scri
 /vipgg/m/js/$script
 /videos/##a[href="https://tbaif.com"]
 |http://*/img/head2.js
+aaa
 |http://m.*/js/xett*t.js
 |http://*/js/google*.js
 |http://m.*/js/baidu*.js
