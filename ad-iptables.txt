@@ -1,1 +1,0 @@
-iptables -I FORWARD -d 198.56.241.158 -j DROP
