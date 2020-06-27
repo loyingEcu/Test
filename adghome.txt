@@ -1,5 +1,5 @@
 !
-!     2020/6/24
+!     2020/6/27
 
 
 
@@ -12,6 +12,7 @@
 ||qchannel03.cn^
 ||ads.sohu.com^
 ||go.sohu.com^
+||vs*.gzcu.u3.ucweb.com^
 ||idgdmgroup.com.cn^
 ||fpbbdx1.51240.com^
 ||fpbbdx2.51240.com^
