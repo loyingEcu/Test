@@ -1,5 +1,5 @@
 !
-!     2020/6/30
+!     2020/7/2
 
 ||vs*.gzcu.u3.ucweb.com^
 
@@ -159,11 +159,10 @@
 ||hotjar.com^
 ||mc.yandex.ru^
 ||adservice.google.com^
+||googleadservices.com^
 ||ade.googlesyndication.com^
 ||pagead2.googlesyndication.com^
 ||tpc.googlesyndication.com^
-||partner.googleadservices.com^
-||www.googleadservices.com^
 ||static.googleadsserving.cn^
 ||www.googletagmanager.com^
 ||www.google-analytics.com^
