@@ -161,7 +161,7 @@
 ||cnzz.com^
 ||hotjar.com^
 ||mc.yandex.ru^
-||adservice.google.com^
+||adservice.google.com
 ||googleadservices.com^
 ||ade.googlesyndication.com^
 ||pagead2.googlesyndication.com^
