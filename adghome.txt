@@ -1,11 +1,14 @@
 !
-!     2020/7/2
+!     2020/7/7
 
 ||vs*.gzcu.u3.ucweb.com^
 
 
 
 
+
+
+||partner.toutiao.com^
 ||ie8eamus.com^
 ||hadsanz.com^
 ||bnhtml.com^
