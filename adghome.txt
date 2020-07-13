@@ -1,5 +1,5 @@
 !
-!     2020/7/12/10:23
+!     2020/7/13/13:45
 
 ||vs*.gzcu.u3.ucweb.com
 
@@ -9,6 +9,8 @@
 
 
 
+||so.tianqistatic.com
+||datas.tianqistatic.com
 ||yanzhenqing.cn
 ||m.konshan.com
 ||m.go1212.vip
