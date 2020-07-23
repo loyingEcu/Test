@@ -1,5 +1,5 @@
 !
-!     2020/7/22/18:09
+!     2020/7/23
 
 ||vs*.gzcu.u3.ucweb.com
 
@@ -12,6 +12,7 @@
 
 
 
+||ahm.shengjunshi.com
 ||ad.toutiao.com
 ||ad.e.kuaishou.com
 ||cr-nielsen.com
