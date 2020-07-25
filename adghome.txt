@@ -215,3 +215,4 @@
 ||googleads.g.doubleclick.net
 @@||snssdk.com
 @@||sf*-ttcdn-tos.pstatp.com
+@@||map.baidu.com
