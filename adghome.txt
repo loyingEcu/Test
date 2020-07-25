@@ -1,5 +1,5 @@
 !
-!     2020/7/23
+!     2020/7/26
 
 ||vs*.gzcu.u3.ucweb.com
 
@@ -213,3 +213,5 @@
 ||www.google-analytics.com
 ||www.googletagservices.com
 ||googleads.g.doubleclick.net
+@@||snssdk.com
+@@||sf*-ttcdn-tos.pstatp.com
