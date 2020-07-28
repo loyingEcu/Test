@@ -209,7 +209,6 @@
 ||pagead2.googlesyndication.com
 ||tpc.googlesyndication.com
 ||static.googleadsserving.cn
-||www.google-analytics.com
 ||www.googletagservices.com
 ||googleads.g.doubleclick.net
 @@||snssdk.com
