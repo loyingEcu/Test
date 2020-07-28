@@ -176,13 +176,7 @@
 ||irs01.com
 ||zz.bdstatic.com
 ||statics.woozooo.com
-||e.qq.com
-||cm.e.qq.com
-||sdk.e.qq.com
-||c.gdt.qq.com
-||d.gdt.qq.com
-||i.gdt.qq.com
-||mi.gdt.qq.com
+||gdt.qq.com
 ||dup.baidustatic.com
 ||pos.baidu.com
 ||cpro.baidu.com
@@ -214,3 +208,4 @@
 @@||snssdk.com
 @@||sf*-ttcdn-tos.pstatp.com
 @@||map.baidu.com
+@@||c.gdt.qq.com
