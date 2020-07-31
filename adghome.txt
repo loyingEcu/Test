@@ -1,5 +1,5 @@
 !
-!     2020/7/31/14:00
+!     2020/7/31/15
 
 ||vs*.gzcu.u3.ucweb.com
 
@@ -12,6 +12,7 @@
 
 
 
+||js.zswph.com
 ||djm080u34wfc5.cloudfront.net
 ||ahm.shengjunshi.com
 ||ad.toutiao.com
