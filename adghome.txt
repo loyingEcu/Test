@@ -1,5 +1,5 @@
 !
-!     2020/7/31/15
+!     2020/08/02
 
 ||vs*.gzcu.u3.ucweb.com
 
@@ -12,6 +12,7 @@
 
 
 
+||inmobi.cn
 ||js.zswph.com
 ||djm080u34wfc5.cloudfront.net
 ||ahm.shengjunshi.com
