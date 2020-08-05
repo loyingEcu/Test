@@ -1,7 +1,8 @@
 !
-!     2020/08/04
+!     2020/08/05
 
 ||vs*.gzcu.u3.ucweb.com
+
 
 
 
@@ -25,6 +26,7 @@
 ||dlads.cn
 ||inmobi.cn
 ||js.zswph.com
+||d3ithbwcmjcxl7.cloudfront.net
 ||djm080u34wfc5.cloudfront.net
 ||ahm.shengjunshi.com
 ||ad.toutiao.com
