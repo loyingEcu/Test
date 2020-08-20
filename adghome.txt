@@ -1,5 +1,5 @@
 !
-!     2020/08/15
+!     2020/08/20
 
 ||vs*.gzcu.u3.ucweb.com
 
@@ -15,6 +15,7 @@
 
 
 
+||sdk.adtiming.com
 ||ads.pubmatic.com
 ||a.qqasmr.com
 ||ethicalads.io
