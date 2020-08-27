@@ -1,5 +1,5 @@
 !
-!     2020/08/21
+!     2020/08/27
 
 ||vs*.gzcu.u3.ucweb.com
 
@@ -15,6 +15,7 @@
 
 
 
+||g1.b2b-c.cn
 ||hnnuange.com
 ||sdk.adtiming.com
 ||ads.pubmatic.com
