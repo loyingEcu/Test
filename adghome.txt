@@ -1,5 +1,5 @@
 !
-!     2020/09/03
+!     2020/09/06
 
 ||vs*.gzcu.u3.ucweb.com
 
@@ -13,6 +13,7 @@
 
 
 
+||doubleclick.net
 ||code.yachhf.com
 ||q68.beiwaicd.com
 ||txzs168.net
