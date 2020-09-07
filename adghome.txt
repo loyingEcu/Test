@@ -1,5 +1,5 @@
 !
-!     2020/09/06
+!     2020/09/07
 
 ||vs*.gzcu.u3.ucweb.com
 
@@ -13,6 +13,7 @@
 
 
 
+||lwz.ffhre.com
 ||amazon-adsystem.com
 ||doubleclick.net
 ||code.yachhf.com
