@@ -1,5 +1,5 @@
 !
-!     2020/09/10
+!     2020/09/15
 
 ||vs*.gzcu.u3.ucweb.com
 ||www.jfsdiwmnbsk*.top
@@ -13,6 +13,7 @@
 
 
 
+||api-access.pangolin-sdk-toutiao.com^
 ||jisuoping.com
 ||cathaycentury.com
 ||msspgw.cn
