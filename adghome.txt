@@ -1,5 +1,5 @@
 !
-!     2020/09/15
+!     2020/09/16
 
 ||vs*.gzcu.u3.ucweb.com
 ||www.jfsdiwmnbsk*.top
@@ -12,7 +12,9 @@
 
 
 
-
+||haireig.com
+||static.sinawap.com
+||img.sinawap.com
 ||api-access.pangolin-sdk-toutiao.com^
 ||jisuoping.com
 ||cathaycentury.com
