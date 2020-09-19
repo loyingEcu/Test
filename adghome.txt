@@ -1,6 +1,9 @@
 !
 !     2020/09/19
 
+/^d[1-9]\.sina\.com\.cn/
+
+
 ||vs*.gzcu.u3.ucweb.com
 ||www.jfsdiwmnbsk*.top
 
