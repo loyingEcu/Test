@@ -1,5 +1,5 @@
 !
-!     2020/09/21
+!     2020/09/22
 
 /^d[1-9]\.sina\.com\.cn/
 
@@ -13,7 +13,8 @@
 
 
 
-
+||tongj1.xilu.com
+||tongj.xilu.com
 ||g.163.com
 ||nex.163.com
 ||img1.hblds.com
