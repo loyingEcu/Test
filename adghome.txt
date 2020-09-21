@@ -13,6 +13,7 @@
 
 
 
+||xingchenjia.com
 ||tongj1.xilu.com
 ||tongj.xilu.com
 ||g.163.com
@@ -25,7 +26,7 @@
 ||haireig.com
 ||static.sinawap.com
 ||img.sinawap.com
-||api-access.pangolin-sdk-toutiao.com^
+||api-access.pangolin-sdk-toutiao.com
 ||jisuoping.com
 ||cathaycentury.com
 ||msspgw.cn
