@@ -14,6 +14,7 @@
 
 
 ||bdjs.chinabig.com.cn
+||bd1.chinabig.com.cn
 ||sinawap.com
 ||iscrv.com
 ||xingchenjia.com
