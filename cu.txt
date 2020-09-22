@@ -30,15 +30,7 @@
 /vipgg/pc/js/$script
 /vipgg/m/js/$script
 /videos/##a[href="https://tbaif.com"]
-|http://*/img/head2.js
-|http://m.*/js/xett*t.js
-|http://*/js/google*.js
-|http://m.*/js/baidu*.js
-|http://m.*##a[href^="https://player.quankan.tv/aoriys.php"]
-|http://m.*/style.js$s@function m_middle(){*requestApi.func(); })();}@@
-|http://m.*/style.js$s@function m_bottom(){*requestApi.func(); })();}@@
-|http://m.*/style.js$s@function m_footr(){*request.abr.send(null);}})();}@@
-|http://m.*/style.js$s@function uc_foot(){*document.write("");} else {}@@
+||zhenbuka.com/loading.html
 ||se.360.cn/errorpage/index.html?url*
 |http://api.balebalebale.com/api/v1/ad/*
 |http://xiaobai.ruanjiandown.com:7457/share/*.mp4$domain=windows7en.com
