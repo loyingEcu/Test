@@ -1,4 +1,4 @@
-!  -----:  2020-08-14 14:55   -----
+!  -----:  2020-09-23 
 !腾讯课堂
 ||imgcache.qq.com/open/qcloud/video/vcplayer/TcPlayer*.js$s@Shockwave Flash@GUNDANFLASH@
 !斗鱼视频h5
@@ -25,11 +25,6 @@
 @@|http://syzs.qq.com/js/bannerData.js
 @@|http://www.yinyuetai.com/proment/get-play-medias?json
 !-------------------------------------分割线-----------------------------------------------
-/template/demo/aaaa/$script
-/vipgg/url_site.js
-/vipgg/pc/js/$script
-/vipgg/m/js/$script
-/videos/##a[href="https://tbaif.com"]
 ||zhenbuka.com/loading.html
 ||se.360.cn/errorpage/index.html?url*
 |http://api.balebalebale.com/api/v1/ad/*
