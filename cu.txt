@@ -1,4 +1,4 @@
-!  -----:  2020-09-23 
+!  -----:  2020-09-29
 !腾讯课堂
 ||imgcache.qq.com/open/qcloud/video/vcplayer/TcPlayer*.js$s@Shockwave Flash@GUNDANFLASH@
 !斗鱼视频h5
@@ -25,7 +25,7 @@
 @@|http://syzs.qq.com/js/bannerData.js
 @@|http://www.yinyuetai.com/proment/get-play-medias?json
 !-------------------------------------分割线-----------------------------------------------
-||zhenbuka.com/loading.html
+bde4.com/js/play.v3.js$s@adTime=15@adTime=1@
 ||se.360.cn/errorpage/index.html?url*
 |http://api.balebalebale.com/api/v1/ad/*
 |http://xiaobai.ruanjiandown.com:7457/share/*.mp4$domain=windows7en.com
@@ -41,10 +41,8 @@
 |http://m.*js$s@function *ad*case 1:*break;*case 2:*break;*case 3:*break;@
 |http://www.kanjuba.me/js/bbk/p.js
 |http://104.225.235.176/*
-|http://*/js/Statistics*.js
 |http://m.dm530.net/js/ne/$script
 |http://www.dushudang.com/js/*.js
-|http://m.*/templets/youquba/$script
 |http://wap.xiangcun222.com$s@<script>adcpc(21);</script>@@
 |https://tl.zcsfs.cn/d.asp?pid=
 |http://m.99mm.me$s@(function(){var d=@@
@@ -89,7 +87,6 @@
 |http://m.hkdm99.com/js/68/$script
 |http://m.xieehao.com/skin/$script
 |http://m.yqmh.co/yq/$script
-|http://*/ads/*$domain=v5.lol5s.com
 |http://js.139y.com$script
 |http://m.aiskycn.com/show/*
 |http://www.qzone.la/Scripts/m.js
@@ -115,7 +112,6 @@
 |http://m.shuqu8.com$s@var s =*);@
 |http://m.dingdianzw.com$s@;(function() {var d = (/UCBrowser|QQBrowser|MiuiBrowser/@@
 |http://m.neihanpa.com/skin/js/commonuo.js$s@imgwrap.innerHTML='<div class="div-link">'+i+'<span class="close-l">x</span></div>';@@
-|http://*/templets/*/static/js/*.js
 |http://kankanwu.com/xuxu/*
 |http://www.onegreen.net/MyFile/QQ_left*.js
 |http://pic.zaizai8.com/wap/zaidibu.js
@@ -239,15 +235,6 @@ http://bd3.shanba.com$script
 ||bfzdczdftcslvsczdec.js
 |http://m.yaoqi.la/templets/yaoqi/static/js/*
 |http://u15.info/ad/*
-|http://bdjs.*
-|http://bdjs1.*
-|http://bdjs2.*
-|http://bdad.$script
-|http://pb1.*$script
-|http://pb2.*$script
-|http://bd1.*$script
-|http://bd2.*$script
-|http://*/2e4d96dca598a574*.js
 |http://js.600ad.com$third-party
 |http://e.9dtiny.cn$third-party
 |http://www.mohecm.com$third-party
