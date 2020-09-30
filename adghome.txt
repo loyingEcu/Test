@@ -1,5 +1,5 @@
 !
-!     2020/09/22
+!     2020/09/30
 
 /^d[1-9]\.sina\.com\.cn/
 
@@ -13,6 +13,7 @@
 
 
 
+||lijunkai.com
 ||bdjs.chinabig.com.cn
 ||bd1.chinabig.com.cn
 ||sinawap.com
