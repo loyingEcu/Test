@@ -1,5 +1,5 @@
 !
-!     2020/09/30
+!     2020/10/05
 
 /^d[1-9]\.sina\.com\.cn/
 
@@ -12,7 +12,8 @@
 
 
 
-
+||ds.qqssly.com
+||ds2.qqssly.com
 ||zzpzero.com
 ||lijunkai.com
 ||bdjs.chinabig.com.cn
