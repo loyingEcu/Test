@@ -1,5 +1,5 @@
 !
-!     2020/10/05
+!     2020/10/10
 
 /^d[1-9]\.sina\.com\.cn/
 
@@ -12,6 +12,7 @@
 
 
 
+||wyxcb4.top
 ||ds.qqssly.com
 ||ds2.qqssly.com
 ||zzpzero.com
