@@ -1,5 +1,5 @@
 !
-!     2020/10/10
+!     2020/10/13
 
 /^d[1-9]\.sina\.com\.cn/
 
@@ -12,6 +12,8 @@
 
 
 
+||s11.zhangyumo.top
+||vivovip.mmszxc.top
 ||wyxcb4.top
 ||ds.qqssly.com
 ||ds2.qqssly.com
