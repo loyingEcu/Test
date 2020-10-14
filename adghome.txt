@@ -1,5 +1,5 @@
 !
-!     2020/10/13
+!     2020/10/14
 
 /^d[1-9]\.sina\.com\.cn/
 
@@ -12,6 +12,7 @@
 
 
 
+||pgdt.gtimg.cn
 ||public.wlbaike.com
 ||js.mosflower.cn
 ||downcdn.top
