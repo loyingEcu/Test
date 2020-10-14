@@ -1,4 +1,4 @@
-!!!    2020--09--30
+!!!    2020--10--14
 
 
 
@@ -1913,20 +1913,17 @@
 ||23.91.3.114^
 ||360safego.com^
 ||5y9nfpes.52pk.com^
-||6080yy.net^*0x
 ||614514.com^
 ||69.28.57.245^
 ||7xsf3h.com1.z0.glb.clouddn.com^
 ||8*.tianya.cn^
 ||801.tianyaui.com^
 ||8jkx.com^
-||98441.com^*gg
 ||a.baomihua.com^
 ||a.nowscore.com^
 ||a.xywy.com^
 ||a2.b310.com^
 ||a2.xinhuanet.com^
-||abbao.cn^*adblock
 ||abc.hkepc.com^
 ||abc.hkepc.net^
 ||acodes.b2b.cn^
@@ -1996,7 +1993,6 @@
 ||cdgfa.ifeng.com^
 ||cdn.wuyou.ca^
 ||chidir.com^
-||citysbs.com^*swf
 ||client.88tours.com^
 ||cmm.xmfish.com^
 ||cms.fx678.com^
@@ -2014,7 +2010,6 @@
 ||deliver.ifeng.com^
 ||delivery.playallvideos.com^
 ||delivery.wasu.cn^
-||dingniugu.com^*public.
 ||djs.baomihua.com^
 ||doubleclick.ctfile.com^
 ||dsp.ali213.net^
@@ -2030,9 +2025,7 @@
 ||ecmb.bdimg.com^
 ||emdcadvertise.eastmoney.com^
 ||erebor.douban.com^
-||fdc.com.cn^*adv
 ||ff.meikanguo.com^
-||firefoxchina.cn^*49560.
 ||free-cdn.oss-cn-shanghai.aliyuncs.com^
 ||fun.ynet.com^
 ||g.hsw.cn^
@@ -2069,7 +2062,6 @@
 ||guess.h.qhimg.com^
 ||hades.qyer.com^
 ||hiad.vmall.com^
-||hkitblog.com^*-banner
 ||hz.shouyoutv.com^
 ||hzhyhm.com^
 ||i.syasn.com^
@@ -2096,7 +2088,6 @@
 ||js.duotegame.com^
 ||js.hkslg520.com^
 ||jxad.jx163.com^
-||leju.com^*=abs.processReqChange
 ||libfre.obs.cn-east-3.myhuaweicloud.com^
 ||ll.gxsky.com^
 ||lxting.com^
@@ -2132,7 +2123,6 @@
 ||publish.ad.youth.cn^
 ||qcvf.ifeng.com^
 ||qd.x4399.com^
-||qqfby.com^*ad
 ||resource.baomihua.com^
 ||rh.qq.com^
 ||sam*.baby-kingdom.com^
@@ -2142,7 +2132,6 @@
 ||sgg.southcn.com^
 ||share.gzdsw.com^
 ||ssgg.chazidian.com^
-||ssnn.net^*-200-250.jpg
 ||ssp.hinet.net^
 ||ssp.kdnet.net^
 ||ssp.njxzwh.com^
@@ -2153,7 +2142,6 @@
 ||super.cat898.com^
 ||super.kdnet.net^
 ||synacast.com^
-||techweb.com.cn^*aliyun
 ||tf.360.cn^
 ||theta.sogoucdn.com^
 ||tk.504pk.com^
@@ -2168,9 +2156,7 @@
 ||untitled.dwstatic.com^
 ||up.hiao.com^
 ||vupload.duowan.com^
-||wallstcn.com^*-300x250.
 ||web.900.la^
-||wenkuxiazai.com^*reward
 ||wew.dushiwenxue.net^
 ||wowad.wow-classic.com^
 ||wuliao.epro.sogou.com^
@@ -2185,7 +2171,6 @@
 ||yt-adp.ws.126.net^
 ||yybx.oss-cn-hangzhou.aliyuncs.com^
 ||z.nowscore.com^
-||zhimg.com^*adx
 ||zt2088.com^
 ||ztyumn.ifeng.com^
 ||immedlinkum.info^
