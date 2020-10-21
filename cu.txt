@@ -58,9 +58,3 @@ bde4.com/js/play.v3.js$s@adTime=15@adTime=1@
 ||graph.qq.com$s@</html>@<script>document.getElementById('select_all').click();</script></html>@
 |http://www.360doc.com/content/$s@</body>@<script>document.body.oncopy=null;document.body.__defineSetter__("oncopy",function(){})</script></body>@
 http://www.fankes.com.cn/TMore/sendvip.php$s@3@1@
-||v.qq.com/*.html$s@</head>@<script>localStorage["txp-user-setting"] = JSON.stringify({"isSkipPrelude":1,"isUsePlaybackRate":1,"isUseFlash":0});</script></head>@
-||img.ithome.com/images/zt/*
-rmdown.com##img[src^="http"]
-rmdown.com$s@ads.js@null@
-rmdown.com$s@window.open@@
-
