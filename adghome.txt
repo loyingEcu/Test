@@ -1,5 +1,5 @@
 !
-!     2020/10/21
+!     2020/10/26
 
 /^d[1-9]\.sina\.com\.cn/
 
@@ -12,6 +12,8 @@
 
 
 
+||abc.zdfjas.top
+||abc.chaojixiaobaicai.club
 ||ad-survey.com
 ||n.2lian.com
 ||union.douhao.com
