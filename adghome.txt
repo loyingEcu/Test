@@ -12,6 +12,7 @@
 
 
 
+||theta.sogoucdn.com
 ||wuliao.epro.sogou.com
 ||abc.zdfjas.top
 ||abc.chaojixiaobaicai.club
