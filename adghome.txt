@@ -1,5 +1,5 @@
 !
-!     2020/10/26
+!     2020/11/1
 
 /^d[1-9]\.sina\.com\.cn/
 
@@ -12,6 +12,9 @@
 
 
 
+||lvnm.7j7jv5.cn
+||7kjiiu.cn
+||jd.open8.cn
 ||theta.sogoucdn.com
 ||wuliao.epro.sogou.com
 ||abc.zdfjas.top
