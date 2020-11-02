@@ -1,8 +1,9 @@
-!---------2010---10---30
+!-----------2020/11/2
 
 
 
-||sq85.press^
+||climbcoder.com^
+ubmcmm.baidustatic.com
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -185,8 +186,10 @@
 ||52zfl.com^
 ||550tg.com^
 ||5535aibo.com^
+||5783.org^
 ||57union.com^
 ||58.215.179.159^
+||58taopinhui.com^
 ||58xiangka.com^
 ||592man.com^
 ||593pi.cn^
@@ -485,6 +488,7 @@
 ||ci-web.cn^
 ||cj-cy.com^
 ||cjsdtj.com^
+||cke199.com^
 ||ckseeknew.com^
 ||claz.com.cn^
 ||clcassd.com^
@@ -1136,6 +1140,7 @@
 ||mindopu.com^
 ||mingboxieye.com^
 ||mingysh.com^
+||minwear.com.cn^
 ||minyaartcrafts.cn^
 ||mjx123.com^
 ||mkaqh.cn^
@@ -1207,6 +1212,7 @@
 ||nr1234.com^
 ||nterbx.com^
 ||ntxiangtai.com^
+||ntzfly.cn^
 ||nunc-china.com^
 ||nuonuo1.icu^
 ||nuxyz.cn^
@@ -1313,6 +1319,7 @@
 ||queene.cn^
 ||quw18.com^
 ||qvpublish.com^
+||qwfknhc.cn^
 ||qxfly.com^
 ||qxjdlf.com^
 ||qxxys.com^
@@ -1428,6 +1435,7 @@
 ||spcode.baidu.com^
 ||spectram.pro^
 ||spxnet.com^
+||sq85.press^
 ||sqext.com^
 ||sscefsol.com^
 ||ssdaili.com^
@@ -1862,6 +1870,7 @@
 ||yzygo.com^
 ||yzyrsw.com^
 ||yzytb.com^
+||zaitouwang.com^
 ||zantainet.com^
 ||zbetter.org^
 ||zcrtd.com^
@@ -2286,7 +2295,7 @@
 ||1017.cn^
 ||11.96131.com.cn^
 ||11.golang8.com^
-||111g.yiqig.cn^
+||11.yiqig.com^
 ||12.cookcai.com^
 ||1224.dxsbb.com^
 ||123456.asia^
@@ -2966,7 +2975,8 @@
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||toujing5.top^
+||toujing8.top^
+||ipdxwtn.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -3111,6 +3121,7 @@
 ||76xs.com^
 ||7ez4.cn^
 ||7ia9h.cn^
+||7j7jv5.cn^
 ||7m0hj.cn^
 ||7m307.cn^
 ||7n3e8o.com^
@@ -3860,6 +3871,7 @@
 ||j6yh5.xyz^
 ||j9wp6.cn^
 ||jacklm1.com^
+||jacklm2.com^
 ||jajattt.com^
 ||jbanb.com^
 ||jbbath.cn^
@@ -3903,6 +3915,7 @@
 ||jinxinyuan.cn^
 ||jioder3e.cn^
 ||jioeg.com^
+||jiudiandyw.com^
 ||jiujhzp.com^
 ||jiumishow.com^
 ||jiuwanzi.com^
@@ -3940,6 +3953,7 @@
 ||just9229.cn^
 ||justincao84.cn^
 ||juxilm.com^
+||juyour8.org^
 ||juyzr.com^
 ||jvyigg.biquge.lu^
 ||jvyigg.biqumo.com^
@@ -4101,6 +4115,7 @@
 ||mgsue.cn^
 ||mgzs.cdn.bcebos.com^
 ||mhdnspro.com^
+||mhi9da.cn^
 ||miaos11.com^
 ||micreative-china.cn^
 ||mindrook.com^
@@ -4271,6 +4286,7 @@
 ||pos68.cn^
 ||pougg.com^
 ||ppee.xyz^
+||pqezdo.cn^
 ||pqnlorg.cn^
 ||pqwtrq.xyz^
 ||prazpf.cn^
@@ -4556,6 +4572,7 @@
 ||toissue.cn^
 ||tongjiwo.com^
 ||toujing4.top^
+||toujing5.top^
 ||tozvhcq.cn^
 ||travel-together.cn^
 ||trhccn.cn^
@@ -4576,6 +4593,7 @@
 ||tymsyx.com^
 ||tyrghj.cn^
 ||tyyjzs.cn^
+||u05m.cn^
 ||u0r9.cn^
 ||u2c8.cn^
 ||uauwkfk.cn^
