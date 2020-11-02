@@ -1,5 +1,5 @@
 !
-!     2020/11/1
+!     2020/11/2
 
 /^d[1-9]\.sina\.com\.cn/
 
@@ -12,6 +12,8 @@
 
 
 
+||s.shengyaxd.com
+||aoyou4.top
 ||js.juyour8.org
 ||lvnm.7j7jv5.cn
 ||7kjiiu.cn
