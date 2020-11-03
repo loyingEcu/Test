@@ -1,5 +1,5 @@
 !
-!     2020/11/2
+!     2020/11/3
 
 /^d[1-9]\.sina\.com\.cn/
 
@@ -12,6 +12,11 @@
 
 
 
+||mipcache.bdstatic.com
+||cpu.baidu.com
+||qqt.zhw666.cn
+||svip.wxiansen.cn
+||gkjzta.game234.com  
 ||shengyaxd.com
 ||aoyou4.top
 ||js.juyour8.org
