@@ -1,5 +1,5 @@
 !
-!     2020/11/3
+!     2020/11/4
 
 /^d[1-9]\.sina\.com\.cn/
 
@@ -12,6 +12,7 @@
 
 
 
+||push2.eastmoney.com
 ||mipcache.bdstatic.com
 ||cpu.baidu.com
 ||qqt.zhw666.cn
