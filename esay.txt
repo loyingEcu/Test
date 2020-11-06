@@ -1,8 +1,9 @@
-!-----------2020/11/2
+! Version: 2020/11/6
 
 
-
-||climbcoder.com^
+||forever-k.com.cn^
+||fuzausb.top^
+||meituan.yoga^
 ubmcmm.baidustatic.com
 ||00-gov.cn^
 ||0024aaaa.com^
@@ -86,6 +87,7 @@ ubmcmm.baidustatic.com
 ||16k6.com^
 ||170yy.com^
 ||172.120.35.94^
+||172.247.15.58^
 ||174.139.53.195^
 ||175bar.com^
 ||176um.com^
@@ -176,6 +178,7 @@ ubmcmm.baidustatic.com
 ||51dmn.top^
 ||51fuliwang.cn^
 ||51jumintong.com^
+||51roadway.com^
 ||51sxzz.com^
 ||51xumei.com^
 ||5207470.com^
@@ -228,6 +231,7 @@ ubmcmm.baidustatic.com
 ||71sem.com^
 ||766ba.net^
 ||77417.cn^
+||7791.com.cn^
 ||77power.com^
 ||7891655.cn^
 ||7a096v.cn^
@@ -492,6 +496,7 @@ ubmcmm.baidustatic.com
 ||ckseeknew.com^
 ||claz.com.cn^
 ||clcassd.com^
+||climbcoder.com^
 ||cmaxisolation.com^
 ||cmslayue.com^
 ||cnbole.net^
@@ -687,6 +692,7 @@ ubmcmm.baidustatic.com
 ||fuguilm.com^
 ||fujianryt.com^
 ||fuxunb.com^
+||fuycai.com^
 ||fv99.com^
 ||fwqekk.top^
 ||fwt0.com^
@@ -1282,6 +1288,7 @@ ubmcmm.baidustatic.com
 ||qbyy010.com^
 ||qclcdn.cn^
 ||qdchunyu.com^
+||qdkzjdsb.cn^
 ||qdsfzz.cn^
 ||qevcxo.cn^
 ||qfs365.com^
@@ -1633,6 +1640,7 @@ ubmcmm.baidustatic.com
 ||wka8.com^
 ||wlkpa.cn^
 ||wndlkj.com^
+||wo19.top^
 ||wojiabaoye.com^
 ||wowips.com^
 ||wowostar.cn^
@@ -1655,6 +1663,7 @@ ubmcmm.baidustatic.com
 ||wwlolbs.com^
 ||www-sina-cn-com.com^
 ||wxbdfm.com^
+||wxiansen.cn^
 ||wxs666.cn^
 ||wxstatic.cn^
 ||wxxfqc.com^
@@ -1772,6 +1781,7 @@ ubmcmm.baidustatic.com
 ||xyaddby.com^
 ||xyadtlyy.com^
 ||xyadtlyya.cn^
+||xyadyzpsb.com^
 ||xycnz.com^
 ||xycnzz.com^
 ||xylmdm.top^
@@ -2051,8 +2061,6 @@ ubmcmm.baidustatic.com
 ||chidir.com^
 ||client.88tours.com^
 ||cmm.xmfish.com^
-||cms.fx678.com^
-||cms.fx678img.com^
 ||cp2.eastmoney.com^
 ||cpm.cm.kankan.com^
 ||d-test.39.net^
@@ -2067,6 +2075,7 @@ ubmcmm.baidustatic.com
 ||delivery.playallvideos.com^
 ||delivery.wasu.cn^
 ||djs.baomihua.com^
+||dms.fx678.com^
 ||doubleclick.ctfile.com^
 ||dsp.ali213.net^
 ||dup.baidustatic.com^
@@ -2975,8 +2984,6 @@ ubmcmm.baidustatic.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||toujing8.top^
-||ipdxwtn.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -3074,7 +3081,9 @@ ubmcmm.baidustatic.com
 ||4z5o27.cn^
 ||517kp.com^
 ||519397.com^
+||51dianji.cn^
 ||51fishplace.com^
+||51foodsafe.cn^
 ||51gpt.com^
 ||51posj.cn^
 ||51wxyx.cn^
@@ -3105,6 +3114,7 @@ ubmcmm.baidustatic.com
 ||66992.top^
 ||66993.top^
 ||66994.top^
+||66cn.com^
 ||6789.run^
 ||688ct.com^
 ||6945k6.cn^
@@ -3220,8 +3230,10 @@ ubmcmm.baidustatic.com
 ||aliyunp.xyz^
 ||allluck.cn^
 ||aly766.com^
+||am77p.cn^
 ||amghais.cn^
 ||amghmej.cn^
+||amghvzn.cn^
 ||anmeilai.net^
 ||anweigongsi.com^
 ||anyysz.com^
@@ -3250,6 +3262,7 @@ ubmcmm.baidustatic.com
 ||axuns.com^
 ||ayues.com^
 ||b0lc.cn^
+||b2b5.net^
 ||b54ah.cn^
 ||babalink.net^
 ||babalink.top^
@@ -3502,6 +3515,7 @@ ubmcmm.baidustatic.com
 ||diangezan.me^
 ||dianshihuanping.cn^
 ||dierqingchun.com^
+||dirbfm.cn^
 ||djhhy.com^
 ||dkmnn.top^
 ||dldsrs.com^
@@ -3619,6 +3633,7 @@ ubmcmm.baidustatic.com
 ||ftslkw.cn^
 ||fuhaimuye.cn^
 ||fuhuikang360.com^
+||fuligrs.cn^
 ||futengbao.com.cn^
 ||fuwosi.cn^
 ||fuxin-tech.com^
@@ -3682,6 +3697,7 @@ ubmcmm.baidustatic.com
 ||gotooback.com^
 ||gou1zhe.com^
 ||gqdvsvt.cn^
+||graintown.cn^
 ||gralfusnzpo003.top^
 ||gralfusnzpo004.top^
 ||gralfusnzpo006.top^
@@ -3725,6 +3741,7 @@ ubmcmm.baidustatic.com
 ||h5e6d5.xyz^
 ||h9wk2.cn^
 ||hainufamliy.top^
+||haiyinsiwang.com^
 ||hajuwang.cn^
 ||hanmiyong.com^
 ||hanqingstudio.com^
@@ -3818,6 +3835,7 @@ ubmcmm.baidustatic.com
 ||huoyiad1.cn^
 ||hwertd.xyz^
 ||hxiak.com^
+||hxsjxw.cn^
 ||hycfxdc.com^
 ||hyjyjc.com^
 ||hypzv.com^
@@ -3857,6 +3875,7 @@ ubmcmm.baidustatic.com
 ||intxt.cn^
 ||iohtmrp.cn^
 ||ipchinatelecom.com^
+||ipdxwtn.cn^
 ||irauz.com^
 ||irkuj.com^
 ||iruad.com^
@@ -3960,6 +3979,7 @@ ubmcmm.baidustatic.com
 ||jvyigg.zbzw.la^
 ||jwhfn.cn^
 ||jxbtl.com^
+||jxdzoy.cn^
 ||jxhcyc.com^
 ||jxinyue.top^
 ||jxmzyg.com^
@@ -3991,6 +4011,7 @@ ubmcmm.baidustatic.com
 ||kexwdvj.cn^
 ||kfuih.cn^
 ||kg962.cn^
+||kgfnhf.cn^
 ||khuoy.com^
 ||kid9.info^
 ||kjdw.com.cn^
@@ -4099,6 +4120,7 @@ ubmcmm.baidustatic.com
 ||matchjia.cn^
 ||maxoi.cn^
 ||mbusdw.cn^
+||mcjjibr.cn^
 ||mcninc.cn^
 ||mcteu.cn^
 ||mdcone.cn^
@@ -4133,6 +4155,7 @@ ubmcmm.baidustatic.com
 ||mmwdwg.cn^
 ||mnptinibfbv.com^
 ||monimoni.top^
+||moolkv.cn^
 ||morningpiggy.com^
 ||moshangflower.cn^
 ||mouaa.com^
@@ -4164,6 +4187,7 @@ ubmcmm.baidustatic.com
 ||najingyi.cn^
 ||nanjinglongyu.com^
 ||nanyangqiaoxiang.cn^
+||naolifanghealth.com^
 ||nashlin.top^
 ||nbhotpo.com^
 ||ncoyqc.com^
@@ -4573,6 +4597,7 @@ ubmcmm.baidustatic.com
 ||tongjiwo.com^
 ||toujing4.top^
 ||toujing5.top^
+||toujing8.top^
 ||tozvhcq.cn^
 ||travel-together.cn^
 ||trhccn.cn^
@@ -4639,6 +4664,7 @@ ubmcmm.baidustatic.com
 ||vdcfes.cn^
 ||ve6j.cn^
 ||vegoid.cn^
+||vejian.cn^
 ||vf5yb4.cn^
 ||vhhhkpf.cn^
 ||vichc.com^
@@ -4761,6 +4787,7 @@ ubmcmm.baidustatic.com
 ||xinqiannv.com^
 ||xinuocp666.com^
 ||xionghaobm.cn^
+||xixizaix.cn^
 ||xjtxcj.com^
 ||xk0x.cn^
 ||xkanf.com^
@@ -4972,6 +4999,7 @@ ubmcmm.baidustatic.com
 ||zmyuer.com^
 ||zopeynxv.top^
 ||zougg.com^
+||zp0737.com^
 ||zpyfsj.cn^
 ||zqwlkj.cn^
 ||zreder.com^
