@@ -1,0 +1,54 @@
+!  -----:  2020-11-14
+!腾讯课堂
+||imgcache.qq.com/open/qcloud/video/vcplayer/TcPlayer*.js$s@Shockwave Flash@GUNDANFLASH@
+!斗鱼视频h5
+!||sta-op.douyucdn.cn/front-publish/h5-vod-main-master/player_*$s@return!0}}return!1@return!0}}return!0@
+!||shark2.douyucdn.cn/front-publish/demand-master/js/author_*.js$s@return!0}}return!1@return!0}}return!0@
+!pptv开启H5
+!||player.aplus.pptv.com/jsplayer/pid/*.js$s@this.isSupportH5=!0@this.isSupportH5=!1@
+!||player.aplus.pptv.com/jsplayer/pid/*.js$s@playerClass="flash"@playerClass="h5"@
+!火狐芒果tv H5
+||s1.hitv.com/libs/*/*player.min.js*$s@Shockwave Flash@GUNDANFLASH@
+||mgtv.com/*$s@</head>@<script>'use strict';window.USER_H5_PLAYER = true</script></head>@
+||www.mgtv.com$s@window.isH5Player = false;@window.isH5Player = true;@
+!-----------------------------------------------------------------------------------------------------------
+|http://cf.qq.com/act/a20160405cftv/ntcls-live.shtml
+@@||cj.256.cc/m/js/Mbase.js
+@@|http://m.fmhua.com/js/b.js
+@@|http://m.fmhua.com/js/a.js
+@@||aliyun.com
+@@||dftoutiao.com
+@@|http://gg.58.com
+@@|http://syzs.qq.com/js/bannerData.js
+@@|http://www.yinyuetai.com/proment/get-play-medias?json
+!-------------------------------------分割线-----------------------------------------------
+bde4.com/js/play.v3.js$s@adTime=15@adTime=1@
+|http://api.balebalebale.com/api/v1/ad/*
+|http://xiaobai.ruanjiandown.com:7457/share/*.mp4$domain=windows7en.com
+|http://*_*@*.exe
+|http://*@*_*.exe
+||acs.youku.com/h5/mtop.youku.play.ups.appinfo.get/*$s@"ad"@""@
+||ups.youku.com/ups/get.json?*$s@"ad"@""@
+||cupid.iqiyi.com/show2*a=qc_100001_*$s@"a":[{"ds":?,"p":??,*:[]}],"inv":@"a":[]}],"inv":@
+||pvcdban.com/manhua/2016/0907/104_1.html
+||pvcdban.com$s@showcloneshengxiaon@@
+||pvcdban.com/js/*.js
+||da.mgtv.com/*/player$s@<Ad@<noAd@
+||m.ybdu.com/wap/common.js$s@if (n>3){*else{*else{*else{*else{*function home_bottom(){}@@
+||client.vgabc.com$s@show_time":"6"@show_time":"0"@
+||d3m3oe9guvnvvk.cloudfront.net/*$s@"canLook":false@"canLook":true@
+||d3m3oe9guvnvvk.cloudfront.net/*$s@adsConfig@null@
+||d3m3oe9guvnvvk.cloudfront.net/*$s@"restCount":*,@"restCount":999,@
+||api.fastdown666.com$s@"url":"http://dl.fastdown666.com/download"@@
+||api.fastdown666.com/*$s@"task_used":*,@"task_used":999,@
+||api.fastdown666.com/*$s@"task_total":*,@"task_total":999,@
+||api.fastdown666.com/*$s@"invite_count":*,@"invite_count":999,@
+||api.fastdown666.com$s@"speed_limit":200,@"speed_limit":9999999,@
+||api.fastdown666.com$s@"if_acc":0@"if_acc":1@
+||xiguaapi.czapp1.xyz/index/my/index/?userdata*$s@"quanxian":null,@"quanxian":vip,@
+||xiguaapi.czapp1.xyz/*$s@app":{"update":"yes"@app":{"update":"no"@
+||115.159.38.169/user/*$s@remainday":"*"@remainday":"999"@
+||bing.com/translator$s@</head>@</head><script>document.cookie = "destLang=zh-CHS";</script>
+||graph.qq.com$s@</html>@<script>document.getElementById('select_all').click();</script></html>@
+|http://www.360doc.com/content/$s@</body>@<script>document.body.oncopy=null;document.body.__defineSetter__("oncopy",function(){})</script></body>@
+http://www.fankes.com.cn/TMore/sendvip.php$s@3@1@
