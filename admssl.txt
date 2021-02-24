@@ -1,0 +1,9 @@
+S:iku.youku.com
+S:drm-license.youku.com
+S:t.captcha.qq.com
+S:aegis.qq.com
+S:pingfore.qq.com
+S:mmstat.com
+S:alicdn.com
+S:gitee.com
+S:graph.qq.com
