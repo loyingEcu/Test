@@ -1,5 +1,5 @@
 !
-!     2020/11/4
+!     2021/2/24
 
 /^d[1-9]\.sina\.com\.cn/
 
@@ -12,8 +12,35 @@
 
 
 
+
+||icws.jb51.net
+||ads.tencent.com
+||aiclk.com
+||qfy.innotechx.com
+||ctobsnssdk.com
+||mobads.baidu.com
+||e.kuaishou.com
+||astertour.fun
+||d18t35yyry2k49.cloudfront.net
+||ponchowafesargb.com
+||htamaster.com
+||ad.henbucuo.net
+||galaxy.bjcathay.com
+||mintegral.com
+||oceanengine.com
+||pangle.cn
+||toujing*.top
+||wwads.cn
+||goodads.cn
+||googleads.g.doubleclick.net
+||ads.mopub.com
+||s.zyrnn.com
+||govzhejiang.cn
+||mao.onesg.cn
+||www1.elecfans.com
+||bd-un1.wanglv.com
+||bd-un2.wanglv.com
 ||push2.eastmoney.com
-||mipcache.bdstatic.com
 ||cpu.baidu.com
 ||qqt.zhw666.cn
 ||svip.wxiansen.cn
@@ -190,6 +217,7 @@
 ||www.66992.top
 ||pc.gutouwang.net
 ||xiongzhangad.com
+||xn--xhq9mt12cf5v.xn--io0a7i
 ||xn--2qux23c9ziyrq.club
 ||xn--2qu92fhtx4ff.icu
 ||xn--2qu92fhtx4ff.site
