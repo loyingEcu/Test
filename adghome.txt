@@ -1,5 +1,5 @@
 !
-!     2021/2/24
+!     2021/3/14
 
 /^d[1-9]\.sina\.com\.cn/
 
@@ -13,6 +13,12 @@
 
 
 
+||zhihu-web-analytics.zhihu.com
+||sugar.zhihu.com
+||lc-push.zhihu.com
+||appcloud2.in.zhihu.com
+||appcloud2.zhihu.com
+||event.zhihu.com
 ||icws.jb51.net
 ||ads.tencent.com
 ||aiclk.com
